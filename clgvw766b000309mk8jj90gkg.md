@@ -22,17 +22,17 @@ tags: music, nature
 ## 彼方 (カナタKanata)
 
 這張專輯由 baobab 和 haruka nakamura 創作，描繪著大自然的故事：  
-從海洋至山林，由夜晚至黎明，  
+從海洋到山林，由夜晚至黎明；  
 那些拂曉時刻、綠樹間的光影、海面上的夕陽，還有夜晚樹木的剪影。
 
 透過歌聲、吉他、小提琴、古樂器 (period Instruments)、打擊樂以及鋼琴，  
 演奏出自然而流動的旋律，將美麗的景色帶到你的眼前。
 
-### Youtube
+### 聆聽整張專輯：Youtube
 
 %[https://youtu.be/dne-3F53z4k] 
 
-### Spotify
+### 聆聽整張專輯：Spotify
 
 %[https://open.spotify.com/album/1wujtaJcmmDA6QKNMIdhWD?si=RIagrAenQ6-SD2ZbCzuqFw] 
 
@@ -43,11 +43,11 @@ tags: music, nature
 我是從他們 Light of Dance 這首歌開始認識他們的，  
 原版 MV 和 Live 版本的 MV 都好美。
 
-### 原版 MV
+### Light of Dance 原版 MV
 
 %[https://youtu.be/UCqQWuNoeQ8] 
 
-### Live 版本
+### Light of Dance Live 版本
 
 %[https://youtu.be/TLv-dwGVvDg] 
 
