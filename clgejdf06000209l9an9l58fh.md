@@ -8,7 +8,7 @@ seoDescription: "如果你也喜歡邊聽 YouTube 上的 lofi girl 邊工作，
 都是 lofi 風格加上對應主題的白噪音，主題分別是：校園、春天烹飪、森林露營、居家辦公。"
 datePublished: Thu Apr 13 2023 03:03:48 GMT+0000 (Coordinated Universal Time)
 cuid: clgejdf06000209l9an9l58fh
-slug: uniqlo-4-bgmlifewear-music
+slug: uniqlo-bgm-lifewear-music
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1681370761105/36a3d81f-950f-48e4-b2b3-c1642cd72cd7.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1681370800151/0a803d29-e551-48cf-b63f-c55518859301.png
 tags: music, lofi
