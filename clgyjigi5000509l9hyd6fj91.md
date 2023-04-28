@@ -37,11 +37,7 @@ tags: design, free, marriage
 
 ---
 
-那麼，就祝福大家新婚快樂囉！❤️
-
 > 下載連結 👉 🤍 [DOWNLOAD HERE](https://drive.google.com/file/d/1quZFqvtf101sRdsCwQc8r5ffvaMyZU5N/view?usp=share_link) 🤍
-
----
 
 #### 🤍 使用規範
 
@@ -52,11 +48,22 @@ tags: design, free, marriage
 
 ---
 
-![Photo by James Bold on Unsplash](https://cdn.hashnode.com/res/hashnode/image/upload/v1682564040479/2d8711d9-9bdd-472c-8c29-74cc38aa2bb6.jpeg align="center")
+#### ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
 
-`Photo by James Bold on Unsplash`
+如果你喜歡我的創作，還想看看其他有趣的分享與日常，  
+可以追蹤我的 IG → [@im1010ioio • Instagram 相片與影片](https://www.instagram.com/im1010ioio/)
+
+或者是，  
+送杯珍奶鼓勵我 → [🧋https://](https://im1010ioio.bobaboba.me/)[im1010ioio.bobaboba.me/](http://im1010ioio.bobaboba.me/)
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1682564435616/c15640fc-6cee-4c33-a898-9cd6820f165a.png align="center")
+
+謝謝你們看到這裡！  
+那麼，就祝福大家新婚快樂囉！❤️
 
 ---
+
+![Photo by James Bold on Unsplash](https://cdn.hashnode.com/res/hashnode/image/upload/v1682564040479/2d8711d9-9bdd-472c-8c29-74cc38aa2bb6.jpeg align="center")
 
 另外，結婚登記的小提醒：
 
@@ -90,18 +97,3 @@ tags: design, free, marriage
 * [Simple Homes Mockup Free Scenes](https://www.mockupcloud.com/free/simple-homes-mockup-free-scenes)
     
 * [Sunny poster frame mockup](https://mockups-design.com/sunny-poster-frame-mockup/)
-    
-
----
-
-#### ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
-
-如果你喜歡我的創作，還想看看其他有趣的分享與日常，  
-可以追蹤我的 IG → [@im1010ioio • Instagram 相片與影片](https://www.instagram.com/im1010ioio/)
-
-或者是，  
-送杯珍奶鼓勵我 → [🧋https://](https://im1010ioio.bobaboba.me/)[im1010ioio.bobaboba.me/](http://im1010ioio.bobaboba.me/)
-
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1682564435616/c15640fc-6cee-4c33-a898-9cd6820f165a.png align="center")
-
-謝謝你們看到這裡！新婚順利喔！🥰
