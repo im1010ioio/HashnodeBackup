@@ -47,10 +47,12 @@ tags: music, lofi
 
 ---
 
-### 贊助
+#### ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
 
-如果你喜歡我的創作，送杯珍奶鼓勵我，謝謝你！🥰
+如果你喜歡我的創作，還想看看其他有趣的分享與日常，  
+可以追蹤我的 IG → [@im1010ioio • Instagram 相片與影片](https://www.instagram.com/im1010ioio/)
 
-🧋[https://](https://im1010ioio.bobaboba.me/)[im1010ioio.bobaboba.me/](http://im1010ioio.bobaboba.me/)
+或者是，  
+送杯珍奶鼓勵我 → [🧋https://](https://im1010ioio.bobaboba.me/)[im1010ioio.bobaboba.me/](http://im1010ioio.bobaboba.me/)
 
-![贊助](https://cdn.hashnode.com/res/hashnode/image/upload/v1681441046427/Yx2Axjbv7.png align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1682564435616/c15640fc-6cee-4c33-a898-9cd6820f165a.png align="center")
