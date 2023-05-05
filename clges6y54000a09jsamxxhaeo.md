@@ -9,8 +9,8 @@ seoDescription: "有時候看電腦很久，覺得眼睛看 code 花花的，
 datePublished: Thu Apr 13 2023 07:10:43 GMT+0000 (Coordinated Universal Time)
 cuid: clges6y54000a09jsamxxhaeo
 slug: 10-useful-settings-plugins-for-vs-code
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1681370308373/42cc2bc4-9b4e-4b26-9ce0-e0e0e457991e.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1681370337341/3832d649-ffa6-452a-bd66-2d2908cb9561.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1683258477050/80878be8-3da8-4d87-8f51-7171aadb7ece.webp
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1683258489715/001352cb-b2bb-44de-8513-829fed67d166.webp
 tags: vscode, vs-code, vscode-extensions
 
 ---
@@ -25,7 +25,7 @@ tags: vscode, vs-code, vscode-extensions
 
 ### **1.** 主題：[**Glacier Theme**](https://marketplace.visualstudio.com/items?itemName=Tyriar.theme-glacier)
 
-![https://ithelp.ithome.com.tw/upload/images/20221115/20103650SffoqDwGW1.png](https://ithelp.ithome.com.tw/upload/images/20221115/20103650SffoqDwGW1.png align="left")
+![VS Code 主題 Glacier Theme](https://cdn.hashnode.com/res/hashnode/image/upload/v1683258552493/9b9fe9d0-ec53-499e-b9aa-0083bd6e20b1.png align="left")
 
 對比度高，又不會刺眼，我滿喜歡的。
 
@@ -33,9 +33,9 @@ tags: vscode, vs-code, vscode-extensions
 
 ### **2.** 主題：[**Material Icon Theme**](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
-![https://ithelp.ithome.com.tw/upload/images/20221115/20103650Qqfg9aAcrK.png](https://ithelp.ithome.com.tw/upload/images/20221115/20103650Qqfg9aAcrK.png align="left")
+![VS Code icon 主題 Material Icon Theme](https://cdn.hashnode.com/res/hashnode/image/upload/v1683258597117/c7be2ebe-c24b-4d83-99c3-1db10cd84f18.png align="center")
 
-![https://ithelp.ithome.com.tw/upload/images/20221115/20103650TjD1sxvyAb.png](https://ithelp.ithome.com.tw/upload/images/20221115/20103650TjD1sxvyAb.png align="left")
+![VS Code icon 主題 Material Icon Theme](https://cdn.hashnode.com/res/hashnode/image/upload/v1683258633866/f0bd403b-9ca1-47b3-b8e0-af39c3912978.png align="center")
 
 圖案很多種，資料夾也有，能想到的幾乎都有。 而且每個對比度也夠高，也好看，我很喜歡。
 
@@ -43,15 +43,15 @@ tags: vscode, vs-code, vscode-extensions
 
 ### **3.** 字體：[**Source Code Pro**](https://github.com/adobe-fonts/source-code-pro)
 
-![https://ithelp.ithome.com.tw/upload/images/20221115/20103650OtbAjKwGUW.png](https://ithelp.ithome.com.tw/upload/images/20221115/20103650OtbAjKwGUW.png align="left")
+![Coding font 寫程式字體推薦 Source Code Pro](https://cdn.hashnode.com/res/hashnode/image/upload/v1683258659592/ba301c0b-a2ca-4ddf-aa32-e15330b5ab43.png align="center")
 
-是 Adobe 開發的開源等寬字體。 我覺得簡單好看，有點可愛，Regular 的粗細適中。
+是 Adobe 開發的開源等寬字體。 我覺得簡單好看，Regular 的粗細適中。
 
 ---
 
 ### **4.** 套件：[**indent-rainbow**](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
 
-![https://ithelp.ithome.com.tw/upload/images/20221115/20103650bOHxGqElBr.png](https://ithelp.ithome.com.tw/upload/images/20221115/20103650bOHxGqElBr.png align="left")
+![VS code 套件 indent-rainbow](https://cdn.hashnode.com/res/hashnode/image/upload/v1683258710713/2ad94c41-0cf1-454c-ba83-4629ab51193c.png align="left")
 
 有時候 code 很長的時候（尤其是 Html），真的看得非常眼花，  
 這個套件能幫助你把縮排變成彩虹，幫助非常大！
@@ -60,7 +60,7 @@ tags: vscode, vs-code, vscode-extensions
 
 ### **5.** 套件：[**Better Comments**](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
 
-![https://ithelp.ithome.com.tw/upload/images/20221115/20103650XhIJAcLNh3.png](https://ithelp.ithome.com.tw/upload/images/20221115/20103650XhIJAcLNh3.png align="left")
+![VS Code 套件推薦 Better Comments](https://cdn.hashnode.com/res/hashnode/image/upload/v1683258766352/506680cc-7eeb-481e-b7e3-4725fec0b5de.png align="left")
 
 針對常見的註解寫法，有不同顏色標示， 還能透過設定檔設定更多的分類。 也滿好用的。
 
@@ -68,7 +68,7 @@ tags: vscode, vs-code, vscode-extensions
 
 ### **6.** 套件：[**TODO Highlight**](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
 
-![https://ithelp.ithome.com.tw/upload/images/20221115/20103650BN1VhDftCT.jpg](https://ithelp.ithome.com.tw/upload/images/20221115/20103650BN1VhDftCT.jpg align="left")
+![VS code 套件推薦 TODO Highlight](https://cdn.hashnode.com/res/hashnode/image/upload/v1683258799812/9309ddfb-1047-41a6-bf56-4150e05dfa32.jpeg align="left")
 
 針對常見的註解寫法，會變成色塊的方式顯示。 不過如果和 Better Comments 混用， TODO 會變成橘色字橘色背景，反而不明顯。 建議可以擇一使用。
 
@@ -76,7 +76,7 @@ tags: vscode, vs-code, vscode-extensions
 
 ### **7.** 套件：[**Todo Tree**](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
 
-![https://ithelp.ithome.com.tw/upload/images/20230407/201036504DBUdG38d1.png](https://ithelp.ithome.com.tw/upload/images/20230407/201036504DBUdG38d1.png align="left")
+![VS code 套件推薦 Todo Tree](https://cdn.hashnode.com/res/hashnode/image/upload/v1683258841786/ce4334d0-9be6-4b2c-b935-b9d8b11d14bf.png align="center")
 
 當 TODO 註解散落在各個檔案中，只能使用全域搜尋一個個找嗎？ 不，有了 Todo Tree 後，它會幫你按照資料夾分類，列出來。 也很實用喔！
 
@@ -84,11 +84,12 @@ tags: vscode, vs-code, vscode-extensions
 
 ### **8.** 套件：[**Color Highlight**](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
 
-![https://ithelp.ithome.com.tw/upload/images/20221115/20103650sAtGghOTzF.png](https://ithelp.ithome.com.tw/upload/images/20221115/20103650sAtGghOTzF.png align="left")
+![VS code 套件推薦 Color Highlight](https://cdn.hashnode.com/res/hashnode/image/upload/v1683258874936/91a937a2-e292-4ddf-a1c0-ac300f0f57d2.png align="center")
 
-使用後 CSS 中的顏色會直接顯示為該顏色的色塊，滿直觀的。 定義為 SCSS 變數後也會顯示顏色，推！
+使用後 CSS 中的顏色會直接顯示為該顏色的色塊，滿直觀的。  
+定義為 SCSS 變數後也會顯示顏色，推！
 
-![https://ithelp.ithome.com.tw/upload/images/20221115/201036503ClB2A8WWm.jpg](https://ithelp.ithome.com.tw/upload/images/20221115/201036503ClB2A8WWm.jpg align="left")
+![VS code 套件推薦 Color Highlight](https://cdn.hashnode.com/res/hashnode/image/upload/v1683258907811/b4d044cb-5fa8-47b5-988f-22e7d8e13dc4.jpeg align="left")
 
 點擊前方的小色塊還能直接改顏色，只不過我通常不會這麼用。
 
@@ -96,7 +97,7 @@ tags: vscode, vs-code, vscode-extensions
 
 ### **9.** 套件：[**Code Spell Checker**](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
 
-![https://ithelp.ithome.com.tw/upload/images/20230412/20103650mq2jGhDP9f.png](https://ithelp.ithome.com.tw/upload/images/20230412/20103650mq2jGhDP9f.png align="left")
+![VS code 套件推薦 Code Spell Checker](https://cdn.hashnode.com/res/hashnode/image/upload/v1683258929588/e1699342-2235-4276-a849-ed753467449a.png align="left")
 
 有了這個套件後，就不用擔心打字時手殘命名拼錯字， 可以避免掉因錯字而找不到該變數或 function，然後 debug 困難的情況。
 
@@ -106,10 +107,9 @@ tags: vscode, vs-code, vscode-extensions
 
 ### **10.** 套件：[**Inline fold**](https://marketplace.visualstudio.com/items?itemName=moalamri.inline-fold)
 
-![https://ithelp.ithome.com.tw/upload/images/20221117/20103650IleutqQWWa.jpg](https://ithelp.ithome.com.tw/upload/images/20221117/20103650IleutqQWWa.jpg align="left")
+![VS code 套件推薦 Inline fold](https://cdn.hashnode.com/res/hashnode/image/upload/v1683258977435/5390cc1d-a3ac-408f-8af9-2dd9d958bc35.jpeg align="center")
 
-這個套件使用後能夠把你的 class name 縮起來，畫面變得清爽許多！
-
+這個套件使用後能夠把你的 class name 縮起來，畫面變得清爽許多！  
 預設是折疊起 class，好像 svg 也能折疊起來， 不過我還沒有試用過。
 
 > *後記：這有個致命缺點，在編輯 vue* `v-bind:class` *一直開開合合，其實有一點不便。*  
@@ -123,9 +123,9 @@ tags: vscode, vs-code, vscode-extensions
 
 另外，我是使用 Mac， 我有把 VS Code 的 Terminal 改成 iTerm APP。
 
-![https://ithelp.ithome.com.tw/upload/images/20221117/20103650xFf6iDd5QG.png](https://ithelp.ithome.com.tw/upload/images/20221117/20103650xFf6iDd5QG.png align="left")
+![VS code 套用 Mac iTerm Terminal 介面設定](https://cdn.hashnode.com/res/hashnode/image/upload/v1683259027374/abd168e5-e36e-499e-86b7-fe611ccddf15.png align="center")
 
-因為我的 iTerm 有改過樣式，  
+而我的 iTerm 有改過樣式，  
 所以 VS Code 的 Terminal 也一起有客製的樣式啦！(開心)
 
 分享我之前看過的教學文給大家：
@@ -148,4 +148,4 @@ tags: vscode, vs-code, vscode-extensions
 
 🧋[https://](https://im1010ioio.bobaboba.me/)[im1010ioio.bobaboba.me/](http://im1010ioio.bobaboba.me/)
 
-![贊助](https://cdn.hashnode.com/res/hashnode/image/upload/v1681441046427/Yx2Axjbv7.png align="left")
+![Eva Chen 如果你喜歡我的創作，送杯珍奶鼓勵我](https://cdn.hashnode.com/res/hashnode/image/upload/v1683259103778/9f64933a-bb03-4a97-9f5e-b2b834eaf746.webp align="center")
