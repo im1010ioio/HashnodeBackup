@@ -19,7 +19,7 @@ tags: animal-crossing, acnh, princess-maker, 44gc44gk5qou, 5yuv54mp5qou5yl5pyd
 ### 𓇬 美少女夢工場 2 代的特色
 
 美少女夢工場 2 代，被譽為養成遊戲的開端與經典之作。  
-現在復刻版在 [Steam 上](https://store.steampowered.com/app/523000/Princess_Maker_2_Refine/)還玩得的喔！
+現在復刻版在 [Steam 上](https://store.steampowered.com/app/523000/Princess_Maker_2_Refine/)還玩得到的喔！
 
 ![美少女夢工場 2 代](https://cdn.hashnode.com/res/hashnode/image/upload/v1683685416057/0169a8e5-1387-4755-9bda-06e327f42cac.jpeg align="center")
 
