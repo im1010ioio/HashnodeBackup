@@ -37,7 +37,8 @@ tags: vscode, vs-code, vscode-extensions
 
 ![VS Code icon 主題 Material Icon Theme](https://cdn.hashnode.com/res/hashnode/image/upload/v1683258633866/f0bd403b-9ca1-47b3-b8e0-af39c3912978.png align="center")
 
-圖案很多種，資料夾也有，能想到的幾乎都有。 而且每個對比度也夠高，也好看，我很喜歡。
+圖案很多種，資料夾也有，能想到的幾乎都有。  
+而且每個對比度也夠高，也好看，我很喜歡。
 
 ---
 
