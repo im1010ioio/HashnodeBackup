@@ -107,7 +107,9 @@ tags: vscode, vs-code, vscode-extensions
 
 有了這個套件後，就不用擔心打字時手殘命名拼錯字， 可以避免掉因錯字而找不到該變數或 function，然後 debug 困難的情況。
 
-它會幫你將錯字標示出來提醒你， 例如圖片中的 userInfomation 應該是 userInfo`r`mation。 推薦！
+它會幫你將錯字標示出來提醒你，  
+例如圖片中的 userInfomation 應該是 userInfo`r`mation。  
+推薦！
 
 ---
 
