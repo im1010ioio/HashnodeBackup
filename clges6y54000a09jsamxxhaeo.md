@@ -63,7 +63,8 @@ tags: vscode, vs-code, vscode-extensions
 
 ![VS Code 套件推薦 Better Comments](https://cdn.hashnode.com/res/hashnode/image/upload/v1683258766352/506680cc-7eeb-481e-b7e3-4725fec0b5de.png align="left")
 
-針對常見的註解寫法，有不同顏色標示， 還能透過設定檔設定更多的分類。 也滿好用的。
+針對常見的註解寫法，有不同顏色標示， 還能透過設定檔設定更多的分類。  
+也滿好用的。
 
 ---
 
@@ -71,7 +72,9 @@ tags: vscode, vs-code, vscode-extensions
 
 ![VS code 套件推薦 TODO Highlight](https://cdn.hashnode.com/res/hashnode/image/upload/v1683258799812/9309ddfb-1047-41a6-bf56-4150e05dfa32.jpeg align="left")
 
-針對常見的註解寫法，會變成色塊的方式顯示。 不過如果和 Better Comments 混用， TODO 會變成橘色字橘色背景，反而不明顯。 建議可以擇一使用。
+針對常見的註解寫法，會變成色塊的方式顯示。  
+不過如果和 Better Comments 混用， TODO 會變成橘色字橘色背景，反而不明顯。  
+建議可以擇一使用。
 
 ---
 
@@ -79,7 +82,9 @@ tags: vscode, vs-code, vscode-extensions
 
 ![VS code 套件推薦 Todo Tree](https://cdn.hashnode.com/res/hashnode/image/upload/v1683258841786/ce4334d0-9be6-4b2c-b935-b9d8b11d14bf.png align="center")
 
-當 TODO 註解散落在各個檔案中，只能使用全域搜尋一個個找嗎？ 不，有了 Todo Tree 後，它會幫你按照資料夾分類，列出來。 也很實用喔！
+當 TODO 註解散落在各個檔案中，只能使用全域搜尋一個個找嗎？  
+不，有了 Todo Tree 後，它會幫你按照資料夾分類，列出來。  
+也很實用喔！
 
 ---
 
