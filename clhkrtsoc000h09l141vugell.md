@@ -57,8 +57,6 @@ tags: animal-crossing, acnh, princess-maker, 44gc44gk5qou, 5yuv54mp5qou5yl5pyd
 
 （雖然後來停掉了任天堂online，但是應該還可以下載吧）
 
-👉其他的動森創作 → [月亮曬貓咪 | Nook Store](https://nookstore.com.tw/users/im1010ioio)
-
 ---
 
 #### ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
