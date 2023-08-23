@@ -1,6 +1,6 @@
 ---
-title: "動物森友會，服裝設計分享：美少女夢工場 3 代 Cosplay，咖啡色古典綠寶石小洋裝"
-seoTitle: "動物森友會，服裝設計分享：美少女夢工場 3 代 Cosplay，咖啡色古典綠寶石小洋裝"
+title: "動物森友會，服裝設計分享：美少女夢工場 3 代，咖啡色古典綠寶石小洋裝"
+seoTitle: "動物森友會，服裝設計分享：美少女夢工場 3 代，咖啡色古典綠寶石小洋裝"
 seoDescription: "這系列來到我最喜歡的美少女夢工場 3 代了！劇情方面更多細節，遊戲體驗更豐富完整了。這一代的服裝特色是有著綠寶石、繫蝴蝶結的位置在腰部，還有背後尖尖的領子。"
 datePublished: Tue Aug 22 2023 16:13:47 GMT+0000 (Coordinated Universal Time)
 cuid: cllmi9xq6000409mtgbpy7jzy
