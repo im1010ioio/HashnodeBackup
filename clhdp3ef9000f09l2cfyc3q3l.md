@@ -1,6 +1,6 @@
 ---
-title: "動物森友會，服裝設計分享：美少女夢工場 1 代 Cosplay，野外探險的小洋裝"
-seoTitle: "動物森友會，服裝設計分享：美少女夢工場 1 代 Cosplay，野外探險的小洋裝"
+title: "動物森友會，服裝設計分享：美少女夢工場 1 代，野外探險的小洋裝"
+seoTitle: "動物森友會，服裝設計分享：美少女夢工場 1 代，野外探險的小洋裝"
 seoDescription: "我在動森裡畫的衣服大多是童年回憶，因為我想現在當紅的大作一定都有人畫了，所以不如我就把童年記憶復刻下來吧！首 po 是美少女夢工場 1 代，雖然我沒有玩過這一代，是 DOS 的遊戲。"
 datePublished: Sun May 07 2023 17:35:55 GMT+0000 (Coordinated Universal Time)
 cuid: clhdp3ef9000f09l2cfyc3q3l
