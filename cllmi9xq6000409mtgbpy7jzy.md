@@ -5,8 +5,8 @@ seoDescription: "這系列來到我最喜歡的美少女夢工場 3 代了！劇
 datePublished: Tue Aug 22 2023 16:13:47 GMT+0000 (Coordinated Universal Time)
 cuid: cllmi9xq6000409mtgbpy7jzy
 slug: animal-crossing-princess-maker-3
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1691054986153/43d8099d-365d-4854-afba-5918d2638f3e.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1692720329142/b1217532-759a-4733-a53b-7f1930c1dccd.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1692759523268/2d69f067-0fc8-470d-9de6-bc2518de6ce3.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1692759535647/6fcd4970-2b83-4c2b-ba38-ef10efa75d5d.png
 tags: animal-crossing, acnh, princess-maker, 44gc44gk5qou, 5yuv54mp5qou5yl5pyd
 
 ---
