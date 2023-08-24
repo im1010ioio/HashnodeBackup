@@ -27,7 +27,7 @@ tags: ai, blogging, chatgpt, vuepress
 
 #### 儲存格式
 
-不過，以防萬一未來要更新，所以我希望把文章存成 markdown 格式，除了很簡單學習外，也有越來越多文章編輯器是使用這個格式，例如：Notion、Bear、Hackmd 等都是以 markdown 為基底。未來要請爸爸更新，應該不是很難，而且他以前有寫程式（雖然是很久以前的 DOS 系統）。
+不過，以防萬一未來要更新，所以我希望把文章存成 markdown 格式，除了很簡單學習外，也有越來越多文章編輯器是使用這個格式，例如：Notion、Bear、Hackmd 等都是以 markdown 為基底。未來要請爸爸更新，應該不是很難，而且他以前有寫過程式（雖然是很久以前的 DOS 系統）。
 
 而使用 markdown 建立部落格有很多方式，查了一下，有 Jekyll、Hugo、Hexo、Gatsby、VuePress 等等。因為在工作時，有碰過一點 Vue，所以想說試試看 VuePress。結果，找到了一個 VuePress 的套件：[VuePress Theme Hope](https://theme-hope.vuejs.press/zh/)（雖然說他還在 beta 中），基本上照著他的步驟做，就能建出一個部落格了，搜尋、分類、SEO 都有考慮到，居然一行 code 都沒寫。🥹
 
