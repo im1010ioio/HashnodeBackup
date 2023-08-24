@@ -58,7 +58,8 @@ tags: blog, blogging, 55m75bgx, 54is5bgx
 
 #### 關於開發過程
 
-詳細的開發過程在下一篇文章：
+> 詳細的開發過程在下一篇文章：  
+> [用 ChatGPT 部落格搬家：101上山走走 (Xuite 部落格)](https://im1010ioio.hashnode.dev/chatgpt-xuite-blog-1013399)
 
 ---
 
