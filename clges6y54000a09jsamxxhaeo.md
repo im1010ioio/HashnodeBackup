@@ -1,5 +1,5 @@
 ---
-title: "10 個 VS Code 設定及套件推薦：色彩、icon 主題、字體、註解、防錯標示，外加 Mac Terminal 設定"
+title: "11 個 VS Code 設定及套件推薦：色彩、icon 主題、字體、註解、防錯標示，外加 Mac Terminal 設定"
 seoTitle: "10 個 VS Code 設定及套件推薦：色彩、icon 主題、字體、註解、防錯標示，Mac Terminal 設定"
 seoDescription: "有時候看電腦很久，覺得眼睛看 code 花花的，
 這時候好的環境配置就很重要，顏色對比度適中，會比較好看 code，提升工作效率。
@@ -113,7 +113,17 @@ tags: vscode, vs-code, vscode-extensions
 
 ---
 
-### **10.** 套件：[**Inline fold**](https://marketplace.visualstudio.com/items?itemName=moalamri.inline-fold)
+### **10.** 套件：[**Chinese Lorem**](https://marketplace.visualstudio.com/items?itemName=KevinYang.ctlorem)
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1692930627963/da8299d1-4450-48f5-9722-632fe7574d02.png align="center")
+
+在切版時有的時候需要假字先填充內容，接近完成時的樣貌。VsCode 內建有英文的 lorem，而這個套件可以產生中文版的假字，在 HTML 的格式內，輸入 `ctlorem` 按下 `tab` 或是 `enter` 即可產生 128 個字的中文假文。
+
+我公司是使用 .Net Core 開發， 所以 `.cshtml` 要能夠運作的話， 要另外將 `aspnetcorerazor` 設定到支援的語言中。
+
+---
+
+### **11.** 套件：[**Inline fold**](https://marketplace.visualstudio.com/items?itemName=moalamri.inline-fold)
 
 ![VS code 套件推薦 Inline fold](https://cdn.hashnode.com/res/hashnode/image/upload/v1683258977435/5390cc1d-a3ac-408f-8af9-2dd9d958bc35.jpeg align="center")
 
@@ -123,7 +133,7 @@ tags: vscode, vs-code, vscode-extensions
 > *後記：這有個致命缺點，在編輯 vue* `v-bind:class` *一直開開合合，其實有一點不便。*  
 > *如果你不常更改 class name 的話，推薦！但經常要變更的話就不推薦了。*
 
-我公司是使用 .Net Core 開發， 所以 `.cshtml` 要能夠運作的話， 要另外將 `aspnetcorerazor` 設定到支援的語言中。
+和上一個套件一樣，`.cshtml` 要能夠運作的話， 要另外將 `aspnetcorerazor` 設定到支援的語言中。
 
 ---
 
