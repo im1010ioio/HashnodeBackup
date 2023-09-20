@@ -1,6 +1,6 @@
 ---
 title: "#04 GIT 實戰練習：GitHub Desktop、GitHub Page 基礎教學"
-datePublished: Wed Sep 20 2023 17:01:10 GMT+0000 (Coordinated Universal Time)
+datePublished: Tue Sep 19 2023 16:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: clmrzqktf000408ld2aii3m4z
 slug: git-github-gitpage-practice
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1693487584144/fba03233-2eb3-4e66-8c8d-0cd9572aa364.png
