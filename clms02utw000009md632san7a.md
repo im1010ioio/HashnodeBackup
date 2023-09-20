@@ -1,5 +1,5 @@
 ---
-title: "✅#03 人在湖，版控要有：了解 GIT / GitHub / GitLab / Git Flow"
+title: "#03 人在湖，版控要有：了解 GIT / GitHub / GitLab / Git Flow"
 datePublished: Mon Sep 18 2023 16:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: clms02utw000009md632san7a
 slug: 03-git-github-gitlab-git-flow
