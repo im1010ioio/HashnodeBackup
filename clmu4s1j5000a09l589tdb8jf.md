@@ -95,7 +95,7 @@ Viewport 是設定網頁的顯示方式，可以設定網頁的預設寬度、�
 HTML 中的 `<link>` 語法是用來載入外部資源使用的，他的屬性 `rel` 代表外部資源與這份 HTML 之間的關係（relationship），`href="..."` 則是檔案的連結。
 
 > 關於如何寫連結，請參考這篇：  
-> #06補充 網頁的根、絕對路徑、相對路徑，那些關於路徑的小知識
+> [#06補充 網頁的根、絕對路徑、相對路徑，那些關於路徑的小知識](https://im1010ioio.hashnode.dev/html-file-paths)
 
 我們可以透過 `rel="shortcut icon"` 定義瀏覽器標籤中顯示的小圖示。Favicon 就如其名，是瀏覽器「我的最愛」的 icon（favorite icon）。
 
