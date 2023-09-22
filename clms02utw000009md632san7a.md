@@ -2,7 +2,7 @@
 title: "#03 人在湖，版控要有：了解 GIT / GitHub / GitLab / Git Flow"
 datePublished: Mon Sep 18 2023 16:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: clms02utw000009md632san7a
-slug: 03-git-github-gitlab-git-flow
+slug: git-github-gitlab-git-flow
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1693487565583/5a6cb07a-291f-425e-b438-677ec428a8c1.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1683772091204/46119ab3-0e9f-4b16-a73c-6b92b58fda55.png
 tags: github, git, gitflow
