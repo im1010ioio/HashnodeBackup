@@ -149,8 +149,8 @@ CSS 要套用在 HTML 上，第一種方式是可以在 `head` 內寫在 `<style
 以下列出一些常用的 HTML 標籤，供大家參考：
 
 > 更詳細的 HTML 文件請參考：  
-> [HTML Tutorial (](https://www.w3schools.com/html/)[w3schools.com](http://w3schools.com)[)](https://www.w3schools.com/html/)  
-> [HTML comment tag (](https://www.w3schools.com/tags/tag_comment.asp)[w3schools.com](http://w3schools.com)[)](https://www.w3schools.com/tags/tag_comment.asp)
+> [HTML Tutorial (w3schools.com)](https://www.w3schools.com/html/)  
+> [HTML comment tag (w3schools.com)](https://www.w3schools.com/tags/tag_comment.asp)
 
 #### (1) 容器
 
