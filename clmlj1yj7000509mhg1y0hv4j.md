@@ -63,19 +63,19 @@ tags: css3, css, html, html5
 
 * `#00` 參賽前言 / 文章目錄
     
-* `#01` 網頁的基本名詞：UI/UX？切版&切圖？前端&後端？靜態&動態？RWD or Mobile First？
+* `#01` [網頁的基本名詞：UI/UX？切版&切圖？前端&後端？靜態&動態？RWD or Mobile First？](https://im1010ioio.hashnode.dev/glossary-of-web-development)
     
-* `#02` 關於各家瀏覽器，前端必備的小知識：支援度、市佔率、CSS 實驗語法 -webkit-, -moz-... PostCSS Autoprefixer
+* `#02` [關於各家瀏覽器，前端必備的小知識：支援度、市佔率、CSS 實驗語法 -webkit-, -moz-... PostCSS Autoprefixer](https://im1010ioio.hashnode.dev/about-browsers)
     
 * `#03` 人在江湖，版控要有：了解 GIT / GitHub / GitLab / Git Flow
     
-* `#04` GIT 實戰練習：GitHub Desktop、GitHub Page 基礎教學
+* `#04` [GIT 實戰練習：GitHub Desktop、GitHub Page 基礎教學](https://im1010ioio.hashnode.dev/git-github-gitpage-practice)
     
-* `#05` HTML 基礎語法
+* `#05` [HTML 基礎語法](https://im1010ioio.hashnode.dev/html-basics)
     
-* `#06` 寫一份簡單的 HTML
+* `#06` [寫一份簡單的 HTML](https://im1010ioio.hashnode.dev/html-strugtrue)
     
-* `#06補充` 網頁的根、絕對路徑、相對路徑，那些關於路徑的小知識
+* `#06補充` [網頁的根、絕對路徑、相對路徑，那些關於路徑的小知識](https://im1010ioio.hashnode.dev/html-file-paths)
     
 * `#07` CSS 基本語法 & 權重介紹
     
