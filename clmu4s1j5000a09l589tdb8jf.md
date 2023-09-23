@@ -1,5 +1,5 @@
 ---
-title: "#06 寫一份簡單的 Html"
+title: "#06 寫一份簡單的 Html，Html Tag 總整理"
 datePublished: Fri Sep 22 2023 04:57:49 GMT+0000 (Coordinated Universal Time)
 cuid: clmu4s1j5000a09l589tdb8jf
 slug: html-strugtrue
@@ -194,33 +194,54 @@ CSS 要套用在 HTML 上，第一種方式是可以在 `head` 內寫在 `<style
 
 #### (4) 表單
 
-一個基本的填寫表單如下：
+一個基本的填寫表單如下，實際 DEMO 請看 [這裡](https://codepen.io/im1010ioio/pen/PoXQRbL)。
 
 ```xml
 <!-- action 是表單資料傳送的位置，不過現在多數人都是將這個行為寫在 JS 中 -->
 <form action="">
+
+    <!-- 1. 單行輸入框 -->
     <div>
         <!-- label 加上 for="input的id"，點擊 label 就可以選取這個 input -->
         <label for="userName">姓名</label>
-        <!-- 單行輸入框 -->
         <input type="text" id="userName">
     </div>
+
+    <!-- 2. 多行輸入框 -->
     <div>
-        <!-- radio name 一樣，表示是同一種單選欄位 -->
-        <input type="radio" name="gender" value="male">
-        <label for="userName">男性</label>
-        <input type="radio" name="gender" value="female">
-        <label for="userName">女性</label>
+        <label for="remark">備註</label>
+        <!-- 行數設為 3 行 -->
+        <textarea rows="3"></textarea>
     </div>
+
+    <!-- 3. 單選欄位 -->
+    <div>
+        <!-- 當 radio 的 name 一樣，表示是同一種單選欄位 -->
+        <input type="radio" name="gender" id="male" value="0">
+        <label for="male">男性</label>
+        <input type="radio" name="gender" id="female" value="1">
+        <label for="female">女性</label>
+    </div>
+
+    <!-- 4. 多選欄位 -->
     <div>
         <input type="checkbox" id="agreePrivacy">
         <label for="agreePrivacy">我同意隱私條款</label>
     </div>
+
+    <!-- 5. 下拉選單 -->
     <div>
-        <label for="remark">備註</label>
-        <!-- 多行輸入框，行數設為 3 行 -->
-        <textarea rows="3"></textarea>
+        <select>
+            <option>漢堡</option>
+            <option>三明治</option>
+            <optgroup label="組合套餐">
+                <option>套餐A</option>
+                <option>套餐B</option>
+            </optgroup>
+        </select>
     </div>
+
+    <!-- 6. 按鈕 -->
     <!-- button 預設的 type 是 submit，放在 <form> 中，預設會觸發送出行為 -->
     <!-- 不過在送出前可能還需要做其他事情，如驗證，所以送出行為會寫在 JS 中 -->
     <!-- 於是，button 的 type 設為 button，可避免 HTML 觸發送出行為 -->
