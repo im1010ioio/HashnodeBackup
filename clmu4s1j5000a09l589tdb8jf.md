@@ -1,5 +1,5 @@
 ---
-title: "#06 寫一份簡單的 Html，Html Tag 總整理"
+title: "#06 寫一份簡單的 Html，常用 Html Tag 總整理"
 datePublished: Fri Sep 22 2023 04:57:49 GMT+0000 (Coordinated Universal Time)
 cuid: clmu4s1j5000a09l589tdb8jf
 slug: html-strugtrue
