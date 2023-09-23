@@ -194,60 +194,75 @@ CSS 要套用在 HTML 上，第一種方式是可以在 `head` 內寫在 `<style
 
 #### (4) 表單
 
-一個基本的填寫表單如下，實際 DEMO 請看 [這裡](https://codepen.io/im1010ioio/pen/PoXQRbL)。
+一個基本的填寫表單會用 `<form></form>` 標籤包住表單內容，它的屬性 `action` 是表單資料傳送的位置，不過現在多數人都是將這個行為寫在 JS 中。
 
 ```xml
-<!-- action 是表單資料傳送的位置，不過現在多數人都是將這個行為寫在 JS 中 -->
-<form action="">
-
-    <!-- 1. 單行輸入框 -->
-    <div>
-        <!-- label 加上 for="input的id"，點擊 label 就可以選取這個 input -->
-        <label for="userName">姓名</label>
-        <input type="text" id="userName">
-    </div>
-
-    <!-- 2. 多行輸入框 -->
-    <div>
-        <label for="remark">備註</label>
-        <!-- 行數設為 3 行 -->
-        <textarea rows="3"></textarea>
-    </div>
-
-    <!-- 3. 單選欄位 -->
-    <div>
-        <!-- 當 radio 的 name 一樣，表示是同一種單選欄位 -->
-        <input type="radio" name="gender" id="male" value="0">
-        <label for="male">男性</label>
-        <input type="radio" name="gender" id="female" value="1">
-        <label for="female">女性</label>
-    </div>
-
-    <!-- 4. 多選欄位 -->
-    <div>
-        <input type="checkbox" id="agreePrivacy">
-        <label for="agreePrivacy">我同意隱私條款</label>
-    </div>
-
-    <!-- 5. 下拉選單 -->
-    <div>
-        <select>
-            <option>漢堡</option>
-            <option>三明治</option>
-            <optgroup label="組合套餐">
-                <option>套餐A</option>
-                <option>套餐B</option>
-            </optgroup>
-        </select>
-    </div>
-
-    <!-- 6. 按鈕 -->
-    <!-- button 預設的 type 是 submit，放在 <form> 中，預設會觸發送出行為 -->
-    <!-- 不過在送出前可能還需要做其他事情，如驗證，所以送出行為會寫在 JS 中 -->
-    <!-- 於是，button 的 type 設為 button，可避免 HTML 觸發送出行為 -->
-    <button type="button">送出</button>
-</form>
+<form action=""> ... </form>
 ```
+
+其他常用的表單標籤如下：
+
+##### (4-1) 單行輸入框 `input`
+
+##### `label` 加上屬性 `for="input的id"`，點擊 `label` 就可以選取這個 `input`。
+
+```xml
+<label for="userName">姓名</label>
+<input type="text" id="userName">
+```
+
+##### (4-2) 多行輸入框 `textarea`
+
+##### 加上屬性 `rows` 可以設定這個 `textarea` 的高度。
+
+```xml
+<label for="remark">備註</label>
+<textarea id="remark" rows="3"></textarea>
+```
+
+##### (4-3) 單選欄位
+
+##### 當 `radio` 的屬性 `name` 一樣時，表示是同一組單選欄位。
+
+```xml
+<input type="radio" name="gender" id="male" value="0">
+<label for="male">男性</label>
+
+<input type="radio" name="gender" id="female" value="1">
+<label for="female">女性</label>
+```
+
+##### (4-4) 多選欄位
+
+```xml
+<input type="checkbox" id="agreePrivacy">
+<label for="agreePrivacy">我同意隱私條款</label>
+```
+
+##### (4-5) 下拉選單
+
+```xml
+<select>
+    <option>漢堡</option>
+    <option>三明治</option>
+    <optgroup label="組合套餐">
+        <option>套餐A</option>
+        <option>套餐B</option>
+    </optgroup>
+</select>
+```
+
+##### (4-6) 按鈕
+
+`<button>` 預設的 `type` 是 `submit`，放在 `<form>` 中，預設會觸發送出行為。
+
+但是如開頭所說，現在送出行為大多都是寫在 JS 中，由 JS 控制，這時候為了避免觸發 HTML 的原生 submit 行為，可以將 `<button>` 的 `type` 設為 `button`。
+
+```xml
+<button type="button">送出</button>
+```
+
+以上實際 DEMO 請看 [這裡](https://codepen.io/im1010ioio/pen/PoXQRbL)。
 
 #### (5) 清單
 
