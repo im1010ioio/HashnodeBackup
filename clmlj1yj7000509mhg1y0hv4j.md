@@ -67,7 +67,7 @@ tags: css3, css, html, html5
     
 * `#02` [關於各家瀏覽器，前端必備的小知識：支援度、市佔率、CSS 實驗語法 -webkit-, -moz-... PostCSS Autoprefixer](https://im1010ioio.hashnode.dev/about-browsers)
     
-* `#03` 人在江湖，版控要有：了解 GIT / GitHub / GitLab / Git Flow
+* `#03` [人在江湖，版控要有：了解 GIT / GitHub / GitLab / Git Flow](https://im1010ioio.hashnode.dev/git-github-gitlab-git-flow)
     
 * `#04` [GIT 實戰練習：GitHub Desktop、GitHub Page 基礎教學](https://im1010ioio.hashnode.dev/git-github-gitpage-practice)
     
