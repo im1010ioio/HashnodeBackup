@@ -77,7 +77,7 @@ tags: css3, css, html, html5
     
 * `#06補充` [網頁的根、絕對路徑、相對路徑，那些關於路徑的小知識](https://im1010ioio.hashnode.dev/html-file-paths)
     
-* `#07` CSS 基本語法 & 權重介紹
+* `#07` [CSS 基本語法 & 權重介紹](https://im1010ioio.hashnode.dev/css-basics)
     
 * `#08` CSS 選擇器總整理！id、class、:nth-child(n)、:not、:where、:is、:has 都難不倒我
     
