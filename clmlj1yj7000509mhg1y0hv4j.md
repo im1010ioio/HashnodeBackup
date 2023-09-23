@@ -79,7 +79,7 @@ tags: css3, css, html, html5
     
 * `#07` [CSS 基本語法 & 權重介紹](https://im1010ioio.hashnode.dev/css-basics)
     
-* `#08` CSS 選擇器總整理！id、class、:nth-child(n)、:not、:where、:is、:has 都難不倒我
+* `#08` [CSS 選擇器總整理！id、class、:nth-child(n)、:not、:where、:is、:has 都難不倒我](https://im1010ioio.hashnode.dev/css-selectors)
     
 * `#09` CSS 變數
     
