@@ -284,7 +284,7 @@ p::before {
 #### CSS
 
 ```css
-a:not(:last-child) { ... }            /* 選取不是最後一個的 a, 等同於 a + a */
+a:not(:last-child) { ... }            /* 選取不是最後一個的 a */
 a:empty            { display: none; } /* 選取標籤內容是空的 a */
 ```
 
