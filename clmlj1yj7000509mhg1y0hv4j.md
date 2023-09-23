@@ -71,7 +71,7 @@ tags: css3, css, html, html5
     
 * `#04` [GIT 實戰練習：GitHub Desktop、GitHub Page 基礎教學](https://im1010ioio.hashnode.dev/git-github-gitpage-practice)
     
-* `#05` [HTML 基礎語法](https://im1010ioio.hashnode.dev/html-basics)
+* `#05` [HTML 基礎語法，常用 HTML Tag 總整理](https://im1010ioio.hashnode.dev/html-basics)
     
 * `#06` [寫一份簡單的 HTML](https://im1010ioio.hashnode.dev/html-strugtrue)
     
