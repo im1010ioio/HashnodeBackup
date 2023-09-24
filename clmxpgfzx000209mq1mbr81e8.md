@@ -156,7 +156,6 @@ p.text-sub{
     --color-r: 46;
     --color-g: 65;
     --color-b: 140;
-    /* 變數可以再指定變數 */
     --color-primary-rgb: var(--color-r), var(--color-g), var(--color-b);
 }
 
@@ -166,6 +165,7 @@ p.text-sub{
 
 p.text-change-rgb{
     color: rgba(
+        /* 變數可以在 rgba 內做計算 */
 		calc(var(--color-r) * 3),
 		calc(var(--color-g) / 2),
 		calc(var(--color-g) + 100), .8);
