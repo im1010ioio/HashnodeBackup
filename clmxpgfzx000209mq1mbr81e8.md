@@ -164,8 +164,8 @@ p.text-sub{
 }
 
 p.text-change-rgb{
+    /* 變數可以在 rgba 內做計算 */
     color: rgba(
-        /* 變數可以在 rgba 內做計算 */
 		calc(var(--color-r) * 3),
 		calc(var(--color-g) / 2),
 		calc(var(--color-g) + 100), .8);
