@@ -81,9 +81,9 @@ tags: css3, css, html, html5
     
 * `#08` [CSS 選擇器總整理！id、class、:nth-child(n)、:not、:where、:is、:has 都難不倒我](https://im1010ioio.hashnode.dev/css-selectors)
     
-* `#09` CSS 變數
+* `#09` [原生的 CSS 變數](https://im1010ioio.hashnode.dev/css-variables)
     
-* `#10` 原生的 CSS 巢狀 (CSS Nesting) 終於支援啦！
+* `#10` [原生的 CSS 巢狀 (CSS Nesting) 終於支援啦！](https://im1010ioio.hashnode.dev/pure-css-nesting)
     
 * `#11` 開始寫 CSS 或程式必須知道的幾個原則：DRY & KISS & YAGNI
     
