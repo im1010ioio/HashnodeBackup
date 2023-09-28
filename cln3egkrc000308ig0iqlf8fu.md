@@ -159,7 +159,7 @@ CSS 的屬性 `box-sizing` 會決定元素的**寬度**及**高度**是用何種
 
 ### 1\. `content-box`
 
-使用 `content-box` 時，被設定為 600px 的地方會是卡片的 content 區域，不包含左右的 border 和 padding，所以要知道卡片最後實際的寬度要再加回來，實際寬度會是 622px（600px + 10px\*2 + 1px\*2）。
+使用 `content-box` 時，被設定為 600px 的地方會是卡片的 content 區域，不包含左右的 border 和 padding，所以要知道卡片最後實際的寬度，要再加回來，實際寬度會是 622px（600px + 10px\*2 + 1px\*2）。
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1695573302506/aac42030-cfdf-4444-b8a0-2ec78475bc8c.png align="center")
 
