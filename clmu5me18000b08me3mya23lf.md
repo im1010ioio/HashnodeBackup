@@ -3,6 +3,8 @@ title: "#06補充 網頁的根、絕對路徑、相對路徑，那些關於路�
 datePublished: Fri Sep 22 2023 05:21:25 GMT+0000 (Coordinated Universal Time)
 cuid: clmu5me18000b08me3mya23lf
 slug: html-file-paths
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1695955567581/64d5801b-dd3e-4cfe-8746-c97a27b6a34b.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1695955575484/a2ec4807-2765-4cd3-a077-bac615457433.png
 tags: html, html5, html-file-paths
 
 ---
