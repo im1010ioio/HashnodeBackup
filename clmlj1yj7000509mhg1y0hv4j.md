@@ -85,28 +85,20 @@ tags: css3, css, html, html5
     
 * `#10` [原生的 CSS 巢狀 (CSS Nesting) 終於支援啦！](https://im1010ioio.hashnode.dev/pure-css-nesting)
     
-* `#11` 開始寫 CSS 或程式必須知道的幾個原則：DRY & KISS & YAGNI
+* `#11` [開始寫 CSS 或程式必須知道的幾個原則：DRY & KISS & YAGNI](https://im1010ioio.hashnode.dev/css-dry-kiss-yagni)
     
-* `#12` CSS命名建議：OOCSS、SMACSS、BEM、RSCSS
+* `#12` [CSS 設計方法與命名建議：OOCSS、SMACSS、BEM、RSCSS](https://im1010ioio.hashnode.dev/oocss-smacss-bem-rscss)
     
 
 ### 版面編排
 
-* `#13` CSS Box 概念：content-box、border-box、間距(padding margin)、aspect-ratio
+* `#13` [CSS 盒子模型 (Box Model)：border-box & content-box](https://im1010ioio.hashnode.dev/css-box-model)
     
-* `#14` 網頁使用的單位大解析：px、rem、em、%、vw、vh (dvh, lvh, svh)、vmin、vmax
+* `#14` [Reset CSS！變回你該有的樣子](https://im1010ioio.hashnode.dev/reset-css)
     
-* `#15` CSS 數學函式 max、min、clamp、calc
+* `#15` [網頁使用的單位大解析：px、rem、em、%、vw、vh (dvh, lvh, svh)、vmin、vmax](https://im1010ioio.hashnode.dev/css-units)
     
-* `#16` CSS Display：block、inline、inline-block（Flow流式布局介紹）
-    
-* `#17` CSS Display：FLEX
-    
-* `#18` CSS Display：Grid
-    
-* `#19` CSS Position
-    
-* `#20` CSS 邏輯屬性 Logical properties
+* `#16` [CSS 數學函式 calc()、max()、min()、clamp()](https://im1010ioio.hashnode.dev/css-calc-max-min-clamp)
     
 
 ### 文字
