@@ -102,7 +102,7 @@ HTML 中的 `<link>` 語法是用來載入外部資源使用的，他的屬性 `
 Favicon 可以自己指定路徑，如果沒寫瀏覽器預設會抓網頁的根（Root）底下的 `favicon.ico` 檔案，所以其實不一定要寫這一行，直接把 favicon 放在根目錄底下就可以了。只不過，為了讓瀏覽器讀取 favicon 順利，我還是會寫這一行。
 
 > 轉換 ico 檔案好用工具：[Favicon Generator](https://www.favicongenerator.com/)  
-> Favicon 的大小是 16px x 16px，不過考慮到螢幕倍率，我會準備 48px 以上的圖檔。（關於螢幕倍率，之後會再詳細解說）
+> Favicon 的大小是 16px x 16px，不過考慮到像素密度，我會準備 48px 以上的圖檔。（關於像素密度，之後會再詳細解說）
 
 ### 5\. 載入 CSS
 
