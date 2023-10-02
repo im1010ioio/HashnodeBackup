@@ -1,5 +1,5 @@
 ---
-title: "#09 原生的 Css 變數"
+title: "#09 原生的 Css 變數，基本與進階應用"
 datePublished: Sun Sep 24 2023 16:59:58 GMT+0000 (Coordinated Universal Time)
 cuid: clmxpgfzx000209mq1mbr81e8
 slug: css-variables
