@@ -1,5 +1,5 @@
 ---
-title: "#11 開始寫 Css 或程式必須知道的：dry & Kiss & Yagni"
+title: "#11 開始寫 Css 或程式必須知道的：Dry & Kiss & Yagni"
 datePublished: Wed Sep 27 2023 05:00:32 GMT+0000 (Coordinated Universal Time)
 cuid: cln1a2sqv000009l7dqrna37b
 slug: css-dry-kiss-yagni
