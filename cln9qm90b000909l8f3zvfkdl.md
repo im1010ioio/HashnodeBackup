@@ -32,7 +32,7 @@ Block 區塊級元素通常會單獨占據一行，佔據父層的整個寬度�
 }
 ```
 
-### Float 排版：讓 Block 能夠浮起來
+### 一、Float 排版：讓 Block 能夠浮起來
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1695955991271/71ea9ffa-e6cb-40fb-9c17-8a283239cb93.png align="center")
 
@@ -68,13 +68,13 @@ block 如果加上 float 屬性可以浮起來，可以往左飄也可以往右�
 
 > 延伸閱讀：[快速了解CSS display:flow-root声明 « 张鑫旭-鑫空间-鑫生活](https://www.zhangxinxu.com/wordpress/2020/05/css-display-flow-root/)
 
-### Float ：文繞圖
+### 2\. Float ：文繞圖
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1695956005736/7dc5b2ed-f464-444c-a535-06ddca7a2b32.png align="center")
 
 利用 float 的特性，與 inline 元素放在一起，我們可以很輕鬆就做出文繞圖的版面。
 
-### 使用 margin: auto 可左右置中
+### 3\. 使用 margin: auto 可左右置中
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1696303333270/d2ce6d92-54eb-441e-8b6c-8e6b40245484.png align="center")
 
@@ -82,7 +82,7 @@ block 如果加上 float 屬性可以浮起來，可以往左飄也可以往右�
 
 ---
 
-## 2\. inline
+## 二、inline
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1695956046208/bb5c08e2-7263-4dc4-aaca-2946820ffec6.png align="center")
 
@@ -94,13 +94,13 @@ inline 元素不會獨立占據一行，而是在同一行內與其他 inline �
 }
 ```
 
-### 無法設置上下 margin
+### 1\. 無法設置上下 margin
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1695956018947/06e67521-f6fc-4f32-b78e-57d59e4a2290.png align="center")
 
 inline 的元素無法設置 margin 的上與下，但是 margin 的左右可以。而 padding 是都可以設置。
 
-### 可以調整 vertical-align 與 line-height
+### 2\. 可以調整 vertical-align 與 line-height
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1695956072982/9ad93a2a-8e66-4375-888b-5d4eda25a655.png align="center")
 
@@ -111,13 +111,13 @@ inline 的元素無法設置 margin 的上與下，但是 margin 的左右可以
 * `vertical-align` 是文字的對齊方式，預設是 `baseline`，它是字母底部的基線，如圖所示。
     
 
-### inline 的細部設定
+### 3\. inline 的細部設定
 
-#### text-align
+#### (1) text-align
 
 `text-align` 決定文字排列的方向，可設置 `left`、`center`、`right`、`justify`。
 
-#### letter-spacing
+#### (2) letter-spacing
 
 `letter-spacing` 可調整文字的間距，這個間距是加在文字的後面。不過，講究的話，要注意如果搭配置中（如：`text-align: center;`），會因為這個間距而導致不是完全置中喔，如圖所示：
 
@@ -131,7 +131,7 @@ inline 的元素無法設置 margin 的上與下，但是 margin 的左右可以
 
 ---
 
-## 3\. inline-block
+## 三、inline-block
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1695956091903/0d3440b5-130f-4ec1-a4ff-f005453eb0b8.png align="center")
 
@@ -147,13 +147,13 @@ inline-block 結合了 block 和 inline 的特性，它讓元素既能夠在同�
 }
 ```
 
-### 使用情境：icon
+### 1\. 使用情境：icon
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1695979487037/877cb1c9-5ee8-4751-be04-c0ee4131c49d.png align="center")
 
 inline-block 的特性這非常好用，最常使用情況在設定文字旁邊搭配 icon 的時候。
 
-### 小提醒：關於縮排時的空白
+### 2\. 小提醒：關於縮排時的空白
 
 我們在寫 html 的時候這些縮排排版都是空白，瀏覽器會把這重複的空白視為一個。
 
