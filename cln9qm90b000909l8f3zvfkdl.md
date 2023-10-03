@@ -123,7 +123,7 @@ inline 的元素無法設置 margin 的上與下，但是 margin 的左右可以
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1696310370977/3d91c645-11e1-4464-aca0-09e2ae80334a.png align="center")
 
-遇到這個情況，可以使用 `margin` 或 `padding` 再作微調。當 `letter-spacing` 數值小時，可能會看不太出來，但是當數值越大偏移的感覺就會越明顯。
+遇到這個情況，可以使用 `margin` 或 `padding` 在父層上作微調。當 `letter-spacing` 數值小時，可能會看不太出來，但是當數值越大偏移的感覺就會越明顯。
 
 #### text-indent
 
