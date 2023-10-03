@@ -398,7 +398,7 @@ body{
 
 ### 補充：CSS 選擇器小遊戲——CSS Dinner
 
-如果覺得很多選擇器很累，可以來玩個 CSS 小遊戲，輕鬆一點，透過遊戲認識 CSS 選擇器吧！
+如果覺得要學很多選擇器很累，可以來玩個 CSS 小遊戲，輕鬆一點，透過遊戲認識 CSS 選擇器吧！
 
 > 連結：[CSS Diner - Where we feast on CSS Selectors!](https://flukeout.github.io/)
 
