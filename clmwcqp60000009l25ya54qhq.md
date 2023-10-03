@@ -396,6 +396,16 @@ body{
 
 ---
 
+### 補充：CSS 選擇器小遊戲——CSS Dinner
+
+如果覺得很多選擇器很累，可以來玩個 CSS 小遊戲，輕鬆一點，透過遊戲認識 CSS 選擇器吧！
+
+> 連結：[CSS Diner - Where we feast on CSS Selectors!](https://flukeout.github.io/)
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1696330590818/5ff0a2cc-2aaf-4256-82de-4f9b5b49e381.png align="center")
+
+---
+
 #### ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
 
 如果你喜歡我的創作，還想看看其他有趣的分享與日常，  
