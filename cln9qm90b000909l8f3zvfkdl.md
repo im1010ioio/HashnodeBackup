@@ -111,11 +111,27 @@ inline 的元素無法設置 margin 的上與下，但是 margin 的左右可以
 * `vertical-align` 是文字的對齊方式，預設是 `baseline`，它是字母底部的基線，如圖所示。
     
 
+### inline 的細部設定
+
+#### text-align
+
+`text-align` 決定文字排列的方向，可設置 `left`、`center`、`right`、`justify`。
+
+#### letter-spacing
+
+`letter-spacing` 可調整文字的間距，這個間距是加在文字的後面。
+
+#### text-indent
+
+`text-indent` 可設定文字首行縮排。
+
+---
+
 ## 3\. inline-block
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1695956091903/0d3440b5-130f-4ec1-a4ff-f005453eb0b8.png align="center")
 
-inline-block 結合了 block 和 inline 的特性，它讓元素既能夠在同一行內排列，又能夠設置寬度、高度、margin 和 padding，也可以用父層設定 `text-align`，全部的內容就會往右、置中、往左排列。
+inline-block 結合了 block 和 inline 的特性，它讓元素既能夠在同一行內排列，又能夠設置寬度、高度、margin 和 padding，也可以像 inline 一樣用父層設定 `text-align`，全部的內容就會往右、置中、往左排列。
 
 ```css
 .container {
