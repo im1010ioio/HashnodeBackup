@@ -127,7 +127,7 @@ inline 的元素無法設置 margin 的上與下，但是 margin 的左右可以
 
 #### text-indent
 
-`text-indent` 可設定文字首行縮排。
+`text-indent` 可設定文字首行縮排，設為負的就會變成凸排。
 
 ---
 
