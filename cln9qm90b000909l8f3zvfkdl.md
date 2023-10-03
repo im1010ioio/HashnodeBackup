@@ -119,7 +119,11 @@ inline 的元素無法設置 margin 的上與下，但是 margin 的左右可以
 
 #### letter-spacing
 
-`letter-spacing` 可調整文字的間距，這個間距是加在文字的後面。
+`letter-spacing` 可調整文字的間距，這個間距是加在文字的後面。不過，講究的話，要注意如果搭配置中（如：`text-align: center;`），會因為這個間距而導致不是完全置中喔，如圖所示：
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1696309809872/8175c829-3477-4de4-8d46-85bfefe825c6.png align="center")
+
+遇到這個情況，可以使用 `margin` 或 `padding` 再作微調。當 `letter-spacing` 數值小時，可能會看不太出來，但是當數值越大偏移的感覺就會越明顯。
 
 #### text-indent
 
