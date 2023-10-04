@@ -94,7 +94,7 @@ flex 容器裡面會有 2 個方向可以設定，分別是主軸線（main axis
 
 ### 4\. 間距：gap
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1696300946041/2346809d-be31-4da9-a640-c7ea451ed530.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1696444499800/5af802c5-0e86-4f1a-a630-257a36366ae7.png align="center")
 
 `gap` 是 `row-gap` 與 `column-gap` 的縮寫，可以設置 item 間的間距，可用在 `flex` 與 `grid` 排版上。
 
