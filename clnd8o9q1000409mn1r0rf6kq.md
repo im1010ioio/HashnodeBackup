@@ -143,8 +143,7 @@ tags: css3, css, css-grid
 
 ```css
 .cell-corn{
-    /* 若只寫一個數值，代表由這條線開始到下一條線 (1格) */
-	/* grid-row/grid-column: 開始 / 結束; */
+    /* 若只寫一個數值，代表由這條線開始到下一條線 (1格) */\
 	grid-row: 1;
 	grid-column: 3 / -1; /* 由第 3 條到倒數第 1 條線 */
 
