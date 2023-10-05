@@ -44,6 +44,8 @@ tags: css3, css
     
 * 派卡 pc (1picas = 12pt)
     
+* ch（數字 0 的寬度，在英語系網頁中有人當成每個半形文字的寬度，來控制 input 的寬度，但是中文為全形文字，所以不太實用）
+    
 
 > 不過偶爾也有例外的時候，例如有本關於 CSS 的好書：[CSS Secrets](https://www.tenlong.com.tw/products/9789863478744)，整本書居然是使用 CSS 排版印刷的。
 
