@@ -154,18 +154,33 @@ CSS Position 屬性可以用來設定元素在網頁中的位置，也是必學�
 
 ## 6\. z-index
 
-有使用到定位的元素，除了原本的 `static` 以外，有可能會有前後重疊的情況，這時候我們可以透過 `z-index` 屬性設定他們的前後關係，`z-index` 的值設定數字就可以了，數字越大越前面，預設是 `auto`。
+有使用到定位的元素，除了原本的 `static` 以外，有可能會有前後重疊的情況，這時候我們可以透過 `z-index` 屬性設定他們的前後關係，`z-index` 的值設定數字就可以了，預設是 `auto`。而他的規則是：
+
+* 數字越大越前面；
+    
+* 如果數字一樣，後面的在前面。
+    
 
 ```css
 .container {
     position: relative;
-    z-index: 5;
-
+    .fixed-item {
+        position: fixed;
+        top: 50px;
+        left: 100px;
+        z-index: 1;
+    }
+    .absolute-item {
+        position: absolute;
+        top: 50px;
+        left: 100px;
+        z-index: 1;
+    }
     .sticky-item {
         position: sticky;
         top: 50px;
         left: 100px;
-        z-index: 1;
+        z-index: 2;
     }
 }
 ```
