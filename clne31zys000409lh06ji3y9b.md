@@ -79,7 +79,7 @@ CSS 中的尺寸分為兩種，一種叫做「外部尺寸（Extrinsic Sizing）
 
 例如：`block` 明明應該佔據一整行，但是當我添加了 `width: fit-content;`，這個 `block` 只擁有自己內容的寬度。
 
-當然，也可以做到相反的事情：當我內容應該只有自身的長度，卻佔據一整行。其實，還有一個屬性叫做 `stretch` (`fill`/`fill-available`)，不過因為還沒有正式支援，經我實測，要加上前綴字才能使用，所以本篇並沒有介紹，我們可以再觀望一下。
+當然，也可以做到相反的事情：當我內容應該只有自身的長度，卻佔據一整行，不過這是個叫做 `stretch` (`fill`/`fill-available`) 的屬性，目前還沒有正式支援，要加上前綴字才能使用，所以本篇並沒有介紹，我們可以再觀望一下。
 
 > ["fill-available" | Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/?search=fill-available)
 
