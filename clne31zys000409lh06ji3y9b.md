@@ -11,7 +11,7 @@ tags: css3, css
 
 > #### **↓ 今日學習重點 ↓**
 > 
-> * 了解 3 個 CSS 內在尺寸：`min-content`、`max-content` 和 `fit-content`
+> * 了解 3 個 CSS 內部尺寸與實際應用：`min-content`、`max-content` 和 `fit-content`
 >     
 
 今天來點簡單的主題！
