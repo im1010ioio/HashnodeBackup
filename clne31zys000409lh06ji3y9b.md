@@ -69,7 +69,7 @@ CSS 中的尺寸分為兩種，一種叫做「外部尺寸（Extrinsic Sizing）
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1696561142010/d31c3a65-8cc6-489c-99c4-00fa71ed2321.png align="center")
 
-[參考設計：The-Sunday-Drip](https://dribbble.com/shots/18611934-The-Sunday-Drip?utm_source=Clipboard_Shot&utm_campaign=joshwarren&utm_content=The%20Sunday%20Drip&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=joshwarren&utm_content=The%20Sunday%20Drip&utm_medium=Social_Share)
+> [參考設計：The-Sunday-Drip](https://dribbble.com/shots/18611934-The-Sunday-Drip?utm_source=Clipboard_Shot&utm_campaign=joshwarren&utm_content=The%20Sunday%20Drip&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=joshwarren&utm_content=The%20Sunday%20Drip&utm_medium=Social_Share)
 
 ---
 
