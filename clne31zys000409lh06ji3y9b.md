@@ -83,7 +83,7 @@ CSS 中的尺寸分為兩種，一種叫做「外部尺寸（Extrinsic Sizing）
 
 > ["fill-available" | Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/?search=fill-available)
 
-總之，這些新單位讓我們排版變得更彈性了（也更難了），大家可以來試試看！如果關於內部尺寸還有什麼實用的用法，歡迎在底下留言告訴我喔！
+總之，這些新單位讓我們排版變得更彈性了（也更難了），大家可以來試試看！如果你們發現內部尺寸還有什麼實用的用法，歡迎在底下留言告訴我喔！
 
 > 延伸閱讀：  
 > [理解CSS3 max/min-content及fit-content等width值 « 张鑫旭-鑫空间-鑫生活](https://www.zhangxinxu.com/wordpress/2016/05/css3-width-max-contnet-min-content-fit-content/)
