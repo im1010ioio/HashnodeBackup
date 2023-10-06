@@ -162,26 +162,23 @@ CSS Position 屬性可以用來設定元素在網頁中的位置，也是必學�
     
 
 ```css
-.container {
-    position: relative;
-    .fixed-item {
-        position: fixed;
-        top: 50px;
-        left: 100px;
-        z-index: 1;
-    }
-    .absolute-item {
-        position: absolute;
-        top: 50px;
-        left: 100px;
-        z-index: 1;
-    }
-    .sticky-item {
-        position: sticky;
-        top: 50px;
-        left: 100px;
-        z-index: 2;
-    }
+.fixed-item {
+    position: fixed;
+    top: 50px;
+    left: 100px;
+    z-index: 1;
+}
+.absolute-item {
+    position: absolute;
+    top: 50px;
+    left: 100px;
+    z-index: 1;
+}
+.sticky-item {
+    position: sticky;
+    top: 50px;
+    left: 100px;
+    z-index: 2;
 }
 ```
 
