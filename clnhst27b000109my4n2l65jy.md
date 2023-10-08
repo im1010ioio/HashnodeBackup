@@ -3,8 +3,8 @@ title: "#23 CSS 邏輯屬性 Logical properties 與 Writing modes"
 datePublished: Sun Oct 08 2023 18:29:09 GMT+0000 (Coordinated Universal Time)
 cuid: clnhst27b000109my4n2l65jy
 slug: css-logical-properties
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1696785051629/ff75e5bb-7f40-4298-b85f-d726ac592587.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1696785067367/a06719d9-9ae5-430d-90c3-d1e3095de23e.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1696789951852/9faf10ed-0897-48c8-9ba1-0fc3edd808fa.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1696789963363/f7e417b2-41fb-448a-93aa-3cd24d1e67b4.png
 tags: css3, css
 
 ---
