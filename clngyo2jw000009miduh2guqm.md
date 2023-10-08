@@ -58,7 +58,7 @@ tags: css3, css
 回到一開始，為什麼使用 `display: contents;` 可以來代替 `subgrid` 的效果呢？原來是透過 `display: contents;` 忽略容器後，再另外設定每個子層在爺爺層 Grid 中的位置。
 
 不過，相較於新的 `subgrid` 語法，這樣的設定比較麻煩，結論，Subgrid 勝！  
-詳細請參考並比較上面 DEMO 連結。
+詳細請參考並比較上面 DEMO。
 
 ---
 
