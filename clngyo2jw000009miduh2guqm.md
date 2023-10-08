@@ -68,7 +68,7 @@ tags: css3, css
 
 > 支援度：["display: contents" | Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/?search=display%3A%20contents)
 
-不過，要注意的是，這個屬性目前雖然支援度 OK，但是在 Chrome、Edge、Firefox 上，無法運作在 `<button>` 上（2023/10）。
+不過，要注意的是，這個屬性目前雖然支援度 OK，但是在 Chrome、Edge、Firefox、Opera 上，無法運作在 `<button>` 上（2023/10）。
 
 ---
 
