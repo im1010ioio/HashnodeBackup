@@ -116,7 +116,7 @@ Flex 與 Grid 不需要改變語法，就能適應邏輯屬性的變化。
 
 ## 邏輯屬性的依據：`writing-mode`、`direction`
 
-當我們將元素設定為邏輯屬性時，這些「方向」概念的 CSS 屬性的將會隨著 CSS 的 `writing-mode` 與 `direction` 變更，詳細可以玩玩看：
+當我們將元素設定為邏輯屬性時，這些有「方向」概念的 CSS 屬性的將會隨著 CSS 的 `writing-mode` 與 `direction` 變更，詳細可以玩玩看：
 
 > [網路上對岸大神大漠的邏輯屬性 DEMO](https://codepen.io/airen/pen/yLyPzee) 。
 
@@ -152,7 +152,7 @@ p {
 }
 ```
 
-不過可以的話，避免使用 CSS 的 `direction`，而是使用 HTML `dir` 屬性，因為這樣 HTML 語意會比較好。以此延伸，CSS 也因此新增了選擇器 `:dir()`，只不過支援度還不夠好，只有 Safari 與 Firefox 支援（2023/10）。
+不過可以的話，避免使用 CSS 的 `direction`，而是使用 HTML `dir` 屬性，因為這樣 HTML 語意會比較好。以此延伸，CSS 也因此新增了選擇器 `:dir()`，只不過支援度還不夠好，目前只有 Safari 與 Firefox 支援（2023/10）。
 
 ```xml
 <p dir="rtl">這是一段句子。</p>
