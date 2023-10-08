@@ -1,5 +1,5 @@
 ---
-title: "#23 CSS 邏輯屬性 Logical properties 與 Writing Modes"
+title: "#23 CSS 邏輯屬性 Logical properties 與 Writing modes"
 datePublished: Sun Oct 08 2023 18:29:09 GMT+0000 (Coordinated Universal Time)
 cuid: clnhst27b000109my4n2l65jy
 slug: css-logical-properties
