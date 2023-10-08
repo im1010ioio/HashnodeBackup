@@ -40,7 +40,7 @@ tags: css3, css
 
 這個屬性非常適合用在 JS Components 的時候，當我們將東西抽成 Components 時，常常需要再包一層 div 才能運作，但是許多排版會因爲了這一層而失效。
 
-當我們希望樣式不受包含 Components 的容器元素的影響，這時候 `display: contents;` 就派上用場了。
+當我們希望樣式不受 Components 的容器元素的影響，這時候 `display: contents;` 就派上用場了。
 
 > 延伸閱讀：[巧用 display: contents 增强页面语义 - 掘金](https://juejin.cn/post/6844903973678219277)
 
