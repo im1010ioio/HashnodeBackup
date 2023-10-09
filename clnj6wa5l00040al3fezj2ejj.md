@@ -267,7 +267,7 @@ iOS Safari 號稱 apple 中的 IE，我這邊整理一下在開發上的經驗�
 
 接著使用一條線連結 Mac 與 iPhone，這時候 iPhone 可能會跳出通知詢問是否要信任這台電腦，請選信任；Mac 也可能會詢問要允許配件連接嗎，請選允許。
 
-如此一來，在 Mac Safari 的開發選單中，就可以看到你的 iPhone的名稱與目前 Safari 正在開啟的頁面，選取它就能夠使用 Safari 的開發者工具 debug 囉！
+如此一來，在 Mac Safari 的開發選單中，就可以看到你的 iPhone 的名稱與目前 Safari 正在開啟的頁面，選取它就能夠使用 Safari 的開發者工具 debug 囉！
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1696871759251/c2c1f9f2-97da-47f2-b6de-1a3b1dd14d14.png align="center")
 
