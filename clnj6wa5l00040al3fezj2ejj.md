@@ -225,7 +225,7 @@ iOS Safari 號稱 apple 中的 IE，我這邊整理一下在開發上的經驗�
 
 ### 1\. `<input>` `<textarea>` 字體大小建議大於 16px
 
-在 iOS Safari 上的 `<input>` `<textarea>` 字體大小建議設定大於 16px，不然的話 Safari 會在 focus 的瞬間將你的網頁連同輸入框一起放大，導致使用者要再來回縮放畫面，造成體驗不佳。有人提議可以在 HTML meta data 上加上 `user-scalable=no"` ，但是我實測沒有什麼用 QQ。
+在 iOS Safari 上的 `<input>` `<textarea>` 字體大小建議設定大於 16px，不然的話 Safari 會在 focus 的瞬間將你的網頁連同輸入框一起放大，導致使用者要再來回縮放畫面，造成體驗不佳。有人提議可以在 HTML meta data 上加上 `user-scalable=no` ，但是我實測沒有什麼用 QQ。
 
 如果想測試，可以用 iphone 打開以下 DEMO 試試看：
 
