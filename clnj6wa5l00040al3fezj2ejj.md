@@ -221,7 +221,7 @@ Media Query 可以透過 pointer 來判斷裝置支援點擊的精準度，共�
 
 ## 四、iOS Safari 的經驗談
 
-iOS Safari 號稱 apple 中的 IE，我這邊整理一下在開發上的經驗。
+iOS Safari 號稱 Apple 中的 IE，我這邊整理一下在開發上的經驗。
 
 ### 1\. `<input>` `<textarea>` 字體大小建議大於 16px
 
@@ -241,7 +241,7 @@ iOS Safari 號稱 apple 中的 IE，我這邊整理一下在開發上的經驗�
 
 我們有時候會使用 `overflow: scroll/auto;` 來製作 body 內部客製的可滾動區域，然後整個網頁的 `<body>` 設為 `overflow: hidden;`。但是，這種做法在 iphone Safari 上時常會怪怪的，導致整個網頁無法滑動。
 
-深究其原因，似乎是 Safari 在解析網頁時的渲染前後順序問題：「子元素的高度如果沒有在 ScrollView 建立之前確定，就不會觸發內部滑動，而會觸發外部滑動。」。詳細可參考：
+深究其原因，似乎是 Safari 在解析網頁時的渲染前後順序問題：「子元素的高度如果沒有在 ScrollView 建立之前確定，就不會觸發內部滑動，而會觸發外部滑動。」詳細可參考：
 
 > [javascript - iOS Safari浏览器上overflow: scroll元素无法滑动bug解决方法整理 - Kinice的存档点](https://segmentfault.com/a/1190000012761272)  
 > [javascript - iOS safari浏览器上overflow: scroll元素无法滚动bug深究 - Kinice的存档点](https://segmentfault.com/a/1190000016408566)
