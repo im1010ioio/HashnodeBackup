@@ -239,7 +239,7 @@ iOS Safari 號稱 apple 中的 IE，我這邊整理一下在開發上的經驗�
 
 ### 2\. 滾動範圍盡量滾動 body，而不是 `overflow: scroll/auto;`
 
-我們有時候會使用 `overflow: scroll/auto;` 來製作 body 內部客製的可滾動區域，然後整個網頁的 `<body>` 設為 `overflow: hidden;`。但是，這種做法在 iphone Safari 上時常會怪怪的，導致整個網頁都無法滑動。
+我們有時候會使用 `overflow: scroll/auto;` 來製作 body 內部客製的可滾動區域，然後整個網頁的 `<body>` 設為 `overflow: hidden;`。但是，這種做法在 iphone Safari 上時常會怪怪的，導致整個網頁無法滑動。
 
 深究其原因，似乎是 Safari 在解析網頁時的渲染前後順序問題：「子元素的高度如果沒有在ScrollView 建立之前確定，就不會觸發內部滑動，而會觸發外部滑動。」。詳細可參考：
 
