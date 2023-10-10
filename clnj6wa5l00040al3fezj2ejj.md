@@ -61,7 +61,7 @@ tags: css3, css, cssmediaqueries
 平板與手機的分界 768px 是依據 iPad 的尺寸（1024px x 768px），其他的斷點是參考 bootstrap 而來的，大家可以依據需求微調斷點，斷點的數值不是絕對。
 
 > 延伸閱讀：  
-> [**#01 網頁的基本名詞：UI/UX？切版&切圖？前端&後端？靜態&動態？RWD or Mobile First？**](https://im1010ioio.hashnode.dev/glossary-of-web-development)  
+> [#01 網頁的基本名詞：UI/UX？切版&切圖？前端&後端？靜態&動態？RWD or Mobile First？](https://im1010ioio.hashnode.dev/glossary-of-web-development)  
 > [Breakpoints · Bootstrap v5.3](https://getbootstrap.com/docs/5.3/layout/breakpoints/)
 
 ### 3\. 使用開發者工具模擬各種裝置與尺寸
