@@ -26,7 +26,7 @@ tags: css3, css, css-nesting
 
 ```css
 .content{
-    p { ... }           /* .content p */
+    & p { ... }           /* .content p */
     .child { ... }      /* .content .child */
     > .child { ... }    /* .content > .child */
     + .content { ... }  /* .content + .content */
@@ -48,7 +48,7 @@ tags: css3, css, css-nesting
     &:before { ... }
     
     /* .content 和 .content 內的 p 使用一樣樣式 */
-    &, p {
+    &, & p {
         ...
         span ｛ ... ｝
     }
