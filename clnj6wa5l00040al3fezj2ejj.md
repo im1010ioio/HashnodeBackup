@@ -135,6 +135,8 @@ tags: css3, css, cssmediaqueries
 
 ### 3\. 螢幕寬度和高度
 
+#### (1) 基本用法
+
 可以使用 `max-width` 和 `min-width` 以及 `max-height` 和 `min-height` 特性來設定螢幕的寬度和高度。例如：
 
 ```css
@@ -148,7 +150,7 @@ tags: css3, css, cssmediaqueries
 @media screen and (min-width: 992px) { ... }
 ```
 
-#### Range Context：可以使用普通的數學符號
+#### (2) Range Context：可以使用普通的數學符號
 
 Media Query 有最新的改良寫法，可以使用普通的數學符號：`>`、`<`、`>=` 或 `<=`。使用在具有「範圍」類型（如寬度或高度）的 Media Query 上，讓開發時更直覺。例如：
 
@@ -167,6 +169,22 @@ Media Query 有最新的改良寫法，可以使用普通的數學符號：`>`�
 > [Media Queries Level 4: Media Query Range Contexts (Media Query Ranges) –](https://www.bram.us/2021/10/26/media-queries-level-4-media-query-range-contexts/#:~:text=In%20CSS%20Media%20Queries%20Level%204%20these%20type,%E2%80%9Cthe%20width%20sits%20in%20between%20the%20two%20values%E2%80%9D) [Bram.us](http://Bram.us)  
 > ["Media Query Range Context" | Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/?search=Media%20Query%20Range%20Context)
 
+#### (3) 可搭配原生 CSS 巢狀使用
+
+Media Query 可以搭配原生的 CSS 巢狀結構使用，例如：
+
+```css
+.item {
+    width: 33.33%;
+    /* 手機：螢幕寬度小於 768px 時 */
+	@media screen and (width < 768px) { 
+		width: 100%;
+	}
+}
+```
+
+> 延伸閱讀：[**#10 原生的 CSS 巢狀 (CSS Nesting) 終於支援啦！**](https://im1010ioio.hashnode.dev/pure-css-nesting)
+
 ### 4\. 螢幕方向 orientation
 
 使用 `orientation` 屬性可以設定螢幕是橫向還是直向：
@@ -179,7 +197,7 @@ Media Query 有最新的改良寫法，可以使用普通的數學符號：`>`�
 @media screen and (orientation: portrait) { ... }
 ```
 
-### 6\. hover
+### 5\. hover
 
 透過判斷有沒有支援 `hover` （滑鼠移到上方的樣式）的行為，我們能夠間接判斷是否為觸控螢幕。例如：當 hover 時，按鈕顏色會變暗，但是在觸控螢幕上會變成類似 focus 的效果，有可能不是我們需要的，這時候就可以透過這個屬性來設定樣式。
 
@@ -191,7 +209,7 @@ Media Query 有最新的改良寫法，可以使用普通的數學符號：`>`�
 @media screen and (hover: none) { ... }
 ```
 
-### 5\. 點擊 pointer
+### 6\. 點擊 pointer
 
 Media Query 可以透過 pointer 來判斷裝置支援點擊的精準度，共有三種精準度可以設定：
 
