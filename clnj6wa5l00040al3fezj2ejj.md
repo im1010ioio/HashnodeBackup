@@ -185,6 +185,12 @@ Media Query 可以搭配原生的 CSS 巢狀結構使用，例如：
 
 > 延伸閱讀：[#10 原生的 CSS 巢狀 (CSS Nesting) 終於支援啦！](https://im1010ioio.hashnode.dev/pure-css-nesting)
 
+#### (4) 暫不支援搭配原生 CSS 變數使用
+
+可惜的是這些斷點設定，暫時還不支援搭配原生 CSS 變數使用，要再等等。目前必須先使用 Sass (SCSS) 等預處理器才能使用變數處理斷點的數值。
+
+> 延伸閱讀：[Media Queries Level 5](https://www.w3.org/TR/mediaqueries-5/#custom-mq)
+
 ### 4\. 螢幕方向 orientation
 
 使用 `orientation` 屬性可以設定螢幕是橫向還是直向：
