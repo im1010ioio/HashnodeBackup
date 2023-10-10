@@ -183,7 +183,7 @@ Media Query 可以搭配原生的 CSS 巢狀結構使用，例如：
 }
 ```
 
-> 延伸閱讀：[**#10 原生的 CSS 巢狀 (CSS Nesting) 終於支援啦！**](https://im1010ioio.hashnode.dev/pure-css-nesting)
+> 延伸閱讀：[#10 原生的 CSS 巢狀 (CSS Nesting) 終於支援啦！](https://im1010ioio.hashnode.dev/pure-css-nesting)
 
 ### 4\. 螢幕方向 orientation
 
