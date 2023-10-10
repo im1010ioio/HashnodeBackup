@@ -153,11 +153,11 @@ tags: css3, css, cssmediaqueries
 Media Query 有最新的改良寫法，可以使用普通的數學符號：`>`、`<`、`>=` 或 `<=`。使用在具有「範圍」類型（如寬度或高度）的 Media Query 上，讓開發時更直覺。例如：
 
 ```css
-/* 手機：螢幕寬度小於 767px (包含) 時 */
-@media screen and (width <= 767px) { ... }
+/* 手機：螢幕寬度小於 768px 時 */
+@media screen and (width < 768px) { ... }
 
-/* 平板：螢幕寬度介於 768px 和 991px (包含) 之間時 */
-@media screen and (768px <= width <= 991px) { ... }
+/* 平板：螢幕寬度介於 768px 和 992px 之間時 */
+@media screen and (768px <= width <= 992px) { ... }
 
 /* 桌機：螢幕寬度大於 992px (包含) 時 */
 @media screen and (width >= 992px) { ... }
