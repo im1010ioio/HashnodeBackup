@@ -308,7 +308,7 @@ Grid 有個特性，如果指定位置，在現有格子的外面。 例如：Gr
 
 多年前 Amos 老師的直撥分享影有有帶著大家玩過，這部影片講解得十分詳細：
 
-> 連結：[CSS GRID / CSS格線好好玩【完整版】 | CSS教學 | CSS格線](https://youtu.be/fYcz3FUqv7M?si=AtqWe-3AM63sijyd)
+%[https://youtu.be/fYcz3FUqv7M?si=AtqWe-3AM63sijyd] 
 
 ---
 
