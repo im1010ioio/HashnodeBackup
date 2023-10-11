@@ -39,6 +39,8 @@ tags: github, git, gitflow
 
 ### 版本控制的好處
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1696993812768/320eeab1-d211-4438-ad52-2d31d7d95c63.jpeg align="center")
+
 #### 有版本控制就能夠有以下的好處：
 
 1. 追蹤程式碼的變更，隨時可以查看、比較不同版本之間的差異。
