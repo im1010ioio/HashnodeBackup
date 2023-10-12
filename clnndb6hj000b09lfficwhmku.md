@@ -144,7 +144,7 @@ Container Queries 是針對「自己」容器大小變化，讓我們想想可�
 
 > [DOMO 連結：User Info Card with Container Queries](https://codepen.io/im1010ioio/pen/RwEdLXx)
 
-這邊我們使用了 `cqw` 單位，隨大小變更間距與陰影，搭配使用了 CSS 數學函式 `clamp()`、`min()` 控制字型、間距，並且練習使用了 CSS 邏輯屬性。
+這邊我們使用了 `cqw` 單位，隨大小變更間距與陰影，搭配使用了 CSS 數學函式 `clamp()`、`min()` 控制字型大小、間距，並且練習使用了 CSS 邏輯屬性。
 
 ### 2\. 工具列
 
