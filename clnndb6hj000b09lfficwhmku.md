@@ -72,7 +72,7 @@ tags: css3, css, container-queries
 
 * `inline-size`：左右方向，高度會被內容撐高。
     
-* `size`：上下左右方向，因為設定後它已被預期會改變高度，所以不會被內容撐高，會失去其高度，要再設定其高度。
+* `size`：上下左右方向，我猜想是因為設定後它已被預期會改變高度，所以不會被內容撐高，會失去其高度，要再設定其高度。
     
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1697043304830/ad1db53a-7957-48c3-978e-7bbe8f327eeb.png align="center")
