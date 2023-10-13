@@ -262,7 +262,7 @@ Font Awesome 是比起 Material Symbols / Icon 更齊全的網頁 icon，但是�
 
 ### 4\. 單純只使用 CSS 設定 Icon Font
 
-知道了 Icon Font 原理後，我們也可以用和他們同樣的方式，使用 CSS 設定 Icon 顯示在不同地方，例如改變清單 `<ul>` 的圖示（不過我這裡是使用[舊版的 Font Awesome](https://fontawesome.com/v4/icons/) 作DEMO）：
+知道了 Icon Font 的運作原理後，我們也可以用和他們同樣的方式，使用 CSS 設定 Icon 顯示在不同地方，例如改變清單 `<ul>` 的圖示（不過我這裡是使用[舊版的 Font Awesome](https://fontawesome.com/v4/icons/) 作DEMO）：
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1697217410528/2c5178bd-361f-49aa-b3da-ee2a28c2c87d.png align="center")
 
