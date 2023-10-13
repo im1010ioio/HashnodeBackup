@@ -120,7 +120,7 @@ Sans-Serif 去掉了襯線裝飾，字體末端平滑俐落。在中文裡稱呼
 
 ```css
 body{
-	font-family: "Noto Sans TC", Arial, sans-serif;
+	font-family: Arial, "Noto Sans TC", sans-serif;
 }
 ```
 
