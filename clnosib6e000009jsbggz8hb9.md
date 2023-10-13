@@ -34,7 +34,7 @@ tags: font-awesome, fonts, css3, css
     Windows 跟 Mac OS 最常用的字型格式，較舊的系統能支援，但是檔案偏大。
     
 2. **OTF （OpenType）：**  
-    Adobe 跟微軟一起改良了 TTF ，平滑、精細，品質表現比 TTF 好。
+    Adobe 跟微軟一起改良了 TTF ，平滑、精細，品質表現比 TTF 好，如果字體有 TTF 與 OTF 可以下載，建議下載這種。
     
 3. **WOFF （Web Open Font Format）：**  
     是由 Mozilla、微軟、Opera 一起為網站打造的字型格式，將 OTF 或 TFF 加上 Metadata 壓縮而成，是 W3C 官方建議的字型格式。
