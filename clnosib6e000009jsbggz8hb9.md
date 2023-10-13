@@ -5,7 +5,7 @@ cuid: clnosib6e000009jsbggz8hb9
 slug: css-font-family-font-weight
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1697212329034/3fc47dcc-1024-4f2a-a00f-3560779a2fe9.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1697212496799/4cae0b4c-f6f3-4caf-8560-9e8c2acd6692.png
-tags: css3, css
+tags: font-awesome, fonts, css3, css
 
 ---
 
