@@ -3,8 +3,8 @@ title: "#27 網頁載入字體、Icon Font 與 CSS font-family、font-weight"
 datePublished: Fri Oct 13 2023 15:55:11 GMT+0000 (Coordinated Universal Time)
 cuid: clnosib6e000009jsbggz8hb9
 slug: css-font-family-font-weight
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1697212329034/3fc47dcc-1024-4f2a-a00f-3560779a2fe9.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1697212496799/4cae0b4c-f6f3-4caf-8560-9e8c2acd6692.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1697218252515/668c150c-6781-4197-be56-b4757c1ab995.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1697218263475/963e1891-a3a3-4f9e-ae06-5ce8d55f20f1.png
 tags: font-awesome, fonts, css3, css
 
 ---
