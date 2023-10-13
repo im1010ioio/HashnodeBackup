@@ -130,7 +130,7 @@ body{
 
 如果字體為一個單字，就可以不需要使用冒號框 `""` 起來，直接寫單字就好。
 
-其餘可以是設定的通用字型名稱（generic-family），請參考：
+其餘的通用字型名稱（generic-family），請參考：
 
 > [font-family - CSS: Cascading Style Sheets | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/font-family)
 
