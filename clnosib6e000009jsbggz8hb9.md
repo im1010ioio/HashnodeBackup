@@ -254,7 +254,7 @@ Font Awesome 是比起 Material Symbols / Icon 更齊全的網頁 icon，但是�
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1697217888219/28e35f95-7446-4254-b456-1715c1756269.png align="center")
 
-台灣也有專屬於自己的 Icon Font，是由生活在台南的日本設計師 holoko 和居住在台灣的英國程式設計師 Rob 共同開發，是免費的。雖然我沒有用過，但這些 Icon 應該滿適合使用在國內了由的專案上。
+台灣也有專屬於自己的 Icon Font，是由生活在台南的日本設計師 holoko 和居住在台灣的英國程式設計師 Rob 共同開發，是免費的。雖然我沒有用過，但這些 Icon 應該滿適合使用在國內旅遊的專案上。
 
 它的字體運作原理和 Font Awesome 一樣。
 
