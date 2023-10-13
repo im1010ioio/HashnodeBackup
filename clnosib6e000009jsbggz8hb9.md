@@ -20,7 +20,7 @@ tags: font-awesome, fonts, css3, css
 
 我們關於版面編排與 RWD 的部分終於告一個段落了，現在大觀念了解後，接下來我們要深入各個樣式的細節，例如文字、圖片、圖形、互動等等。首先，我們將從文字的部分開始。
 
-在網頁設計中，字型滿重要的，可以為你的網站增加視覺吸引力並改善閱讀體驗，並且讓所有使用者的字體體驗一致。在這篇我們將學習字體的基本知識、Icon Font，以及如何在網頁中使用。
+在網頁設計中，字型滿重要的，可以為網頁增加視覺吸引力、改善閱讀體驗，並且讓所有使用者的字體體驗一致。在這篇我們將學習字體的基本知識、Icon Font，以及如何在網頁中使用字體。
 
 ---
 
@@ -73,9 +73,9 @@ Sans-Serif 去掉了襯線裝飾，字體末端平滑俐落。在中文裡常稱
 
 ### 3\. Monospace 等寬字體
 
-這種字體在我們使用的程式碼編輯器中常常看見，在網頁上的程式碼顯示段落也會套用這種字體。前面兩種字體為了設計視覺上和諧，其實實際寬度並不一定是相等的，但是這樣在寫程式時反而會上下行不對齊，結果不易閱讀。
+這種字體在我們使用的程式碼編輯器中常常看見，在網頁上的程式碼顯示段落也會套用這種字體。前面兩種字體為了設計視覺上的和諧，每個字的實際寬度並不一定是相等的，這樣在寫程式時反而會導致上下行不對齊，結果變得不易閱讀程式碼。
 
-所以，一般來說程式碼會使用等寬字體，而且通常是打字機的那種字體。
+所以，一般來說程式碼會使用等寬字體顯示，通常是像打字機的那種字體。
 
 ### 4\. 其他
 
@@ -99,7 +99,7 @@ Sans-Serif 去掉了襯線裝飾，字體末端平滑俐落。在中文裡常稱
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC&display=swap" rel="stylesheet">
 ```
 
-這邊 Google 建議我們可以加上 `<link rel="preconnect">` 先告訴瀏覽器接下來要載入外部網站的資源，先告訴瀏覽器外部資源的 domain，讓瀏覽器提早建立連線，使載入速度更快一些。
+這邊 Google 建議我們可以加上 `<link rel="preconnect">`，事先告訴瀏覽器接下來要載入外部網站的資源，告訴它這個外部資源的 domain，讓瀏覽器可以提早建立連線，讓載入速度更快一些。
 
 ### 2\. 使用 `@import` 載入字體
 
@@ -112,11 +112,11 @@ Sans-Serif 去掉了襯線裝飾，字體末端平滑俐落。在中文裡常稱
 
 ### 3\. 使用 `font-family` 指定字型
 
-一旦我們有載入了字型，在 CSS 的部分，我們就可以使用 font-family 設定字體：
+一旦我們有載入了字型，在 CSS 的部分，我們就可以使用 `font-family` 設定字體：
 
 ```css
 body{
-	font-family: "Noto Sans TC", arial, sans-serif;
+	font-family: "Noto Sans TC", Arial, sans-serif;
 }
 ```
 
@@ -128,6 +128,8 @@ body{
 
 > [font-family - CSS: Cascading Style Sheets | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/font-family)
 
+如果我們沒有載入字體，但是在 CSS 中有設定的話，瀏覽器會去找使用者電腦中的字體，就會導致有些人可以正常顯示字體，有些人不行，除非你使用的是系統內建字體（如：Arial、Time New Roman 是許多人電腦中有的字體）。
+
 ---
 
 讓我們再試試載入一個特殊字體看看，換了個字體就文青了起來：  
@@ -135,10 +137,11 @@ body{
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1697133594875/0103cf9b-eec8-4e85-9430-b4eb5bf82067.png align="center")
 
-> Github：[Chenyu-otf/chenyuluoyan\_thin: 辰宇落雁體](https://github.com/Chenyu-otf/chenyuluoyan_thin)  
 > DEMO 連結：[Font ChenYuluoyan](https://codepen.io/im1010ioio/pen/JjwVdgK)
 
-附帶一提，這個辰宇落雁體是高中生製作的，很優秀！
+附帶一提，這個辰宇落雁體是由台灣高中生製作的，很優秀！
+
+> Github：[Chenyu-otf/chenyuluoyan\_thin: 辰宇落雁體](https://github.com/Chenyu-otf/chenyuluoyan_thin)
 
 ---
 
@@ -160,7 +163,7 @@ CSS 中常見的粗細，有 10 級可以設定：
     
 3. `300`
     
-4. `400`（等同 `normal`，又稱 Regular）
+4. `400`（等同 `normal`，又稱 Regular，預設的粗細）
     
 5. `500`
     
@@ -199,7 +202,7 @@ CSS 中常見的粗細，有 10 級可以設定：
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1697210692049/5f966ffb-7a12-4af5-9ee1-04a30a10493d.png align="center")
 
-我們在一開始的範例就是使用 Google Font，Google Font 非常齊全，有各種受歡迎的字體，而且是免費的。只是可惜的是，中文字體只有一種，就是思源黑體（Noto Sans TC）。
+我們在一開始的範例就是使用 Google Font，Google Font 非常齊全，有各種受歡迎的字體，而且是免費的。只是可惜的是，中文字體只有兩種，就是思源黑體（Noto Sans TC）與思源明體（Noto Serif TC）。
 
 ### 2\. Adobe Font
 
@@ -225,17 +228,43 @@ justfont 是台灣很有名研究中文字體的公司，之前很火紅的金�
 
 網頁上很多 icon 圖形其實是做成了字體，這樣能夠方便我們變大變小變顏色。
 
-### 1\. Google Icon
+### 1\. Google Material Symbols / Icon
 
 > 連結：[Material Symbols and Icons - Google Fonts](https://fonts.google.com/icons)
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1697211709888/5d2d7c21-5300-47d4-9bbe-8b78489d9780.png align="center")
+
+Google 推出的 Icon 也很齊全，共有兩種，第一種是舊版本的 Material Icon，第二種則是新版本的 Material Symbols，新版本可以調整 Icon 的粗細、預設大小。
+
+它們的字體運作原理，是將特定的「英文單字」顯示為不同的圖示。這樣有個小問題，就是當使用瀏覽器的翻譯功能時，「英文單字」被翻譯了，圖示就不會不見，然後變成被翻譯的文字。QQ
 
 ### 2\. Font Awesome
 
 > 連結：[Font Awesome](https://fontawesome.com/)
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1697211717340/4364aa8b-9463-44bf-ad8e-f9fd33f7a727.png align="center")
+
+Font Awesome 是比起 Material Symbols / Icon 更齊全的網頁 icon，但是它需要註冊並且建立專案，有一些 icon 要額外收費。
+
+它的字體運作原理，是將是特定的「代碼」顯示為不同的圖示。它是使用偽元素 `::before` 的 `content` 設定這個代碼，例如：`content: "\f167";`。
+
+### 3\. **Taiwan Icon Font**
+
+> 連結：[Taiwan Icon Font](https://www.twicon.page/index.html)
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1697217888219/28e35f95-7446-4254-b456-1715c1756269.png align="center")
+
+台灣也有專屬於自己的 Icon Font，是由生活在台南的日本設計師 holoko 和居住在台灣的英國程式設計師 Rob 共同開發，是免費的。雖然我沒有用過，但這些 Icon 應該滿適合使用在國內了由的專案上。
+
+它的字體運作原理和 Font Awesome 一樣。
+
+### 4\. 單純只使用 CSS 設定 Icon Font
+
+知道了 Icon Font 原理，我們也可以用和他們同樣的方式，單純只使用 CSS 設定 Icon 顯示在不同地方，例如改變清單 `<ul>` 的圖示（不過我這裡是使用[舊版的 Font Awesome](https://fontawesome.com/v4/icons/) DEMO）：
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1697217410528/2c5178bd-361f-49aa-b3da-ee2a28c2c87d.png align="center")
+
+> [DEMO 連結： List with font awesome icon](https://codepen.io/im1010ioio/pen/PKpObM)
 
 ---
 
