@@ -130,7 +130,7 @@ body{
 
 > [font-family - CSS: Cascading Style Sheets | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/font-family)
 
-如果我們沒有載入字體，但是在 CSS 中有設定的話，瀏覽器會去找使用者電腦中的字體，這樣就會導致有些人可以正常顯示字體，有些人不行，除非你使用的是系統內建字體（如：Arial、Time New Roman 是許多人電腦中有的字體）。
+如果我們沒有載入字體，但是在 CSS 中有設定的話，瀏覽器會去找使用者電腦中的字體，這樣就會導致有些人可以正常顯示字體，有些人則不行，除非你使用的是系統內建字體（如：Arial、Time New Roman 是許多人電腦中有的字體）。
 
 ---
 
