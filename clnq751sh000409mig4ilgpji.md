@@ -111,6 +111,8 @@ p{
 
 這樣就能很輕易解決文字過多且多行的情況了！
 
+不過 CSS 屬性有前綴（`-webkit-`）就代表還在實驗階段，未來有可能會有寫法上的更新，但是未來若改變寫法，應該也能相容舊版寫法，所以不影響。
+
 > 延伸閱讀：[\-webkit-line-clamp - CSS：层叠样式表 | MDN](https://developer.mozilla.org/zh-CN/docs/Web/CSS/-webkit-line-clamp)
 
 ### 3\. 單字過長強制換行：`word-break`
