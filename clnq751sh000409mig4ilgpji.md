@@ -111,7 +111,7 @@ p{
 
 這樣就能很輕易解決文字過多且多行的情況了！
 
-> 延伸閱讀：[\-webkit-line-clamp - CSS：层叠样式表 | MDN (](https://developer.mozilla.org/zh-CN/docs/Web/CSS/-webkit-line-clamp)[mozilla.org](http://mozilla.org)[)](https://developer.mozilla.org/zh-CN/docs/Web/CSS/-webkit-line-clamp)
+> 延伸閱讀：[\-webkit-line-clamp - CSS：层叠样式表 | MDN](https://developer.mozilla.org/zh-CN/docs/Web/CSS/-webkit-line-clamp)
 
 ### 3\. 單字過長強制換行：`word-break`
 
