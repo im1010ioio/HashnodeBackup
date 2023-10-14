@@ -251,7 +251,7 @@ iOS Safari 號稱 Apple 中的 IE，我這邊整理一下在開發上的經驗�
 
 在 iOS Safari 上的 `<input>` `<textarea>` 字體大小建議設定大於 16px，不然的話 Safari 會在 focus 的瞬間將你的網頁連同輸入框一起放大，導致使用者要再來回縮放畫面，造成體驗不佳。有人提議可以在 HTML meta data 上加上 `user-scalable=no` ，但是我實測沒有什麼用 QQ。
 
-如果想測試，可以用 iphone 打開以下 DEMO 試試看：
+如果想測試，可以用 iPhone 打開以下 DEMO 試試看：
 
 > [DEMO 連結：input font-size test for ios safari](https://codepen.io/im1010ioio/pen/qBLLgEZ)
 
@@ -263,7 +263,7 @@ iOS Safari 號稱 Apple 中的 IE，我這邊整理一下在開發上的經驗�
 
 ### 2\. 滾動範圍盡量滾動 body，而不是 `overflow: scroll/auto;`
 
-我們有時候會使用 `overflow: scroll/auto;` 來製作 body 內部客製的可滾動區域，然後整個網頁的 `<body>` 設為 `overflow: hidden;`。但是，這種做法在 iphone Safari 上時常會怪怪的，導致整個網頁無法滑動。
+我們有時候會使用 `overflow: scroll/auto;` 來製作 body 內部客製的可滾動區域，然後整個網頁的 `<body>` 設為 `overflow: hidden;`。但是，這種做法在 iPhone Safari 上時常會怪怪的，導致整個網頁無法滑動。
 
 深究其原因，似乎是 Safari 在解析網頁時的渲染前後順序問題：「子元素的高度如果沒有在 ScrollView 建立之前確定，就不會觸發內部滑動，而會觸發外部滑動。」詳細可參考：
 
@@ -291,7 +291,7 @@ iOS Safari 號稱 Apple 中的 IE，我這邊整理一下在開發上的經驗�
 
 接著使用一條線連結 Mac 與 iPhone，這時候 iPhone 可能會跳出通知詢問是否要信任這台電腦，請選信任；Mac 也可能會詢問要允許配件連接嗎，請選允許。
 
-如此一來，在 Mac Safari 的開發選單中，就可以看到你的 iPhone 的名稱與目前 Safari 正在開啟的頁面，選取它就能夠使用 Safari 的開發者工具 debug 囉！
+如此一來，在 Mac Safari 的開發選單中，就可以看到你的 iPhone 的名稱與目前 iPhone Safari 正在開啟的頁面，選取它就能夠使用 Safari 的開發者工具 debug 囉！
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1696871759251/c2c1f9f2-97da-47f2-b6de-1a3b1dd14d14.png align="center")
 
