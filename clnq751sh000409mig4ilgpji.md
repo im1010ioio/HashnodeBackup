@@ -59,7 +59,7 @@ tags: css3, css, text-overflow
 
 * 設定的容器必須有寬度，而不是 `auto`
     
-* 必須搭配 `overflow: hidden;` ，設定超出可顯示的範圍
+* 必須搭配 `overflow: hidden;` ，設定可顯示的範圍
     
 * 由於只適合單行使用，所以我們要強制讓文字無法折行，必須搭配 `white-space: nowrap;` 使用  
     （CSS 中的 `white-space` 是處理遇到空白時的情況，這邊設定遇到空格時不要折行）
