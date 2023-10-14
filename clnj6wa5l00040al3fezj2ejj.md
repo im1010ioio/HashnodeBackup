@@ -161,8 +161,8 @@ Media Query 有最新的改良寫法，可以使用普通的數學符號：`>`�
 /* 平板：螢幕寬度介於 768px 和 992px 之間時 */
 @media screen and (768px <= width <= 992px) { ... }
 
-/* 桌機：螢幕寬度大於 992px (包含) 時 */
-@media screen and (width >= 992px) { ... }
+/* 桌機：螢幕寬度大於 992px 時 */
+@media screen and (width > 992px) { ... }
 ```
 
 > 延伸閱讀：  
