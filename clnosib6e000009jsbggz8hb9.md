@@ -202,6 +202,8 @@ CSS 中常見的粗細，有 10 級可以設定：
 
 我們在一開始的範例就是使用 Google Font，Google Font 非常齊全，有各種受歡迎的字體，而且是免費的。只是可惜的是，中文字體只有兩種，就是思源黑體（Noto Sans TC）與思源明體（Noto Serif TC）。
 
+所以在設計時，有的時候我會使用日文字體，比較多樣化，只是容易缺字，與筆順與中文有一些些不同。
+
 ### 2\. Adobe Font
 
 > 連結：[Adobe Fonts | 探索無限字體](https://fonts.adobe.com/)
