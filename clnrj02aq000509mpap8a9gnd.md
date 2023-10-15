@@ -91,7 +91,7 @@ h1 {
 
 （圖片來源：[Asteroid City Facebook](https://www.facebook.com/AsteroidCityFilm/)）
 
-> 延伸思考：要寫許多重複的 `text-shadow` 的確很麻煩，如果你有使用 CSS 的預處理器 Sass/SCSS 或 Less，可以考慮使用它們的 for 迴圈（例如：[Sass: @for](https://sass-lang.com/documentation/at-rules/control/for/)），CSS 就可以變得精簡許多。
+> 延伸思考：要寫許多重複的 `text-shadow` 的確很麻煩，如果你有使用 CSS 的預處理器 Sass/SCSS 或 Less，可以考慮使用它們的 for /loop 迴圈（例如：[Sass: @for](https://sass-lang.com/documentation/at-rules/control/for/)），CSS 就可以變得精簡許多。
 
 ### 4\. 應用：霓虹字
 
