@@ -91,7 +91,7 @@ h1, small{
 
 如果要處理多行的情況，我們將會使用 `-webkit-line-clamp` 設定要顯示的行數，而它也有一些使用條件：
 
-* display 的屬性要設成 `-webkit-box` 或 `-webkit-inline-box`
+* `display` 的屬性要設成 `-webkit-box` 或 `-webkit-inline-box`
     
 * 要設定 `-webkit-box-orient` 屬性為 `vertical`
     
