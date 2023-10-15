@@ -128,7 +128,7 @@ h1 {
 }
 ```
 
-也許你猜到了，我也要來用電影 LALALAND 裡面的酒吧 LOGO 來做練習（如果不想被雷不要看這部影片）：
+也許你猜到了，我們也要來用電影 LALALAND 裡面的酒吧 LOGO 來做練習（如果不想被雷不要看這部影片）：
 
 %[https://youtu.be/G6p--mEgvVM?si=aUqUnvQPhcVw19IX] 
 
