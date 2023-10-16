@@ -68,6 +68,8 @@ tags: diary
 
 ### 30 天的靈魂拷問
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1697474978488/aa972b72-bd18-4922-9c79-c3eaadaec507.png align="center")
+
 為什麼人要看教學文？寫文對我有什麼意義？有人會看嗎？有人看了又怎麼辦？大家都用 Nocode 或 AI 做網頁還需要教學文嗎？30 天內我內心的天使惡魔爭論不休。😂
 
 我一直告訴自己，文章追求的是累積與長尾的效益，又想想 The State of CSS 這些一直在改進 CSS 與瀏覽器的人的熱情，就在掙扎中度過了。
