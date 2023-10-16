@@ -113,6 +113,8 @@ tags: diary
 
 ---
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1697475146595/7a1432df-aa94-4fd3-b69e-be400af7fc8d.jpeg align="center")
+
 感謝我同事開頭幫忙發文；感謝 iT 幫邦忙辦了這個活動，讓資訊的世界有著朝氣蓬勃、樂於分享的精神；另外，[我希望在參加 \[iT邦幫忙鐵人賽\] 前就知道的事](https://ithelp.ithome.com.tw/articles/10257627)這篇文章也幫助我很多，謝謝；也謝謝有在發樓這系列的人。
 
 接下來還要繼續把剩餘的坑慢慢填起來，我會努力。
