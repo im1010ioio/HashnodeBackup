@@ -278,7 +278,7 @@ OKLCH 正是為了修正這個問題而誕生的，OKLCH 能完美地保持明�
 
 > 範例：[❖ Ultimate color palette system – Untitled UI](https://www.figma.com/community/file/1029506782158027808/ultimate-color-palette-system-untitled-ui)
 
-大家可以去試試使用 OKLCH 調色喔！它個大瀏覽器已經 100% 支援了。（真希望繪圖軟體能夠盡快支援）
+大家可以去試試使用 OKLCH 調色喔！它的瀏覽器已經 100% 支援了。（真希望繪圖軟體也能夠盡快支援）
 
 除了使用 OKLCH 調色，CSS 還新增了 `color-mix()` 與相對顏色（Relative Colors），可以方便我們調色，我們將在下一篇解說。
 
