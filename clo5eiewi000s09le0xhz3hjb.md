@@ -179,6 +179,8 @@ LCH/OKLCH 目前支援度已 100%，但是而在繪圖軟體中，還無法直�
 > [設計女子艾瑪 - 為什麼我的漸層色髒髒的？運用 LCH 色彩升級你的漸層色](https://www.instagram.com/p/CvM9Ycgv9y2/)  
 > [Non-Boring Gradients - A non linear CSS gradient generator](https://non-boring-gradients.netlify.app/)
 
+#### 使用 CSS 數據類型（Interpolation color space）設定漸層
+
 這邊我們使用的是在 `background` 中的漸層色上加上指定的色彩空間，加上後瀏覽器會依據該色彩空間的方式混合顏色：
 
 > DEMO 連結：[Color Space in Linear Gradient: sRGB vs. LCH vs. OKLCH](https://codepen.io/im1010ioio/pen/MWLwgMy)
