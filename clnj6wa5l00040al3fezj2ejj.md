@@ -112,7 +112,7 @@ tags: css3, css, cssmediaqueries
 @media screen and (max-width: 767px) { ... }
 
  /* 當寬度小於 767px (包含) 或者裝置為直向時 */
-@media (min-width: 767px), (orientation: portrait) { ... }
+@media (max-width: 767px), (orientation: portrait) { ... }
 
  /* 當裝置不是螢幕，而且是列印時 */
  @media not screen and print { ... }
