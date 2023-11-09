@@ -3,8 +3,8 @@ title: "#32 CSS currentcolor、accent-color 與混色的 color-mix() 讓規劃�
 datePublished: Thu Nov 09 2023 16:04:07 GMT+0000 (Coordinated Universal Time)
 cuid: clordpsz2000309jo2ngc5rcv
 slug: css-currentcolor-accent-color-color-mix
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1699541532010/58445cde-0eb5-4ab7-84d7-7da7f95aaee2.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1699541519709/2c3a8836-11f2-4219-aa05-2cce7a71933e.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1699545995195/5eedb89d-26e1-4899-b8a9-414e82d5368e.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1699546007688/765e2fe4-d61f-40a5-a4ab-ae6b08a1818f.png
 tags: css3, css, color
 
 ---
