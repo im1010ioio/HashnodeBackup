@@ -224,7 +224,7 @@ LCH/OKLCH 使用的色彩空間是 CIELAB，是目前最大的色彩空間之一
 
 不過，如果我們是要使用 CSS 或程式創作圖像，如酷炫的互動設計、未來的生成式藝術（Generative Art ）等等，或許就很有幫助了，可以增加更多顏色變化的可能性。當使用者螢幕好時，可以盡可能呈現更好的色彩。
 
-> 註：目前 CSS 率先支援了廣色域，但是 JS 還沒有，所以創作生成式藝術，如 p5.js，可能還要等等，詳情請參考：[Support for new high definition color spaces. · Issue #6190 · processing/p5.js](https://github.com/processing/p5.js/issues/6190)。（2023/11）
+> 註：目前 CSS 率先支援了廣色域，但是 p5.js 還沒有，所以創作生成式藝術可能還要等等，詳情請參考：[Support for new high definition color spaces. · Issue #6190 · processing/p5.js](https://github.com/processing/p5.js/issues/6190)。（2023/11）
 
 #### 如果使用者的螢幕無法顯示廣色域的顏色怎麼辦？
 
