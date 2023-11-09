@@ -1,5 +1,5 @@
 ---
-title: "✴️#32 CSS currentcolor、accent-color 與混色的 color-mix() 讓規劃色彩系統好方便！"
+title: "#32 CSS currentcolor、accent-color 與混色的 color-mix() 讓規劃色彩系統好方便！"
 datePublished: Thu Nov 09 2023 16:04:07 GMT+0000 (Coordinated Universal Time)
 cuid: clordpsz2000309jo2ngc5rcv
 slug: css-currentcolor-accent-color-color-mix
