@@ -52,7 +52,7 @@ tags: css3, css, color
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1699542387617/8000662e-1980-4274-9f4d-ee53c9914fd7.png align="center")
 
-不同色彩空間的運算方式會有不同，所以會造成混色結果不同，關於色彩空間的基本介紹請看上一篇：[#31 CSS 顏色設定：基本的 hex、rgb()、cmyk()、hsl()、hsb() 、hwb() 與明日之星的 lch()、oklch()](https://im1010ioio.hashnode.dev/css-colors-hex-rgb-hsl-lch-oklch)。
+不同色彩空間的運算方式不同，所以會造成混色結果不同，關於色彩空間的基本介紹請看上一篇：[#31 CSS 顏色設定：基本的 hex、rgb()、cmyk()、hsl()、hsb() 、hwb() 與明日之星的 lch()、oklch()](https://im1010ioio.hashnode.dev/css-colors-hex-rgb-hsl-lch-oklch)。
 
 ### 建立色彩系統很方便
 
