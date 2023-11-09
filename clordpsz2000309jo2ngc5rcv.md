@@ -48,7 +48,7 @@ tags: css3, css, color
 
 ### 基本寫法
 
-`color-mix()` 是一個很新的 CSS 設定顏色的方式，而且支援度已經 100%，他能夠將兩個顏色混在一起，基本寫法如下：
+`color-mix()` 是一個很新的 CSS 設定顏色的方式，不過支援度已經 100%，可以試著使用看看。它能夠將兩個顏色混在一起，基本寫法如下：
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1699542387617/8000662e-1980-4274-9f4d-ee53c9914fd7.png align="center")
 
