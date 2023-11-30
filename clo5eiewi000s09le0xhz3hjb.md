@@ -177,6 +177,7 @@ LCH/OKLCH 目前支援度已 100%，但是而在繪圖軟體中，還無法直�
 
 > 延伸閱讀：  
 > [設計女子艾瑪 - 為什麼我的漸層色髒髒的？運用 LCH 色彩升級你的漸層色](https://www.instagram.com/p/CvM9Ycgv9y2/)  
+> [Better Gradients | Dan Hollick](https://typefully.com/DanHollick/better-gradients-ViH6Bu2kDRBJ)  
 > [Non-Boring Gradients - A non linear CSS gradient generator](https://non-boring-gradients.netlify.app/)
 
 #### 使用 CSS 設定漸層色彩空間（Interpolation color space）
