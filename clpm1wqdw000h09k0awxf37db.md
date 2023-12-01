@@ -55,7 +55,7 @@ tags: css3, css, cssmediaqueries, prefers-color-scheme
 接著，我們可以使用 CSS 的變數，設定淺色模式時 11 個階層的灰階（由淺至深，含黑白色），然後，再另外於深色模式時將變數依序顛倒設定（由深至淺，含黑白色），覆蓋開頭設定的灰階變數。
 
 > 關於 CSS 變數的的寫法，可參考這系列之前的文章：  
-> [#09 原生的 CSS 變數，基本與進階應用](https://ithelp.ithome.com.tw/articles/10327133)
+> [#09 原生的 CSS 變數，基本與進階應用](https://im1010ioio.hashnode.dev/css-variables)
 
 **CSS**
 
