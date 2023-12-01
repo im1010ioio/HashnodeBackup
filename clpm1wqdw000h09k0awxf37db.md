@@ -27,7 +27,7 @@ tags: css3, css, cssmediaqueries, prefers-color-scheme
 
 ## 一、Media Queries 的 `prefers-color-scheme`
 
-在 CSS 中我們可以透過 Media Queries 的 prefers-color-scheme 偵測使用者的裝置是偏好淺色還是深色模式。語法很簡單，總共有 3 個值可以使用：
+在 CSS 中我們可以透過 Media Queries 的 `prefers-color-scheme` 偵測使用者的裝置是偏好淺色還是深色模式。語法很簡單，總共有 3 個值可以使用：
 
 1. `no-preference`：當使用者裝置偏好色系不知道時
     
