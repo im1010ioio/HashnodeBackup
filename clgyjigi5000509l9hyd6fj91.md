@@ -1,12 +1,12 @@
 ---
-title: "免費下載！結婚登記用，簡約結婚書約 🤍 (內含中英對照)"
+title: "免費下載！結婚登記用，簡約結婚書約 🤍 (內含同婚版、中英對照)"
 seoTitle: "免費下載！結婚登記用，簡約結婚書約 🤍 (內含中英對照)"
 seoDescription: "身為設計師，自己的結婚書約當然是自己做囉！但是因為當時很忙碌，所以以極簡、快速的方向進行設計。而且，我不喜歡繁複的設計，我想用簡單高雅的版面來記錄我們的這個時刻。"
 datePublished: Thu Apr 27 2023 03:03:07 GMT+0000 (Coordinated Universal Time)
 cuid: clgyjigi5000509l9hyd6fj91
 slug: free-application-for-marriage
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1682563615213/4aeed532-fed4-4c8a-8b8d-c6dc7d974a84.jpeg
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1682564298897/4420ec71-1e0d-4fa7-9649-413ff7a070b5.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1703785273093/1a2edd99-0ffc-4b80-88c9-7b8e423333a0.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1703785370542/3c2bccb3-5b80-4453-a1cb-a9c8ea41d102.png
 tags: design, free, marriage
 
 ---
@@ -37,7 +37,9 @@ tags: design, free, marriage
 
 ---
 
-> 下載連結 👉 🤍 [DOWNLOAD HERE](https://drive.google.com/file/d/1quZFqvtf101sRdsCwQc8r5ffvaMyZU5N/view?usp=share_link) 🤍
+> 一般版本 👉 🤍 [DOWNLOAD HERE](https://drive.google.com/file/d/1quZFqvtf101sRdsCwQc8r5ffvaMyZU5N/view?usp=share_link) 🤍
+> 
+> 同婚版本👉 🤍 [DOWNLOAD HERE](https://drive.google.com/file/d/1PIgRwuuBKR52N3W0YDt-1_9-TxoOafDr/view?usp=drive_link) 🤍
 
 #### 🤍 使用規範
 
