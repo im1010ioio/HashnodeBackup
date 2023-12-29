@@ -41,6 +41,8 @@ tags: design, free, marriage
 > 
 > 同婚版本👉 🤍 [DOWNLOAD HERE](https://drive.google.com/file/d/1PIgRwuuBKR52N3W0YDt-1_9-TxoOafDr/view?usp=drive_link) 🤍
 
+（兩種版本差別在於提及的條文不同）
+
 #### 🤍 使用規範
 
 ✅ 僅限個人使用  
