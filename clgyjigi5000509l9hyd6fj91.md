@@ -39,7 +39,7 @@ tags: design, free, marriage
 
 > 一般版本 👉 🤍 [DOWNLOAD HERE](https://drive.google.com/file/d/1quZFqvtf101sRdsCwQc8r5ffvaMyZU5N/view?usp=share_link) 🤍
 > 
-> 同婚版本👉 🤍 [DOWNLOAD HERE](https://drive.google.com/file/d/1PIgRwuuBKR52N3W0YDt-1_9-TxoOafDr/view?usp=drive_link) 🤍
+> 同婚版本 👉 🤍 [DOWNLOAD HERE](https://drive.google.com/file/d/1PIgRwuuBKR52N3W0YDt-1_9-TxoOafDr/view?usp=drive_link) 🤍
 
 （兩種版本差別在於提及的條文不同）
 
