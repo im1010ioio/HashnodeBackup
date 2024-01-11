@@ -88,7 +88,7 @@ img {
 
 > 延伸閱讀：[#17 CSS block、inline、inline-block：網頁排版的御三家](https://im1010ioio.hashnode.dev/css-block-inline-inline-block)
 
-最後再在 `<img>` 上加上 `object-fit: cover;` 就能貼和父層相框了。
+最後再在 `<img>` 上加上 `object-fit: cover;` 就能貼合父層相框了。
 
 > 關於 `object-fit` 的值除了 `cover` 外，還有很多種值可以設定，如 `fill` 與 `contain`，詳細請看：[object-fit - CSS：层叠样式表 | MDN](https://developer.mozilla.org/zh-CN/docs/Web/CSS/object-fit)
 
