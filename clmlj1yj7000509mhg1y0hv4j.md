@@ -149,7 +149,7 @@ tags: css3, css, html, html5
 
 ### 形狀 & 圖形
 
-* `#34` CSS 讓圖片填滿容器的各種方法，以圓形大頭貼為例：object-fit 與 background-size，搭配 aspect-ratio
+* `#34` [CSS 讓圖片填滿容器的各種方法，以圓形大頭貼為例：object-fit 與 background-size，搭配 aspect-ratio](https://im1010ioio.hashnode.dev/css-object-fit-background-size-aspect-ratio)
     
 * `#35` 圖片的 1x, 2x, 3x 是什麼？關於網頁上圖片解析度的處理：HTML srcset、CSS image-set() 與 @media resolution
     
