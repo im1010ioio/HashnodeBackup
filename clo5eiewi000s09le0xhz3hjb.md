@@ -233,7 +233,7 @@ LCH/OKLCH 使用的色彩空間是 CIELAB，是目前最大的色彩空間之一
 
 大家可以試看看一下的 DEMO，兩者皆是同色相的水藍色：
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1704949523401/2f1d90c7-18fc-4ed0-ac18-691d1a4c2976.png align="center")
+![oklch vs. hex color ](https://cdn.hashnode.com/res/hashnode/image/upload/v1704949523401/2f1d90c7-18fc-4ed0-ac18-691d1a4c2976.png align="center")
 
 > DEMO：[oklch vs. hex color](https://codepen.io/im1010ioio/pen/Exrjygv)
 
