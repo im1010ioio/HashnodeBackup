@@ -201,7 +201,7 @@ div{
 
 這個屬性用來設定背景圖的位置，預設值會是左上 ( `background-position: top left;` )，我們希望照片擷取中間，所以這次會設定為 `background-position: center;` 。
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1704987399549/1c23adee-dcb0-410b-972b-d111d9a085a4.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1705028057533/cb29fa6c-ef5a-4f8a-ad91-82ef81f948f4.png align="center")
 
 #### (5) HTML 實作
 
