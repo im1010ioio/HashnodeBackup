@@ -147,7 +147,7 @@ tags: css3, css, html, html5
 * `#33` [CSS 切換淺色/深色模式：Media Queries 的 prefers-color-scheme 搭配 CSS 變數](https://im1010ioio.hashnode.dev/css-prefers-color-scheme)
     
 
-### 形狀 & 圖形
+### 形狀 & 圖像
 
 * `#34` [CSS 讓圖片填滿容器的各種方法，以圓形大頭貼為例：object-fit 與 background-size，搭配 aspect-ratio](https://im1010ioio.hashnode.dev/css-object-fit-background-size-aspect-ratio)
     
