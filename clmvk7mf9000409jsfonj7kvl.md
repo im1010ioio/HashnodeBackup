@@ -96,7 +96,7 @@ span {
 ```
 
 ```css
-p           { color: red; !important } /* 最後 p 的顏色會是紅色  */
+p           { color: red !important; } /* 最後 p 的顏色會是紅色  */
 p.text      { color: yellow; }
 p#main-text { color: blue; }
 ```
