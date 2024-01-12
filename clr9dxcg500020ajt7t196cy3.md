@@ -84,7 +84,7 @@ img {
 
 #### (2) 子層 (圖片) `<img>`
 
-在裡面的圖片，將其寬度設為 `100%`，並使用 `aspect-ratio: 1 / 1;` 讓他的比例為一比一。父層的會被裡面的 `<img>` 撐高，不過 HTML `<img>` 預設的 display 為 inline，所以它的 line-height 會造成與父容器高度略有不同，可以將父層 line-height 設為 0，或是將 `<img>` 預設為 block。
+在裡面的圖片，將其寬度設為 `100%`，並使用 `aspect-ratio: 1 / 1;` 讓他的比例為一比一。父層的會被裡面的 `<img>` 撐高，不過 HTML `<img>` 預設的 display 為 inline，所以它的 line-height 會造成與父容器高度略有不同，可以將父層 line-height 設為 0，或是將 `<img>` 設為 block。
 
 > 延伸閱讀：[#17 CSS block、inline、inline-block：網頁排版的御三家](https://im1010ioio.hashnode.dev/css-block-inline-inline-block)
 
