@@ -184,6 +184,8 @@ tags: css3, css, html, images, html5, 2articles1week, resolution
 
 Media Queries 的 `resolution` 屬性，除了使用 1x、2x、3x 作為單位，也可以使用 `dppx`、`dpi`、`dpcm` 作為單位。此外，除了運用在螢幕上，也可以運用在列印上。
 
+> 延伸閱讀：[resolution - CSS: Cascading Style Sheets | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/resolution)
+
 > 另外，還有一個寫法是 `-webkit-device-pixel-ratio` ，它也可以達到一樣的效果，但是它並非標準寫法，MDN 建議還是使用 `resolution` 的寫法。
 > 
 > 延伸閱讀：[\-webkit-device-pixel-ratio - CSS：級聯樣式表 |MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/-webkit-device-pixel-ratio)
@@ -202,7 +204,7 @@ window.devicePixelRatio;
 
 > 延伸閱讀：[Window: devicePixelRatio property - Web APIs](https://developer.mozilla.org/en-US/docs/Web/API/Window/devicePixelRatio)
 
-最快的實測方式，就是打開瀏覽器的開發者模式，把這行打上去，以 Chrome 為例：
+最快的實測方式，就是打開瀏覽器的開發者模式，在 console 面板把這行打上去，以 Chrome 為例：
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1705508054760/f29ff35e-e647-4a2d-a9bc-792c772a4bca.png align="center")
 
