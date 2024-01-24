@@ -195,14 +195,14 @@ div:target      { ... } /* 當元素的 id (錨點) 與 URL 上的 hash 相同 *
 有了這些選擇器，我們可以做到許多基本的互動效果，更詳細的實例 DEMO 預計會放在未來的互動章節裡。
 
 > 延伸閱讀：  
-> [浅谈 :focus 伪类选择器和聚焦后 outline 边框的设置问题 - 掘金 (](https://juejin.cn/post/7179149715458490405)[juejin.cn](http://juejin.cn)[)](https://juejin.cn/post/7179149715458490405)  
-> [:target - CSS：层叠样式表 | MDN (](https://developer.mozilla.org/zh-CN/docs/Web/CSS/:target)[mozilla.org](http://mozilla.org)[)](https://developer.mozilla.org/zh-CN/docs/Web/CSS/:target)
+> [浅谈 :focus 伪类选择器和聚焦后 outline 边框的设置问题 - 掘金](https://juejin.cn/post/7179149715458490405)  
+> [:target - CSS：层叠样式表 | MDN](https://developer.mozilla.org/zh-CN/docs/Web/CSS/:target)
 
 ---
 
-### **5\. Input 狀態**
+### [**5\. Input 狀態**](https://developer.mozilla.org/zh-CN/docs/Web/CSS/:target)
 
-* 當 `<input>` 沒有 `disabled` 屬性時就是 `enabled` 狀態，反之就是 `disabled`。
+* [當 `<inp`](https://developer.mozilla.org/zh-CN/docs/Web/CSS/:target)`ut>` 沒有 `disabled` 屬性時就是 `enabled` 狀態，反之就是 `disabled`。
     
 * `checked` 專門用在 `type="radio"` 或 `type="chechbox"` 的 `<input>` 上。
     
