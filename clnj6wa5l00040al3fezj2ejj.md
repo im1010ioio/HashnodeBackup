@@ -166,7 +166,7 @@ Media Query 有最新的改良寫法，可以使用普通的數學符號：`>`�
 ```
 
 > 延伸閱讀：  
-> [Media Queries Level 4: Media Query Range Contexts (Media Query Ranges) –](https://www.bram.us/2021/10/26/media-queries-level-4-media-query-range-contexts/#:~:text=In%20CSS%20Media%20Queries%20Level%204%20these%20type,%E2%80%9Cthe%20width%20sits%20in%20between%20the%20two%20values%E2%80%9D) [Bram.us](http://Bram.us)  
+> [Media Queries Level 4: Media Query Range Contexts (Media Query Ranges) –](https://www.bram.us/2021/10/26/media-queries-level-4-media-query-range-contexts/#:~:text=In%20CSS%20Media%20Queries%20Level%204%20these%20type,%E2%80%9Cthe%20width%20sits%20in%20between%20the%20two%20values%E2%80%9D)[Bram.us](http://Bram.us)  
 > ["Media Query Range Context" | Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/?search=Media%20Query%20Range%20Context)
 
 #### (3) 可搭配原生 CSS 巢狀使用
@@ -247,9 +247,9 @@ Media Query 可以透過 pointer 來判斷裝置支援點擊的精準度，共�
 
 iOS Safari 號稱 Apple 中的 IE，我這邊整理一下在開發上的經驗。
 
-### 1\. `<input>` `<textarea>` 字體大小建議大於 16px
+### 1\. `<input><textarea>` 字體大小建議大於 16px
 
-在 iOS Safari 上的 `<input>` `<textarea>` 字體大小建議設定大於 16px，不然的話 Safari 會在 focus 的瞬間將你的網頁連同輸入框一起放大，導致使用者要再來回縮放畫面，造成體驗不佳。有人提議可以在 HTML meta data 上加上 `user-scalable=no` ，但是我實測沒有什麼用 QQ。
+在 iOS Safari 上的 `<input><textarea>` 字體大小建議設定大於 16px，不然的話 Safari 會在 focus 的瞬間將你的網頁連同輸入框一起放大，導致使用者要再來回縮放畫面，造成體驗不佳。有人提議可以在 HTML meta data 上加上 `user-scalable=no` ，但是我實測沒有什麼用 QQ。
 
 如果想測試，可以用 iPhone 打開以下 DEMO 試試看：
 
@@ -292,6 +292,8 @@ iOS Safari 號稱 Apple 中的 IE，我這邊整理一下在開發上的經驗�
 接著使用一條線連結 Mac 與 iPhone，這時候 iPhone 可能會跳出通知詢問是否要信任這台電腦，請選信任；Mac 也可能會詢問要允許配件連接嗎，請選允許。
 
 如此一來，在 Mac Safari 的開發選單中，就可以看到你的 iPhone 的名稱與目前 iPhone Safari 正在開啟的頁面，選取它就能夠使用 Safari 的開發者工具 debug 囉！
+
+> 若你在選單列中沒有看到「開發」選單，請選擇 Safari &gt;「設定」，按一下「進階」，然後選取「在選單列中顯示『開發』選單」。（來源：[Apple Safari 使用手冊](https://support.apple.com/zh-tw/guide/safari/sfri20948/16.1/mac/13.6.2)）
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1696871759251/c2c1f9f2-97da-47f2-b6de-1a3b1dd14d14.png align="center")
 
