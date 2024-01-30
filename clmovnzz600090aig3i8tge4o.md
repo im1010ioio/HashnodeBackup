@@ -81,10 +81,13 @@ Chrome &gt; Safari &gt; Edge &gt; Samsung Internet &gt; Firefox &gt; Opera。
     是三星在手機上的 Android 瀏覽器，使用 Google 的開源 Chromium 項目進行開發，所以也是基於 Blink 的。
     
 * **Safari**：  
-    由於他並不是基於 Google 的 Blink 開發，所以與上述三者落差稍微大一點。可是，因為 iPhone、iPad 普及的關係，所以市佔率不低，在這裡也是不能壞掉。但也因此，遇到 Safari 的陷阱時就會讓人很傷腦筋，於是被眾人戲稱為 Mac/iPhone 上的 IE。
-    
-    Mac 和 iPhone 上的呈現有時候也會不一樣，兩者都要測試。  
-    到時候寫到 RWD，我再教大家如何使用 Mac debug 手機版的 Safari。
+    由於他並不是基於 Google 的 Blink 開發，所以與上述三者落差稍微大一點。可是，因為 iPhone、iPad 普及的關係，所以市佔率不低，在這裡也是不能壞掉。  
+      
+    也因此，遇到 Safari 的陷阱時就會讓人很傷腦筋，於是被眾人戲稱為 Mac / iPad / iPhone 上的 IE。Mac 和 iPhone 上的呈現有時候也會不一樣，兩者都要測試。  
+      
+    此外，由於 iOS 移動裝置（iPad / iPhone）是個很封閉的系統，在 iPad / iPhone 上的其他瀏覽器，如 Chrome、Edge、Firefox 等，其實內部核心都是 Safari，和電腦不同。因此，並不是 Mac 上的 Chrome、Edge、Firefox 沒事就沒問題，要實測一遍才知道會不會有問題喔！  
+      
+    本文結尾，我會教大家如何使用 Mac debug 手機版的 Safari，請繼續往下看。
     
 
 ### Mozilla
