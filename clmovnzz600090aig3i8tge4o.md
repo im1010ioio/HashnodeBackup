@@ -87,7 +87,7 @@ Chrome &gt; Safari &gt; Edge &gt; Samsung Internet &gt; Firefox &gt; Opera。
       
     此外，由於 iOS 移動裝置（iPad / iPhone）是個很封閉的系統，在 iPad / iPhone 上的其他瀏覽器，如 Chrome、Edge、Firefox 等，其實內部核心都是 Safari，和電腦不同。因此，並不是 Mac 上的 Chrome、Edge、Firefox 沒事就沒問題，要實測一遍才知道會不會有問題喔！  
       
-    本文結尾，我會教大家如何使用 Mac debug 手機版的 Safari，請繼續往下看。
+    到時候寫到 RWD，我再教大家如何使用 Mac debug 手機版的 Safari。
     
 
 ### Mozilla
