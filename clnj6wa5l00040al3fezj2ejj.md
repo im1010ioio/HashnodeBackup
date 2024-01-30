@@ -247,6 +247,12 @@ Media Query 可以透過 pointer 來判斷裝置支援點擊的精準度，共�
 
 iOS Safari 號稱 Apple 中的 IE，我這邊整理一下在開發上的經驗。
 
+> 由於 Safari 並不是基於 Google 的 Blink 開發，所以與上述三者落差稍微大一點。可是，因為 iPhone、iPad 普及的關係，所以市佔率不低，在這裡也是不能壞掉。
+> 
+> 也因此，遇到 Safari 的陷阱時就會讓人很傷腦筋，於是被眾人戲稱為 Mac / iPad / iPhone 上的 IE。Mac 和 iPhone 上的呈現有時候也會不一樣，兩者都要測試。
+> 
+> 此外，由於 iOS 移動裝置（iPad / iPhone）是個很封閉的系統，在 iPad / iPhone 上的其他瀏覽器，如 Chrome、Edge、Firefox 等，其實內部核心都是 Safari，和電腦不同。因此，並不是 Mac 上的 Chrome、Edge、Firefox 沒事就沒問題，要實測一遍才知道會不會有問題喔！
+
 ### 1\. `<input><textarea>` 字體大小建議大於 16px
 
 在 iOS Safari 上的 `<input><textarea>` 字體大小建議設定大於 16px，不然的話 Safari 會在 focus 的瞬間將你的網頁連同輸入框一起放大，導致使用者要再來回縮放畫面，造成體驗不佳。有人提議可以在 HTML meta data 上加上 `user-scalable=no` ，但是我實測沒有什麼用 QQ。
