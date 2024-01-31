@@ -13,6 +13,8 @@ tags: design, free, marriage
 
 身為設計師，自己的結婚書約當然是自己做囉！但是因為當時很忙碌，所以以極簡、快速的方向進行設計。而且，我不喜歡繁複的設計，我想用簡單高雅的版面來記錄我們的這個時刻。
 
+> 本文同步發表於 [我的 Medium](https://medium.com/@im1010ioio/%E7%B0%A1%E7%B4%84%E5%84%AA%E9%9B%85%E7%B5%90%E5%A9%9A%E6%9B%B8%E7%B4%84-%E5%85%8D%E8%B2%BB%E4%B8%8B%E8%BC%89-f36f2aa206d3)。
+
 ---
 
 最近聽到一個概念：「當你和世界分享你的天賦與才華，就能迎接豐盛 ( abundance )」，所以我想與你們分享當初的這份紀念，給需要的人。
@@ -42,6 +44,8 @@ tags: design, free, marriage
 > 同婚版本 👉 🤍 [DOWNLOAD HERE](https://drive.google.com/file/d/1PIgRwuuBKR52N3W0YDt-1_9-TxoOafDr/view?usp=sharing) 🤍
 
 （兩種版本差別在於提及的條文不同）
+
+> 如果遇到無法解壓縮的狀況，請試試看使用 [7-Zip](https://7-zip.org/) 等解壓縮軟體解壓縮，若再不行，請聯繫我，我會調整分享的方式。
 
 #### 🤍 使用規範
 
