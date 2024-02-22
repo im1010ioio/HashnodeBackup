@@ -95,7 +95,7 @@ tags: css3, css, css-grid
 > 另外可參考網路上 R+ 大大的 DEMO：[**Pokédex in CSS grid**](https://codepen.io/Rplus/pen/MbddMe)
 
 指定格子的大小範圍，可以設定最大最小值。  
-例如：`repeat(auto-fill, minmax(200px, 1fr))` 是「**重複，並自動填滿多個格子，每個格子最小是 100px，最大是平均一等分**」。這個超級好用！很適合做照片牆或圖鑑。
+例如：`repeat(auto-fill, minmax(100px, 1fr))` 是「**重複，並自動填滿多個格子，每個格子最小是 100px，最大是平均一等分**」。這個超級好用！很適合做照片牆或圖鑑。
 
 ### 4\. 排序方式：`grid-auto-flow`
 
