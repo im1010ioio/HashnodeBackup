@@ -16,7 +16,7 @@ tags: css3, css, css-nesting
 > * 了解原生 CSS 巢狀的限制 (與 SCSS 比較)
 >     
 
-以往 CSS 要使用巢狀管理要透過 Sass (SCSS) 或 Less 等預處理器才能實現，現在原生的 CSS 巢狀也可以使用了。前陣子在 Firefox 117 終於支援，現在瀏覽器支援度 100%，可以逐漸開始使用它囉！
+以往 CSS 要使用巢狀管理要透過 Sass (SCSS) 或 Less 等預處理器才能實現，現在原生的 CSS 巢狀也可以使用了。前陣子在 Firefox 117 終於支援，可以逐漸開始使用它囉！
 
 ---
 
