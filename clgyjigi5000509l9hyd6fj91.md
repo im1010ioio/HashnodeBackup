@@ -117,4 +117,4 @@ tags: design, free, marriage
 ![小額贊助 Eva Chen](https://cdn.hashnode.com/res/hashnode/image/upload/v1682564435616/c15640fc-6cee-4c33-a898-9cd6820f165a.png align="center")
 
 謝謝你們看到這裡！  
-那麼，就祝福大家新婚快樂囉！❤️
+祝福大家新婚愉快喔！🥰
