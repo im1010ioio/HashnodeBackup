@@ -19,7 +19,7 @@ tags: design, free, marriage
 
 最近聽到一個概念：「當你和世界分享你的天賦與才華，就能迎接豐盛 ( abundance )」，所以我想與你們分享當初的這份紀念，給需要的人。
 
-![免費結婚書約下載](https://cdn.hashnode.com/res/hashnode/image/upload/v1682563663402/64e1510f-2c34-427f-a8c6-59d5561562f9.png align="center")
+![結婚書約 免費下載（內含中英對照、同婚版本）](https://cdn.hashnode.com/res/hashnode/image/upload/v1682563663402/64e1510f-2c34-427f-a8c6-59d5561562f9.png align="center")
 
 以上是模擬印在紙上並放在框裡的樣子。
 
@@ -110,7 +110,7 @@ tags: design, free, marriage
 或者是，  
 送杯珍奶鼓勵我 → [🧋https://](https://im1010ioio.bobaboba.me/)[im1010ioio.bobaboba.me/](http://im1010ioio.bobaboba.me/)
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1682564435616/c15640fc-6cee-4c33-a898-9cd6820f165a.png align="center")
+![小額贊助 Eva Chen](https://cdn.hashnode.com/res/hashnode/image/upload/v1682564435616/c15640fc-6cee-4c33-a898-9cd6820f165a.png align="center")
 
 謝謝你們看到這裡！  
 那麼，就祝福大家新婚快樂囉！❤️
