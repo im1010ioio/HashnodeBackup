@@ -39,35 +39,28 @@ tags: design, free, marriage
 
 ---
 
+### 🤍 下載連結
+
 > 一般版本 👉 🤍 [DOWNLOAD HERE](https://drive.google.com/file/d/1quZFqvtf101sRdsCwQc8r5ffvaMyZU5N/view?usp=share_link) 🤍
 > 
 > 同婚版本 👉 🤍 [DOWNLOAD HERE](https://drive.google.com/file/d/1PIgRwuuBKR52N3W0YDt-1_9-TxoOafDr/view?usp=sharing) 🤍
 
 （兩種版本差別在於提及的條文不同）
 
+### 🤍 下載方法
+
+進到 Google 雲端檔案連結後，點擊右上角下載圖示，如下圖所示：
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1709707338263/dce06cee-c91b-47cd-b8a7-5404b7fb7cff.png align="center")
+
 > 如果遇到無法解壓縮的狀況，請試試看使用 [7-Zip](https://7-zip.org/) 等解壓縮軟體解壓縮，若再不行，請聯繫我，我會調整分享的方式。
 
-#### 🤍 使用規範
+### 🤍 使用規範
 
 ✅ 僅限個人使用  
 ✅ 轉載請連結至此頁面並且署名  
 ❌ 禁止未經許可二次發布/轉售  
 ❌ 禁止重製後再次發布
-
----
-
-#### ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
-
-如果你喜歡我的創作，還想看看其他有趣的分享與日常，  
-可以追蹤我的 IG → [@im1010ioio • Instagram 相片與影片](https://www.instagram.com/im1010ioio/)
-
-或者是，  
-送杯珍奶鼓勵我 → [🧋https://](https://im1010ioio.bobaboba.me/)[im1010ioio.bobaboba.me/](http://im1010ioio.bobaboba.me/)
-
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1682564435616/c15640fc-6cee-4c33-a898-9cd6820f165a.png align="center")
-
-謝謝你們看到這裡！  
-那麼，就祝福大家新婚快樂囉！❤️
 
 ---
 
@@ -105,3 +98,19 @@ tags: design, free, marriage
 * [Simple Homes Mockup Free Scenes](https://www.mockupcloud.com/free/simple-homes-mockup-free-scenes)
     
 * [Sunny poster frame mockup](https://mockups-design.com/sunny-poster-frame-mockup/)
+    
+
+---
+
+#### ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+
+如果你喜歡我的創作，還想看看其他有趣的分享與日常，  
+可以追蹤我的 IG → [@im1010ioio • Instagram 相片與影片](https://www.instagram.com/im1010ioio/)
+
+或者是，  
+送杯珍奶鼓勵我 → [🧋https://](https://im1010ioio.bobaboba.me/)[im1010ioio.bobaboba.me/](http://im1010ioio.bobaboba.me/)
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1682564435616/c15640fc-6cee-4c33-a898-9cd6820f165a.png align="center")
+
+謝謝你們看到這裡！  
+那麼，就祝福大家新婚快樂囉！❤️
