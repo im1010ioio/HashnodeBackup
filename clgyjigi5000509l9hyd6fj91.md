@@ -47,6 +47,8 @@ tags: design, free, marriage
 
 （兩種版本差別在於提及的條文不同）
 
+---
+
 ### 🤍 下載方法
 
 進到 Google 雲端檔案連結後，點擊右上角下載圖示，如下圖所示：
@@ -54,6 +56,8 @@ tags: design, free, marriage
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1709707338263/dce06cee-c91b-47cd-b8a7-5404b7fb7cff.png align="center")
 
 > 如果遇到無法解壓縮的狀況，請試試看使用 [7-Zip](https://7-zip.org/) 等解壓縮軟體解壓縮，若再不行，請聯繫我，我會調整分享的方式。
+
+---
 
 ### 🤍 使用規範
 
