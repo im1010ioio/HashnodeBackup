@@ -165,6 +165,8 @@ Media Query 有最新的改良寫法，可以使用普通的數學符號：`>`�
 @media screen and (width > 992px) { ... }
 ```
 
+不過如果 TA 有使用較舊的瀏覽器的話，要斟酌使用。
+
 > 延伸閱讀：  
 > [Media Queries Level 4: Media Query Range Contexts (Media Query Ranges) –](https://www.bram.us/2021/10/26/media-queries-level-4-media-query-range-contexts/#:~:text=In%20CSS%20Media%20Queries%20Level%204%20these%20type,%E2%80%9Cthe%20width%20sits%20in%20between%20the%20two%20values%E2%80%9D)[Bram.us](http://Bram.us)  
 > ["Media Query Range Context" | Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/?search=Media%20Query%20Range%20Context)
