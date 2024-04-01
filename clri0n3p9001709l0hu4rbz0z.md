@@ -15,11 +15,11 @@ tags: css3, css, html, images, html5, 2articles1week, resolution
 >     
 > * 了解像素密度 (Pixel Density) 的原理
 >     
-> * 使用 HTML `<img>` `srcset` 屬性處理圖片
+> * 使用 HTML `<img>srcset` 屬性處理圖片
 >     
-> * 使用 CSS `background-image` `image-set()` 處理圖片
+> * 使用 CSS `background-imageimage-set()` 處理圖片
 >     
-> * 使用 CSS `@media` `resolution` 處理圖片
+> * 使用 CSS `@mediaresolution` 處理圖片
 >     
 
 為什麼我的圖片明明大小沒錯，在較好的螢幕上（例如 apple retina 螢幕）卻顯得糊糊的？
@@ -127,9 +127,9 @@ tags: css3, css, html, images, html5, 2articles1week, resolution
 
 ## 三、HTML/CSS 實作 DEMO
 
-### 1\. HTML `<img>` `srcset`
+### 1\. HTML `<img>srcset`
 
-使用 HTML 的 `<img>` `srcset` 屬性就能很輕易地依據使用者裝置切換對應像素密度的圖片，不同密度的圖片使用逗號隔開，語法如下：
+使用 HTML 的 `<img>srcset` 屬性就能很輕易地依據使用者裝置切換對應像素密度的圖片，不同密度的圖片使用逗號隔開，語法如下：
 
 ```xml
 <img srcset="1x圖檔連結 1x,
@@ -145,7 +145,7 @@ tags: css3, css, html, images, html5, 2articles1week, resolution
 
 ---
 
-### 2\. CSS `background-image` `image-set()`
+### 2\. CSS `background-imageimage-set()`
 
 還有一種方法，那就是 CSS 中 `background-image` 的 `image-set()` ，詳細語法如下：
 
@@ -162,7 +162,7 @@ tags: css3, css, html, images, html5, 2articles1week, resolution
 
 ---
 
-### 3\. CSS `@media` `min-resolution` / `max-resolution`
+### 3\. CSS `@mediamin-resolution` / `max-resolution`
 
 最後一種方式，是使用 CSS Media Queries 的新屬性：`min-resolution` 或 `max-resolution` ，語法如下：
 
@@ -221,6 +221,8 @@ window.devicePixelRatio;
 ---
 
 #### ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+
+感謝看到最後的你，若你覺得獲益良多，請不要吝嗇給我按個喜歡。❤️
 
 如果你喜歡我的創作，還想看看其他有趣的分享與日常，  
 可以追蹤我的 IG [@im1010ioio](https://www.instagram.com/im1010ioio/)，或者是[🧋送杯珍奶鼓勵我](https://im1010ioio.bobaboba.me/)，謝謝你🥰。
