@@ -18,7 +18,7 @@ tags: animal-crossing, acnh, princess-maker, 44gc44gk5qou, 5yuv54mp5qou5yl5pyd
 ### 𓇬 美少女夢工場 3 代的特色
 
 美少女夢工場 3 代，劇情方面更多細節，遊戲體驗更豐富完整了。  
-現在復刻版在 [**Steam**](https://store.steampowered.com/app/1155980/Princess_Maker_Faery_Tales_Come_True_HD_Remake/) **、 Switch** 上還有可以玩喔！
+現在復刻版在 [**Steam**](https://store.steampowered.com/app/1155980/Princess_Maker_Faery_Tales_Come_True_HD_Remake/)**、 Switch** 上還有可以玩喔！
 
 ![美少女夢工場 3 代](https://cdn.hashnode.com/res/hashnode/image/upload/v1692718192405/2fc01f06-e7e8-4669-997f-3388c5dad435.jpeg align="center")
 
@@ -81,6 +81,8 @@ tags: animal-crossing, acnh, princess-maker, 44gc44gk5qou, 5yuv54mp5qou5yl5pyd
 ---
 
 #### ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+
+感謝看到最後的你，若你覺得獲益良多，請不要吝嗇給我按個喜歡。❤️
 
 如果你喜歡我的創作，還想看看其他有趣的分享與日常，  
 可以追蹤我的 IG → [@im1010ioio • Instagram 相片與影片](https://www.instagram.com/im1010ioio/)
