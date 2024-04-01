@@ -48,7 +48,7 @@ UI 是 UX 中的一環，而且分界十分模糊，所以許多人會融合這�
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684342707441/0b27ce5c-29b7-49d3-802f-e66bb69e2503.png align="center")
 
-`Image by` [`Freepik`](https://www.freepik.com/free-vector/image-upload-concept-landing-page_5754821.htm#query=resize%20photo%203d&position=33&from_view=search&track=ais)
+`Image by`[`Freepik`](https://www.freepik.com/free-vector/image-upload-concept-landing-page_5754821.htm#query=resize%20photo%203d&position=33&from_view=search&track=ais)
 
 #### 切圖
 
@@ -72,7 +72,7 @@ UI 是 UX 中的一環，而且分界十分模糊，所以許多人會融合這�
 
 ![網頁的前端與後端 解說圖](https://cdn.hashnode.com/res/hashnode/image/upload/v1684341334880/33e11a39-9d02-409a-ad4f-7e9873eee2af.png align="center")
 
-`(Image by` [`Freepik`](https://www.freepik.com/free-psd/3d-rendering-isometric-ecologic-concept_33753082.htm#page=2&query=home%203d&position=49&from_view=search&track=ais) `and` [`chikenbugagashenka`](https://www.freepik.com/free-vector/smar-plug-set-cartoon-vector-illustration_28629112.htm#query=extension%20cord%203d&position=10&from_view=search&track=ais) `on Freepik)`
+`(Image by`[`Freepik`](https://www.freepik.com/free-psd/3d-rendering-isometric-ecologic-concept_33753082.htm#page=2&query=home%203d&position=49&from_view=search&track=ais)`and`[`chikenbugagashenka`](https://www.freepik.com/free-vector/smar-plug-set-cartoon-vector-illustration_28629112.htm#query=extension%20cord%203d&position=10&from_view=search&track=ais)`on Freepik)`
 
 #### 網頁的前端（Front-End）
 
@@ -131,7 +131,7 @@ HTML、CSS 與 JS 的語法長得像上面圖片那樣。
 
 ![靜態網頁與動態網頁](https://cdn.hashnode.com/res/hashnode/image/upload/v1693243846797/f2b87a6f-42c6-44da-a2a9-975b6fff00f6.png align="center")
 
-[`Image by vector4stock`](https://www.freepik.com/free-vector/responsive-web-design-mockup-computer-tablet-smartphone-screens_26195961.htm#query=Responsive%20Web%20Design&position=2&from_view=search&track=ais) `on Freepik`
+[`Image by vector4stock`](https://www.freepik.com/free-vector/responsive-web-design-mockup-computer-tablet-smartphone-screens_26195961.htm#query=Responsive%20Web%20Design&position=2&from_view=search&track=ais)`on Freepik`
 
 ---
 
@@ -139,7 +139,7 @@ HTML、CSS 與 JS 的語法長得像上面圖片那樣。
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1693153606203/d0f67846-a7b6-4c72-b1b5-272e93e25efc.png align="center")
 
-[`Image by vector4stock`](https://www.freepik.com/free-vector/responsive-web-design-mockup-computer-tablet-smartphone-screens_26195961.htm#query=Responsive%20Web%20Design&position=2&from_view=search&track=ais) `on Freepik`
+[`Image by vector4stock`](https://www.freepik.com/free-vector/responsive-web-design-mockup-computer-tablet-smartphone-screens_26195961.htm#query=Responsive%20Web%20Design&position=2&from_view=search&track=ais)`on Freepik`
 
 #### 響應式網頁設計（RWD，Responsive Web Design）
 
@@ -196,6 +196,8 @@ HTML、CSS 與 JS 的語法長得像上面圖片那樣。
 ---
 
 #### ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+
+感謝看到最後的你，若你覺得獲益良多，請不要吝嗇給我按個喜歡。❤️
 
 如果你喜歡我的創作，還想看看其他有趣的分享與日常，  
 可以追蹤我的 IG [@im1010ioio](https://www.instagram.com/im1010ioio/)，或者是[🧋送杯珍奶鼓勵我](https://im1010ioio.bobaboba.me/)，謝謝你🥰。
