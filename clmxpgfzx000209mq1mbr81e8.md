@@ -172,7 +172,7 @@ p.text-change-rgb{
 }
 ```
 
-### **搭配** `@property` 使用（CSS Houdini）
+### **搭配**`@property` 使用（CSS Houdini）
 
 > 註：Firefox 暫不支援
 
@@ -192,6 +192,8 @@ CSS 變數搭配 CSS 新推出的屬性 `@property` ，可以做更進階、過�
 ---
 
 #### ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+
+感謝看到最後的你，若你覺得獲益良多，請不要吝嗇給我按個喜歡。❤️
 
 如果你喜歡我的創作，還想看看其他有趣的分享與日常，  
 可以追蹤我的 IG [@im1010ioio](https://www.instagram.com/im1010ioio/)，或者是[🧋送杯珍奶鼓勵我](https://im1010ioio.bobaboba.me/)，謝謝你🥰。
