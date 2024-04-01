@@ -130,7 +130,7 @@ tags: vscode, vs-code, vscode-extensions
 這個套件使用後能夠把你的 class name 縮起來，畫面變得清爽許多！  
 預設是折疊起 class，好像 svg 也能折疊起來， 不過我還沒有試用過。
 
-> *後記：這有個致命缺點，在編輯 vue* `v-bind:class` *一直開開合合，其實有一點不便。*  
+> *後記：這有個致命缺點，在編輯 vue*`v-bind:class`*一直開開合合，其實有一點不便。*  
 > *如果你不常更改 class name 的話，推薦！但經常要變更的話就不推薦了。*
 
 和上一個套件一樣，`.cshtml` 要能夠運作的話， 要另外將 `aspnetcorerazor` 設定到支援的語言中。
@@ -161,6 +161,8 @@ tags: vscode, vs-code, vscode-extensions
 ---
 
 #### ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+
+感謝看到最後的你，若你覺得獲益良多，請不要吝嗇給我按個喜歡。❤️
 
 如果你喜歡我的創作，還想看看其他有趣的分享與日常，  
 可以追蹤我的 IG → [@im1010ioio • Instagram 相片與影片](https://www.instagram.com/im1010ioio/)
