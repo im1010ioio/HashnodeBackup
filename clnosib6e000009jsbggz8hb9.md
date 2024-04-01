@@ -279,6 +279,8 @@ Font Awesome 是比起 Material Symbols / Icon 更齊全的網頁 icon，但是�
 
 #### ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
 
+感謝看到最後的你，若你覺得獲益良多，請不要吝嗇給我按個喜歡。❤️
+
 如果你喜歡我的創作，還想看看其他有趣的分享與日常，  
 可以追蹤我的 IG [@im1010ioio](https://www.instagram.com/im1010ioio/)，或者是[🧋送杯珍奶鼓勵我](https://im1010ioio.bobaboba.me/)，謝謝你🥰。
 
