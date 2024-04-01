@@ -53,3 +53,12 @@ HTML 的屬性 `href`、`src` 都需要指定檔案路徑才能載入進來，
 如果你的網頁 CSS、JS、連結、圖片等檔案全部都不見了，或是，按右鍵&gt;檢查，開啟開發者工具，出現許多找不到檔案的錯誤訊息，這種時候可以去查查看是否路徑有跑掉。
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1695359908225/ed16eb41-269b-4a27-8b1c-c91a7e7d7593.png align="center")
+
+---
+
+#### ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+
+感謝看到最後的你，若你覺得獲益良多，請不要吝嗇給我按個喜歡。❤️
+
+如果你喜歡我的創作，還想看看其他有趣的分享與日常，  
+可以追蹤我的 IG [@im1010ioio](https://www.instagram.com/im1010ioio/)，或者是[🧋送杯珍奶鼓勵我](https://im1010ioio.bobaboba.me/)，謝謝你🥰。
