@@ -145,7 +145,7 @@ tags: css3, css, html, images, html5, 2articles1week, resolution
 
 ---
 
-### 2\. CSS `background-imageimage-set()`
+### 2\. CSS `background-image` 的 `image-set()`
 
 還有一種方法，那就是 CSS 中 `background-image` 的 `image-set()` ，詳細語法如下：
 
