@@ -26,7 +26,7 @@ tags: css3, css, css-nesting
 
 ```css
 .content{
-    & p { ... }           /* .content p */
+    p { ... }           /* .content p */
     .child { ... }      /* .content .child */
     > .child { ... }    /* .content > .child */
     + .content { ... }  /* .content + .content */
@@ -34,6 +34,8 @@ tags: css3, css, css-nesting
     @media(max-width: 768px) { ... }
 }
 ```
+
+> 延伸閱讀：[包裝 CSS：2023！  |  Blog  |  Chrome for Developers](https://developer.chrome.com/blog/css-wrapped-2023?hl=zh-tw#nesting)
 
 ## `&` 代表上一層爸爸
 
