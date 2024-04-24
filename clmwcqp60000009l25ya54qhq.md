@@ -200,7 +200,7 @@ div:target      { ... } /* 當元素的 id (錨點) 與 URL 上的 hash 相同 *
 
 ---
 
-### [**5\. Input 狀態**](https://developer.mozilla.org/zh-CN/docs/Web/CSS/:target)
+### **5\. Input 狀態**
 
 * [當 `<inp`](https://developer.mozilla.org/zh-CN/docs/Web/CSS/:target)`ut>` 沒有 `disabled` 屬性時就是 `enabled` 狀態，反之就是 `disabled`。
     
