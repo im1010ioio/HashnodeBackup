@@ -19,7 +19,7 @@ tags: css3, css, html, images, html5, 2articles1week, resolution
 >     
 > * 使用 CSS `background-imageimage-set()` 處理圖片
 >     
-> * 使用 CSS `@mediaresolution` 處理圖片
+> * 使用 CSS `@media-resolution` 處理圖片
 >     
 
 為什麼我的圖片明明大小沒錯，在較好的螢幕上（例如 apple retina 螢幕）卻顯得糊糊的？
