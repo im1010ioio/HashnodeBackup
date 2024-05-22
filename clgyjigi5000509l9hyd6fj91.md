@@ -5,7 +5,7 @@ seoDescription: "身為設計師，自己的結婚書約當然是自己做囉！
 datePublished: Thu Apr 27 2023 03:03:07 GMT+0000 (Coordinated Universal Time)
 cuid: clgyjigi5000509l9hyd6fj91
 slug: free-application-for-marriage
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1703785273093/1a2edd99-0ffc-4b80-88c9-7b8e423333a0.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1716349494180/619f4ade-18d1-4c0c-a624-b9766477505f.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1703785370542/3c2bccb3-5b80-4453-a1cb-a9c8ea41d102.png
 tags: design, free, marriage
 
@@ -29,7 +29,7 @@ tags: design, free, marriage
 
 * 實際下載回去後，可以到書局或美術社裡找自己喜歡、而且較厚的 A4 紙材，只要不要厚到像板子那樣，影印店應該都可以印。
     
-* 檔案有「粗字」與「細字」版本：  
+* 檔案有「粗字 `bold-text-version`」與「細字 `thin-text-version`」版本：  
     建議在影印店先用普通紙各印彩色一張，看這家影印店哪個版本的效果比較好，再選擇要印哪個版本，然後請店家印在你買好的特殊紙上。
     
 * 結婚書約建議可以印 3 張以上：  
@@ -41,9 +41,9 @@ tags: design, free, marriage
 
 ### 🤍 下載連結
 
-> 一般版本 👉 🤍 [DOWNLOAD HERE](https://drive.google.com/file/d/1quZFqvtf101sRdsCwQc8r5ffvaMyZU5N/view?usp=share_link) 🤍
+> 一般版本 👉 🤍 [DOWNLOAD HERE](https://drive.google.com/file/d/1FDnTnPfsJvMz5113qH6KZiH8gtJZTWUA/view?usp=drive_link) 🤍
 > 
-> 同婚版本 👉 🤍 [DOWNLOAD HERE](https://drive.google.com/file/d/1PIgRwuuBKR52N3W0YDt-1_9-TxoOafDr/view?usp=sharing) 🤍
+> 同婚版本 👉 🤍 [DOWNLOAD HERE](https://drive.google.com/file/d/1-KZhNTFl1jU2e_3-eapE3tNdcSYWe3rt/view?usp=sharing) 🤍
 
 （兩種版本差別在於提及的條文不同）
 
@@ -53,9 +53,12 @@ tags: design, free, marriage
 
 進到 Google 雲端檔案連結後，點擊右上角下載圖示，如下圖所示：
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1709707338263/dce06cee-c91b-47cd-b8a7-5404b7fb7cff.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1716349231959/7ce3d530-4f1d-47a8-83f8-72e0f0787a57.png align="center")
 
 > 如果遇到無法解壓縮的狀況，請試試看使用 [7-Zip](https://7-zip.org/) 等解壓縮軟體解壓縮，若再不行，請聯繫我，我會調整分享的方式。
+> 
+> 2024/05 後記：  
+> 由於 macOS 和 Windows 在處理 ZIP 檔案名稱時使用的編碼方式不同，所以檔案命名統一都改成英文，應該就可以了。如果還是不行下載，請再告訴我，謝謝！
 
 ---
 
