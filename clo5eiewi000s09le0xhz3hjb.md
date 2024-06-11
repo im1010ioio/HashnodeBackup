@@ -171,7 +171,7 @@ LCH/OKLCH 目前支援度已 100%，但是而在繪圖軟體中，還無法直�
 
 #### 可修正漸層的灰色死亡地帶
 
-![Color Space in Linear Gradient: sRGB vs. LCH vs. OKLCH](https://cdn.hashnode.com/res/hashnode/image/upload/v1698184360158/776cb764-2a76-4904-98f5-f168e0074aa5.png align="center")
+![CSS HLS, LCH, OKLCH 漸層比較](https://cdn.hashnode.com/res/hashnode/image/upload/v1718086139853/2bf3cc91-81fb-4405-bf39-214f59bdb3bb.png align="center")
 
 延伸上一點，當我們在傳統 RGB 描繪漸層時，由於不同色相間的視覺上的明度不一致，容易造成漸層顏色混濁。現在，使用 LCH/OKLCH 的色彩空間就可避免這個狀況，因為當色相切換時，明度的感知一致，飽和度也保留著，讓漸層能夠順順地過去。
 
