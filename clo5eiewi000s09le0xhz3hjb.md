@@ -180,6 +180,14 @@ LCH/OKLCH 目前支援度已 100%，但是而在繪圖軟體中，還無法直�
 > [Better Gradients | Dan Hollick](https://typefully.com/DanHollick/better-gradients-ViH6Bu2kDRBJ)  
 > [Non-Boring Gradients - A non linear CSS gradient generator](https://non-boring-gradients.netlify.app/)
 
+#### 透過 Figma 套件使用 LCH 色彩空間
+
+如果要製作網頁設計稿，但是目前 Figma 不支援 LCH/OKLCH 的顏色設定方式，這時候我們可以透過這個套件—— [Chromatic Figma](https://www.figma.com/community/plugin/759433498184507623) ，修正漸層顏色，它可以模擬 LCH 色彩空間運算，並且調整漸層的顏色。
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1719281286573/5eb7d57c-4bc9-43b0-857b-ff43c221f4b2.png align="center")
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1719281282143/7163c92d-4b91-47df-94c5-3d20018484c2.png align="center")
+
 #### 使用 CSS 設定漸層色彩空間（Interpolation color space）
 
 這邊我們使用的是在 `background` 中的漸層色上加上指定的色彩空間，加上後瀏覽器會依據該色彩空間的方式混合顏色：
