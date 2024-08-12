@@ -121,7 +121,7 @@ tags: css3, css, html, html5
 
 * `#24` [RWD & CSS Media Queries & iOS Safari 上的經驗談](https://ithelp.ithome.com.tw/articles/10337429)
     
-* `#25` [CSS 列印的小技巧：`@media` print、break-before/after/inside、@page](https://ithelp.ithome.com.tw/articles/10337976)
+* `#25` [CSS 列印的小技巧：`@media` print、break-before/after/inside、`@page`](https://ithelp.ithome.com.tw/articles/10337976)
     
 * `#26` [CSS Container Queries 容器查詢：隨著自己變大變小變畫面](https://ithelp.ithome.com.tw/articles/10338897)
     
