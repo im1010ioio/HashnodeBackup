@@ -1,5 +1,5 @@
 ---
-title: "#32 CSS currentcolor、accent-color 與混色的 color-mix() 讓規劃色彩系統好方便！"
+title: "#32 CSS 顏色變數 currentcolor、 input 勾選框顏色accent-color 與混色的 color-mix() 讓規劃色彩系統好方便！"
 datePublished: Thu Nov 09 2023 16:04:07 GMT+0000 (Coordinated Universal Time)
 cuid: clordpsz2000309jo2ngc5rcv
 slug: css-currentcolor-accent-color-color-mix
@@ -11,11 +11,11 @@ tags: css3, css, color
 
 > #### **↓ 今日學習重點 ↓**
 > 
-> * 了解 currentcolor 及他的使用時機
+> * 了解 `currentcolor` 及他的使用時機
 >     
-> * 了解 accent-color
+> * 了解 `accent-color`
 >     
-> * 了解 color-mix() 及如何使用
+> * 了解 `color-mix()` 及如何使用
 >     
 
 上一篇我們了解了如何各種設定顏色的方式，這一篇我們要來了解關於其他顏色的小事，都很好用，像是顏色的變數 `currentcolor`、input 的顏色 `accent-color`，甚至進階一點的混色 `color-mix()`。
