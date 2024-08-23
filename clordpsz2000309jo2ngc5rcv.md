@@ -3,7 +3,7 @@ title: "#32 CSS 顏色變數 currentcolor、checkbox/radio 顏色、input placeh
 datePublished: Thu Nov 09 2023 16:04:07 GMT+0000 (Coordinated Universal Time)
 cuid: clordpsz2000309jo2ngc5rcv
 slug: css-currentcolor-accent-color-color-mix
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1699545995195/5eedb89d-26e1-4899-b8a9-414e82d5368e.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1724395048811/e4881f37-f5c9-4a62-a699-4beb117eccdc.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1699546007688/765e2fe4-d61f-40a5-a4ab-ae6b08a1818f.png
 tags: css3, css, color
 
@@ -13,7 +13,7 @@ tags: css3, css, color
 > 
 > * 了解 `currentcolor` 及他的使用時機
 >     
-> * 了解 `accent-color` 、`placeholder`
+> * 了解 `accent-color`、`placeholder`
 >     
 > * 了解怎麼改動 input 閃動的光標顏色
 >     
