@@ -1,5 +1,5 @@
 ---
-title: "#32 CSS 顏色變數 currentcolor、 input 勾選框顏色 accent-color 與混色的 color-mix() 讓規劃色彩系統好方便！"
+title: "#32 CSS 顏色變數 currentcolor、checkbox/radio 顏色、input placeholder、閃動的光標顏色、文字反白的顏色、與混色的 color-mix() 製作色彩系統"
 datePublished: Thu Nov 09 2023 16:04:07 GMT+0000 (Coordinated Universal Time)
 cuid: clordpsz2000309jo2ngc5rcv
 slug: css-currentcolor-accent-color-color-mix
@@ -13,12 +13,16 @@ tags: css3, css, color
 > 
 > * 了解 `currentcolor` 及他的使用時機
 >     
-> * 了解 `accent-color`
+> * 了解 `accent-color` 、`placeholder`
+>     
+> * 了解怎麼改動 input 閃動的光標顏色
+>     
+> * 了解怎麼改動文字反白的顏色
 >     
 > * 了解 `color-mix()` 及如何使用
 >     
 
-上一篇我們了解了如何各種設定顏色的方式，這一篇我們要來了解關於其他顏色的小事，都很好用，像是顏色的變數 `currentcolor`、input 的顏色 `accent-color`，甚至進階一點的混色 `color-mix()`。
+上一篇我們了解了如何各種設定顏色的方式，這一篇我們要來了解關於其他顏色的小事，都很好用，像是顏色的變數 `currentcolor`、input 的顏色 `accent-color`、input 閃動的光標顏色、文字反白的顏色，甚至進階一點的混色 `color-mix()`。
 
 ---
 
@@ -32,7 +36,7 @@ tags: css3, css, color
 
 ---
 
-## 2\. accent-color
+## 2\. checkbox/radio 顏色：accent-color
 
 我們雖然無法改變瀏覽器中預設 input 勾選框的樣子，但是我們可以使用 CSS 中的 `accent-color` 改變它們勾起來時的顏色，例如下面例子，我們將 radio 和 checkbox 改為紫色：
 
@@ -44,7 +48,66 @@ tags: css3, css, color
 
 ---
 
-## 3\. color-mix()
+## 3\. input 上的預設文字：`::placeholder`
+
+在輸入框上常常有淺色的文字，提示使用者這個欄位是要輸入什麼內容。
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1724394504194/0622d4f4-d345-492b-8338-3ad44f3be327.png align="center")
+
+我們也可以使用 CSS 設定他的顏色或其他樣式：
+
+```css
+input::placeholder{
+    color: Gainsboro;
+    font-weight: bold;
+}
+```
+
+> DEMO 連結：[Input placeholder](https://codepen.io/im1010ioio/pen/YzoLGGv)
+
+---
+
+## 4\. input 閃動的光標顏色：`caret-color`
+
+關於 input 還有一個小細節可以設定，就當我們 focus 在 input 上時，會有一個一閃一閃的標示文字在哪裡的直線，這個稱作「光標（英文是 caret 或 blinking-cursor）」。
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1724383820171/54225fcb-65b1-472a-8806-b154f53f527d.gif align="center")
+
+我們可以使用 CSS 的 `caret-color` 設定在想要改變的 input 上，改變它的顏色：
+
+```css
+input {
+    caret-color: #647AF1;
+}
+```
+
+---
+
+## 5\. 文字反白的顏色：`::selection`
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1724391175388/98757a37-c98a-4215-8576-0b876b795d0e.png align="center")
+
+如果想改變 CSS 中文字反白的顏色，我們可以使用 `::selection` 這個語法：
+
+```css
+/* 改變全域文字的反白顏色 */
+::selection {
+  color: gold;
+  background-color: red;
+}
+
+/* 改變 p 標籤的反白顏色 */
+p::selection {
+  color: white;
+  background-color: blue;
+}
+```
+
+> DEMO 連結：[CSS highlighted text color -- ::selection](https://codepen.io/im1010ioio/pen/YzoLWyp)
+
+---
+
+## 6\. color-mix()
 
 ### 基本寫法
 
