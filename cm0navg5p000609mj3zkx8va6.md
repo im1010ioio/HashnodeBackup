@@ -2,7 +2,7 @@
 title: "「 101上山走走」部落格已成功搬家"
 datePublished: Wed Aug 23 2023 16:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm0navg5p000609mj3zkx8va6
-slug: 1013399-blog-1
+slug: 1013399-blog
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1725420388504/b5f466c9-5636-47c7-a50f-c6722b4e9d2e.avif
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1725420547335/f0e9c8de-45a2-457e-8cf7-6882938e96ba.avif
 tags: blog, blogging, 55m75bgx, 54is5bgx
