@@ -1,6 +1,6 @@
 ---
 title: "11 個 VS Code 設定及套件推薦：色彩、icon 主題、字體、註解、防錯標示，外加 Mac Terminal 設定"
-seoTitle: "10 個 VS Code 設定及套件推薦：色彩、icon 主題、字體、註解、防錯標示，Mac Terminal 設定"
+seoTitle: "11 個 VS Code 設定及套件推薦：色彩、icon 主題、字體、註解、防錯標示，Mac Terminal 設定"
 seoDescription: "有時候看電腦很久，覺得眼睛看 code 花花的，
 這時候好的環境配置就很重要，顏色對比度適中，會比較好看 code，提升工作效率。
 
