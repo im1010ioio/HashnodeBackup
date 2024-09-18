@@ -81,7 +81,7 @@ div {
 * `background-origin: padding-box;` (預設)  
     背景圖片從 padding 的範圍開始出現，但不在 border 內。
     
-    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1726671912369/6bf21529-d498-4d72-afaf-bc7c0f95dc76.png align="center")
+    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1726675968969/d14c33c1-f5c8-42a3-b4ea-73f91022f306.png align="center")
     
 * `background-origin: border-box;`
     
