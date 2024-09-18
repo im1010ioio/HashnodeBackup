@@ -62,7 +62,7 @@ div {
 }
 ```
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1726674804541/76ae15cc-1081-4524-88ee-ae8db8fda6fd.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1726676728923/c781e77a-157c-4679-9ade-369d4af52879.png align="center")
 
 > 延伸閱讀：  
 > [Background-image 之二- 金魚都能懂的CSS必學屬性](https://ithelp.ithome.com.tw/articles/10248148)  
