@@ -289,7 +289,7 @@ div {
 
 > DEMO: [CSS checkerboard background](https://codepen.io/im1010ioio/pen/wvLVmqo)
 
-（不過，如果是設計師的話，可能會認為些格子代表的是透明的 XD）
+（不過，如果是設計師的話，可能會認為這些格子是透明的 XD）
 
 ---
 
