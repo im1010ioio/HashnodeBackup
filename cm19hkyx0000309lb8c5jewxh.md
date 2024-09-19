@@ -228,7 +228,7 @@ div {
 
 > `background-position` 的位置會是 `background-size` 的 1/2。
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1726751291216/6e47d933-c5bf-4a54-9729-ecaa900f4c2f.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1726762676435/da2480f2-833c-4962-bca3-f3cc28862b24.png align="center")
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1726752884756/5a865c4c-1083-48d1-abbb-379bf4947ae5.png align="center")
 
