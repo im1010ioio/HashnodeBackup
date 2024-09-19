@@ -74,7 +74,7 @@ div {
 
 還記得 CSS 的盒子模型嗎？
 
-> 延伸閱讀：[#13 CSS 盒子模型 (Box Model)：border-box & content-box](https://ithelp.ithome.com.tw/articles/10330509)
+> 延伸閱讀：[#13 CSS 盒子模型 (Box Model)：border-box & content-box](https://im1010ioio.hashnode.dev/css-box-model)
 
 在設定背景時，其實我們可以使用 `background-origin` 這個屬性，指定背景圖作用的範圍是要盒子中的哪個範圍：
 
