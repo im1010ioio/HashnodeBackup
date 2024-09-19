@@ -96,7 +96,7 @@ div {
     ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1726671923686/e86cc8e3-b554-4327-adfa-2683bb29b383.png align="center")
     
 
-有了這個，我們就可以利用 `background-origin: content-box` ，做出一張有簽名圖片或是 LOGO 的卡片：
+有了這個，我們就可以利用 `background-origin: content-box` ，做出一張有簽名圖片或是 LOGO 的卡片，讓簽名圖案與文字保持一樣的 padding：
 
 ```css
 .card {
