@@ -132,8 +132,10 @@ div {
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1719283735121/ed73daaf-c77d-443f-9b4e-38d89ee27be6.gif align="center")
 
+> DEMO: [Sitcky Page (](https://codepen.io/im1010ioio/pen/dyEKRYg)[codepen.io](http://codepen.io)[)](https://codepen.io/im1010ioio/pen/dyEKRYg)
+> 
 > 延伸閱讀：  
-> [https://www.threads.net/@easonchiu713/post/C8ma83bSKwf?xmt=AQGz\_LsblvjWfbMDzs6mN1DxCt1sBU0gf9m1PaX8HGHgnA](https://www.threads.net/@easonchiu713/post/C8ma83bSKwf?xmt=AQGz_LsblvjWfbMDzs6mN1DxCt1sBU0gf9m1PaX8HGHgnA)
+> [https://www.threads.net/@easonchiu713/post/C8ma83bSKwf?xmt=AQGz\_LsblvjWfbMDzs6mN1DxCt1sBU0gf9m1PaX8HGHgnA](https://www.threads.net/@easonchiu713/post/C8ma83bSKwf?xmt=AQGz8ePPChEl0PTn9vElSxjQL7owFBCcsIf5jLG91s1gWA)
 > 
 > [SCSS overlapping sticky cards](https://codepen.io/esdesignstudio/pen/RwYrNzJ)
 
