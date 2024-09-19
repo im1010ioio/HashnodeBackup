@@ -26,9 +26,9 @@ tags: background, css3, css, 2articles1week, gradients-in-css
 
 在看本篇文章前，你要先會運用基本的漸層色與了解多重背景，詳細可以看本系列前兩篇文章：
 
-> * [#37 CSS 基本漸層：線性/放射/圓錐漸層 (CSS linear-gradient, radial-gradient, conic-gradient)](https://ithelp.ithome.com.tw/articles/10352603)
+> * [#37 CSS 基本漸層：線性/放射/圓錐漸層 (CSS linear-gradient, radial-gradient, conic-gradient)](https://im1010ioio.hashnode.dev/css-gradient)
 >     
-> * [#38 CSS background 組合技：多重背景、背景位置、簡易視差滾動 (iOS 不支援)](https://ithelp.ithome.com.tw/articles/10353981)
+> * [#38 CSS background 組合技：多重背景、背景位置、簡易視差滾動 (iOS 不支援)](https://im1010ioio.hashnode.dev/multiple-backgrounds)
 >     
 
 ---
