@@ -103,7 +103,7 @@ div {
     background: linear-gradient(
                     90deg,
                     #a9a1b7 33.33%,
-                    #eadfdb 0  66.66%,
+                    #eadfdb 0 66.66%,
                     #e4b9c5 0);
     background-size: 50px 100%;
 }
