@@ -74,9 +74,9 @@ div{
 
 建立兩個以上的顏色也是一樣的道理。
 
-另外，漸層中同個顏色開始、結束的位置（又叫作停止點），現在已支援可以寫在一起，如下面的 `#edb71e 0 66.66%`，不用再像以前要重複寫第二次。
-
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1726747175329/b4cbb196-d0ec-4c42-8914-32459dcaf82c.png align="center")
+> 另外，漸層中同個顏色開始、結束的位置（又叫作停止點），現在已支援可以寫在一起，如下面的 `#edb71e 0 66.66%`，不用再像以前要重複寫第二次。後面的示範全都使用這樣的寫法。
+> 
+> ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1726747175329/b4cbb196-d0ec-4c42-8914-32459dcaf82c.png align="center")
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1726736780265/df1a2655-cfff-4d29-84de-97a23e069046.png align="center")
 
