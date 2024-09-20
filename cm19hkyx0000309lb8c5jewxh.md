@@ -113,7 +113,11 @@ div {
 
 ### 3\. 斜線條紋
 
-如果想要製作斜線條紋，以我們以剛剛的方式，改變角度的話，需要考慮 `background-size` 與角度之間的關係等等的計算。
+如果想要製作斜線條紋，以我們以剛剛的方式，直接改變角度的話，會悲劇：
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1726800612807/1bb6bbe1-edd6-4fe0-847f-d1c1a916b563.png align="center")
+
+因為我們需要考慮 `background-size` 與角度之間的關係等等的計算。
 
 但是，現在我們有更簡單的做法，就是運用「重複線性漸層 `repeating-linear-gradient` 」這個方法，它重複的是線性漸層的**整個週期**，形成無限的條紋或漸變效果。
 
