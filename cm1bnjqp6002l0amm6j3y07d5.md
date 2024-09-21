@@ -109,7 +109,7 @@ div {
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1726847571258/01f53ee0-32ba-4062-98e7-b93141c723f7.png align="center")
 
-我在這裡搜集了許多用 `border-radius` 可以做出來的有趣形狀，給大家參考看看，之後再來研究關於他們的數學：
+我在這裡搜集了許多用 `border-radius` 可以做出來的有趣形狀，給大家參考看看，之後再來研究關於他們的數學（有的話我會再更新在這篇文章）：
 
 > DEMO: [CSS round shapes](https://codepen.io/im1010ioio/pen/YzomoGb)
 
