@@ -70,7 +70,7 @@ tags: css3, css, triangle, border
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1727015924258/516ae452-4f18-4e44-8738-14c6869f3d51.png align="center")
 
 ```css
- .tri{
+ .tri {
     height: 0px;
     width: 0px;
     border-top: 50px solid #328fa8;
