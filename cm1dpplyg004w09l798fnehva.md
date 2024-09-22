@@ -1,5 +1,5 @@
 ---
-title: "🖋️#42 用 CSS border 繪製等腰/直角三角形"
+title: "#42 用 CSS border 繪製等腰/直角三角形"
 datePublished: Sun Sep 22 2024 15:07:17 GMT+0000 (Coordinated Universal Time)
 cuid: cm1dpplyg004w09l798fnehva
 slug: css-border-triangle
