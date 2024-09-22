@@ -1,5 +1,5 @@
 ---
-title: "#41 CSS border-radius 圓角與圓圓的形狀：圓、圓柱、橢圓、蛋型、鐘型、葉子、花瓣"
+title: "#41 用 CSS border-radius 畫圓角與圓圓的形狀：圓、圓柱、橢圓、蛋型、鐘型、葉子、花瓣"
 datePublished: Sat Sep 21 2024 04:31:12 GMT+0000 (Coordinated Universal Time)
 cuid: cm1bnjqp6002l0amm6j3y07d5
 slug: css-border-radius
