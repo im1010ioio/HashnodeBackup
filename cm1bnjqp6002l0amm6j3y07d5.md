@@ -1,5 +1,5 @@
 ---
-title: "#41 用 CSS border-radius 畫圓角與圓圓的形狀：圓、圓柱、橢圓、蛋型、鐘型、葉子、花瓣"
+title: "#41 用 CSS border-radius 畫圓角與圓圓的形狀：圓、圓柱、橢圓、蛋型、鐘型、葉子 (眼睛)、花瓣 (水滴/心形)、牛角 (彎月)"
 datePublished: Sat Sep 21 2024 04:31:12 GMT+0000 (Coordinated Universal Time)
 cuid: cm1bnjqp6002l0amm6j3y07d5
 slug: css-border-radius
@@ -197,7 +197,7 @@ div {
 }
 ```
 
-### 葉子
+### 葉子 (眼睛)
 
 如果旋轉 45 度就會變成眼睛形狀。（之後會再講解 CSS 特效 `transform`）
 
@@ -209,7 +209,7 @@ div {
 }
 ```
 
-### 花瓣
+### 花瓣 (水滴/心形)
 
 如果旋轉 45 度就會變成水滴形狀。  
 如果有兩個這個形狀，旋轉後可以拼成心形。（之後會再講解 CSS 特效 `transform`）
@@ -219,6 +219,21 @@ div {
     width: 100px;
     height: 100px;
     border-radius: 0 50% 50% 50%;
+}
+```
+
+### 牛角 (彎月)
+
+如果有兩個這個形狀，旋轉後可以拼成彎月。
+
+> DEMO: [CSS Horn](https://codepen.io/im1010ioio/pen/BagvZWe)
+
+```css
+.horn{
+    height: 300px;
+    width: 200px;
+    border-right: 150px solid #FADC04;
+    border-radius:0 0 100% 0;
 }
 ```
 
