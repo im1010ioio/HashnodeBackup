@@ -113,7 +113,8 @@ tags: css3, css, 2articles1week, clipping-path
 
 > DEMO: [CSS clip-path SVG path](https://codepen.io/im1010ioio/pen/JjgjJZa)
 
-我是使用 Figma 照著電視框繪製大概的輪廓，匯出 SVG 後，再複製檔案中的 path。
+我是使用 Figma 照著電視框繪製大概的輪廓，匯出 SVG 後，再複製檔案中的 path。  
+要再講究一點的話，可能還會再影片上面再疊一層電視的反光，不過這次先沒有。
 
 不過，SVG 的 path 過具體的座標來繪製的，而不是直接使用百分比來表示，所以用這種方法無法根據 RWD（響應式設計）來進行縮放。
 
