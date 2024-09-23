@@ -107,7 +107,7 @@ tags: css3, css, 2articles1week, clipping-path
 
 這段 Code 中，在 `path()` 中放了一段 SVG 的路徑，生成一個特別形狀的裁剪區域。
 
-比方說，我們可以剪裁一個影片，符合背景圖的中電視的框框，就會像以下 DEMO：
+比方說，我們可以剪裁一部影片的外緣，符合背景圖的中電視的框框，就會像以下 DEMO：
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1727110276403/9e7bcd82-8663-4567-b6ab-883eca33f923.png align="center")
 
@@ -145,7 +145,7 @@ tags: css3, css, 2articles1week, clipping-path
 
 ---
 
-## 五、`clip-path` 小工具：Clippy
+## 四、`clip-path` 小工具：Clippy
 
 如果想要像使用繪圖軟體一樣，直覺地操作 CSS clip-path，有人做了個小工具 —— Clippy，讓你可以直接在網頁上拉動每一個點，然後產出 Code，大家可以去玩玩看喔！
 
