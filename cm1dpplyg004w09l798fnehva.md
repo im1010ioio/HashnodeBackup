@@ -82,25 +82,6 @@ tags: css3, css, triangle, border
 
 ---
 
-### 進階延伸：牛角 (彎月)
-
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1727018172885/d7c9e18d-6269-421f-a154-61adada51af0.png align="center")
-
-如果有兩個這個形狀，旋轉後可以拼成彎月。
-
-> DEMO: [CSS Horn](https://codepen.io/im1010ioio/pen/BagvZWe)
-
-```css
-.horn {
-    height: 300px;
-    width: 200px;
-    border-right: 150px solid #FADC04;
-    border-radius:0 0 100% 0;
-}
-```
-
----
-
 #### ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
 
 感謝看到最後的你，若你覺得獲益良多，請不要吝嗇給我按個喜歡。❤️
