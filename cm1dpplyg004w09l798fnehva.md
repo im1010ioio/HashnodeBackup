@@ -47,7 +47,7 @@ tags: css3, css, triangle, border
 
 ---
 
-### 等腰三角形
+## 等腰三角形
 
 要繪製「向上」的等腰三角形，我以下方的邊框為主，設定想要的顏色與寬度大小；接著左右兩邊的邊框設定一樣的寬度並且為透明（不一樣寬就會是歪斜的三角形）；我們不需要上方的邊框，所以不去設定它；這樣就完成了，而反之亦然，可以參考下圖。
 
@@ -63,7 +63,9 @@ tags: css3, css, triangle, border
  }
 ```
 
-### 直角三角形
+---
+
+## 直角三角形
 
 要繪製「直角位於左上」的直角三角形，我們需要上方與左方的邊框，設定想要的寬度與顏色後，其他的邊框都不需要，所以不用設定，這樣就完成囉！其他的直角設定方式都一樣，可以參考下圖：
 
@@ -76,6 +78,25 @@ tags: css3, css, triangle, border
     border-top: 50px solid #328fa8;
     border-right: 50px solid transparent;
  }
+```
+
+---
+
+### 進階延伸：牛角 (彎月)
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1727018172885/d7c9e18d-6269-421f-a154-61adada51af0.png align="center")
+
+如果有兩個這個形狀，旋轉後可以拼成彎月。
+
+> DEMO: [CSS Horn](https://codepen.io/im1010ioio/pen/BagvZWe)
+
+```css
+.horn {
+    height: 300px;
+    width: 200px;
+    border-right: 150px solid #FADC04;
+    border-radius:0 0 100% 0;
+}
 ```
 
 ---
