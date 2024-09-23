@@ -222,14 +222,6 @@ div {
 }
 ```
 
-### 牛角 (彎月)
-
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1727018172885/d7c9e18d-6269-421f-a154-61adada51af0.png align="center")
-
-如果有兩個這個形狀，旋轉後可以拼成彎月。
-
-> DEMO: [CSS Horn](https://codepen.io/im1010ioio/pen/BagvZWe)
-
 ```css
 .horn{
     height: 300px;
