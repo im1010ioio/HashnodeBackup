@@ -9,6 +9,15 @@ tags: css3, css, 2articles1week, border
 
 ---
 
+> #### **↓ 今日學習重點 ↓**
+> 
+> * 學會 CSS 基本邊框 `border` 的用法
+>     
+> * 了解 `border-image` 的原理與用法
+>     
+> * 了解如何繪製多重邊框：`outline` / `box-shadow`
+>     
+
 前幾篇我們使用CSS 邊框 `border` 畫了很多圖形，但是好像還沒有正式來好好畫邊框。XD今天，讓我們來研究邊框，還有各種花式邊框。
 
 ---
