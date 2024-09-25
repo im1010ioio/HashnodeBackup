@@ -124,7 +124,7 @@ border-image: url("/images/border.png") 27 23 / 50px 30px / 1rem round space;
 
 ### DEMO 1: 餅乾邊框
 
-例如，這樣就能做出像餅乾般的邊框，我準備了一張這要的圖：
+例如，這樣就能做出像餅乾般的邊框，我準備了一張這樣的圖：
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1727255456319/7fdecc32-639d-4485-bc48-34fb52b40746.png align="center")
 
