@@ -142,7 +142,7 @@ div{
 
 ### DEMO 2: 漸層邊框
 
-另外，也可以直接在 `border-image` 上設定漸層喔！只不過這種方式需要設定 border 寬度，還有 `border-image` 內的 `slice` (剛好為)。
+另外，也可以直接在 `border-image` 上設定漸層喔！只不過這種方式需要設定 border 寬度，還有 `border-image` 內的 `slice`。
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1727191896043/bea1ed58-63af-40ae-8d03-edb142fa6d5b.png align="center")
 
