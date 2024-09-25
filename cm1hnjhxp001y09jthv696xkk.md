@@ -128,7 +128,7 @@ border-image: url("/images/border.png") 27 23 / 50px 30px / 1rem round space;
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1727255456319/7fdecc32-639d-4485-bc48-34fb52b40746.png align="center")
 
-結果如以下 DEMO（順便給大家看看不同種 `repeat` 的效果））：
+結果如以下 DEMO（順便給大家看看不同種 `repeat` 的效果）：
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1727190867929/14b94d75-13f2-4dc1-aff1-44ce526b2e80.png align="center")
 
