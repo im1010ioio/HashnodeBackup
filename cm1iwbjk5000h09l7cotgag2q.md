@@ -66,6 +66,8 @@ CSS `mask` 可以使用 CSS 漸層、多重背景漸層來作為遮罩，做出�
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1727319552460/4224ba48-ee48-46a7-9ccb-59188484a15a.png align="center")
 
+> DEMO: [CSS mask](https://codepen.io/im1010ioio/pen/gOVbGVd)
+
 ```css
 .mask-gradient{
     mask: linear-gradient(90deg, transparent, #000);
