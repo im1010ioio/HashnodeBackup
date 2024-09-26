@@ -100,10 +100,10 @@ CSS Position 屬性可以用來設定元素在網頁中的位置，也是必學�
 
 > [Conflict between fixed item and filter (backdrop-filter)](https://codepen.io/im1010ioio/pen/VwoLvey)
 
-**解法：**改變 `filter` 的元素，或是改使用 `sticky` 做到類似效果。
+\*\*解法：\*\*改變 `filter` 的元素，或是改使用 `sticky` 做到類似效果。
 
 > 延伸閱讀：[  
-> #46 CSS 特效：濾鏡 filter 與可以製作毛玻璃效果的 backdrop-filter](https://ithelp.ithome.com.tw/articles/10359068)  
+> #46 CSS 特效：濾鏡 filter 與可以製作毛玻璃效果的 backdrop-filter](https://im1010ioio.hashnode.dev/css-filter-backdrop-filter)  
 > [filter与fixed冲突的原因及解决方案 - 掘金](https://juejin.cn/post/6844904117974859783)
 
 ---
