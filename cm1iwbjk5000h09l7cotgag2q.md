@@ -167,6 +167,12 @@ CSS `mask` 可以使用 CSS 漸層、多重背景漸層來作為遮罩，做出�
 
 ---
 
+> 延伸閱讀：  
+> [使用 CSS's mask-image 屬性為圖片套用特效  |  Articles  |](https://web.dev/articles/css-masking?hl=zh-tw)  [web.dev](http://web.dev)[  
+> 奇妙的 CSS MASK本文将介绍 CSS 中一个非常有意思的属性 mask 。 顾名思义，mask 译为遮罩。在 CS - 掘金](https://juejin.cn/post/6846687594693001223)
+
+---
+
 #### ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
 
 感謝看到最後的你，若你覺得獲益良多，請不要吝嗇給我按個喜歡。❤️
