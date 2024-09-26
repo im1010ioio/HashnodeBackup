@@ -148,7 +148,7 @@ div {
 **解法：** 改變 `filter` 的元素，或是改使用 `sticky` 做到類似效果。
 
 > 延伸閱讀：[  
-> #21 CSS Position：relative、absolute、fixed、sticky 找到適合的定位](https://ithelp.ithome.com.tw/articles/10335784)  
+> #21 CSS Position：relative、absolute、fixed、sticky 找到適合的定位](https://im1010ioio.hashnode.dev/css-position)  
 > [filter与fixed冲突的原因及解决方案 - 掘金](https://juejin.cn/post/6844904117974859783)
 
 ---
