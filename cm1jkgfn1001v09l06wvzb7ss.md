@@ -73,7 +73,7 @@ div {
     
 * `drop-shadow`**：陰影**  
     在圖片中非透明的周圍加上陰影，這針對透明圖片超好用！  
-    例如，如果單單為透明圖片加上基本的陰影 `box-shadow` 向下方圖片一樣悲劇，沒有加在實際圖案的周圍，但用了 `filter` 的 `drop-shadow` 就能為實際圖案的邊緣加上陰影：
+    例如，如果單單為透明圖片加上基本的陰影 `box-shadow` ，會像下方圖片一樣悲劇，陰影沒有加在實際圖案的周圍，但用了 `filter` 的 `drop-shadow` 就能為實際圖案的邊緣加上陰影：
     
     ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1727367155549/d4d5f2ff-fecd-4914-8f08-f8645e85ca50.png align="center")
     
