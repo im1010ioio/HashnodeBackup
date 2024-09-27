@@ -3,8 +3,8 @@ title: "#46 CSS 濾鏡 filter/ backdrop-filter：模糊、陰影、調色與毛�
 datePublished: Thu Sep 26 2024 17:26:48 GMT+0000 (Coordinated Universal Time)
 cuid: cm1jkgfn1001v09l06wvzb7ss
 slug: css-filter-backdrop-filter
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1727371292774/4d7d398f-e83d-46d2-963e-4905861113b6.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1727371590766/6dc1fc9d-253b-4066-8c63-555ba7b2463b.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1727404839989/0d3980d2-d09a-45f9-a8e3-c867c3868537.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1727404850648/94141a98-116d-46e5-835f-46b0dadd563e.png
 tags: css3, css, filter
 
 ---
