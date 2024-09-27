@@ -1,5 +1,5 @@
 ---
-title: "#46 CSS 濾鏡 filter/ backdrop-filter：模糊、陰影、調色與毛玻璃效果"
+title: "#46 CSS 濾鏡 filter/ backdrop-filter：模糊、透明圖陰影、調色與毛玻璃效果"
 datePublished: Thu Sep 26 2024 17:26:48 GMT+0000 (Coordinated Universal Time)
 cuid: cm1jkgfn1001v09l06wvzb7ss
 slug: css-filter-backdrop-filter
