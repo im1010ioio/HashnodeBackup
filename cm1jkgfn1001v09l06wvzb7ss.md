@@ -149,8 +149,10 @@ div {
 
 > 延伸閱讀：
 > 
-> [#21 CSS Position：relative、absolute、fixed、sticky 找到適合的定位](https://im1010ioio.hashnode.dev/css-position)  
-> [filter与fixed冲突的原因及解决方案 - 掘金](https://juejin.cn/post/6844904117974859783)
+> * [#21 CSS Position：relative、absolute、fixed、sticky 找到適合的定位](https://im1010ioio.hashnode.dev/css-position)
+>     
+> * [filter与fixed冲突的原因及解决方案 - 掘金](https://juejin.cn/post/6844904117974859783)
+>     
 
 ---
 
