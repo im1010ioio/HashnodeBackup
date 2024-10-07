@@ -177,7 +177,7 @@ tags: background, css3, css, stripe, 2articles1week, gradients-in-css
 }
 ```
 
-> DEMO: [CSS Conic Gradient (](https://codepen.io/im1010ioio/pen/NWZVOOd)[codepen.io](http://codepen.io)[)](https://codepen.io/im1010ioio/pen/NWZVOOd)
+> DEMO: [CSS Conic Gradient](https://codepen.io/im1010ioio/pen/NWZVOOd)
 
 ### 起始角度 `angle`
 
