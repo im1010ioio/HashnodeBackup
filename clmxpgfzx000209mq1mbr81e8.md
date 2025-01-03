@@ -174,8 +174,6 @@ p.text-change-rgb{
 
 ### **搭配**`@property` 使用（CSS Houdini）
 
-> 註：Firefox 暫不支援
-
 CSS 變數搭配 CSS 新推出的屬性 `@property` ，可以做更進階、過去做不到的動畫，例如：漸層色漸變、同心圓漸變等等，之後我們會再詳細解說。
 
 > 如果你想提早了解，可以參考以下好文：  
