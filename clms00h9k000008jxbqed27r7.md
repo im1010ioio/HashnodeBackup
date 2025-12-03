@@ -3,8 +3,8 @@ title: "#05 Html 基礎語法"
 datePublished: Wed Sep 20 2023 17:08:52 GMT+0000 (Coordinated Universal Time)
 cuid: clms00h9k000008jxbqed27r7
 slug: html-basics
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1693882131012/5ed0ecef-0982-459d-bffa-a30f0449d8d9.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1695229427778/d242982d-08c1-4b85-9d2a-5527f22c51cf.webp
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1764752083957/2209b0c1-396b-4c5b-9ad6-74f255d0313d.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1764752094083/85055448-6444-4faa-985f-aafe525ff67c.png
 tags: html, html5
 
 ---
@@ -97,7 +97,7 @@ HTML 有提供註解語法，讓人在開發時可以寫一些筆記在 HTML 中
 
 雖說不會輸出到網頁上，但是在網頁上按下「右鍵 &gt; 檢視原始碼」（以 Chrome 為例），還是可以被人看到寫了些什麼，所以不建議用這個寫一些敏感資訊（基本上前端的東西在瀏覽器的開發者模式中都可以找得到，所以前端的東西都不建議放敏感資訊）。
 
-有些開發人員會在 HTML 註解中面放一些彩蛋，寫一些隱藏訊息，或用文字符號畫畫，雖然很少數，但發現的時候總覺得很有趣。像寫這篇時，我發現 [Firefox 的網站](https://www.mozilla.org/zh-TW/firefox/new/) 裡面原來藏了一隻恐龍。XD
+有些開發人員會在 HTML 註解中面放一些彩蛋，寫一些隱藏訊息，或用文字符號畫畫，雖然很少數，但發現的時候總覺得很有趣。像寫這篇時，我發現 [Firefox 的網站](https://www.mozilla.org/zh-TW/firefox/new/) 裡面原來藏了一隻恐龍 XD（這種用文字來表達圖形的方式叫作「ASCII Art」，有興趣的話大家可以去查查看一些 ASCII Art 的線上產生器）。
 
 ![Firefox HTML Comments](https://cdn.hashnode.com/res/hashnode/image/upload/v1693841627276/18b6e8bc-e562-4941-9bd0-4b770d83e1a5.png align="center")
 
