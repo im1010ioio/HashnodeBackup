@@ -4,8 +4,8 @@ seoTitle: "網頁的基本概念：切版&切圖？前端&後端？靜態&動態
 datePublished: Sun Sep 17 2023 14:47:32 GMT+0000 (Coordinated Universal Time)
 cuid: clmnkn63e000j08mkd8vx6hg8
 slug: glossary-of-web-development
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1693231011112/314d986a-f48f-4bdf-81ec-5815fdea2076.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1691559250283/2734525b-c01a-4d80-8a1d-3108e454b360.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1764751222999/e4d05c3e-8d4c-41c9-ae0f-8405f0a3e914.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1764751238430/41b91ec5-4745-4d64-a5a2-ed3d2d4f1e6e.png
 tags: ux, web-development, ui, responsive-web-design, mobile-first
 
 ---
