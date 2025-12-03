@@ -3,8 +3,8 @@ title: "#03 人在江湖，版控要有：了解 GIT / GitHub / GitLab / Git Flo
 datePublished: Mon Sep 18 2023 16:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: clms02utw000009md632san7a
 slug: git-github-gitlab-git-flow
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1764747392218/f6633ac1-fd57-4a19-ad09-86700ef9b6f3.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1764747403072/d9ab964b-0ba1-4b66-a3fe-59bd6629acbe.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1764751382961/e2ea3cc4-39c0-4918-9fcf-e6e4d276985a.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1764751393553/0536c826-41c9-46f1-86e1-2b8b40c5ab7b.png
 tags: github, git, gitflow
 
 ---
