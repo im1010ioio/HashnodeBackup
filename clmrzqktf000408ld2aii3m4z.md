@@ -3,8 +3,8 @@ title: "#04 GIT 實戰練習：GitHub Desktop、GitHub Page 基礎教學"
 datePublished: Tue Sep 19 2023 16:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: clmrzqktf000408ld2aii3m4z
 slug: git-github-gitpage-practice
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1693487584144/fba03233-2eb3-4e66-8c8d-0cd9572aa364.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1695229242221/539369b4-412c-45bb-8665-73be408affca.webp
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1764751447165/0cd87c71-332b-4b6c-9add-5208e0f2e744.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1764751458995/1a74d0aa-425e-4436-b9f5-4faa4807db58.png
 tags: github, git
 
 ---
