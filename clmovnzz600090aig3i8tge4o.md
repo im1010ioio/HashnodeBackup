@@ -3,8 +3,8 @@ title: "#02  關於各家瀏覽器，前端必備的小知識：支援度、市�
 datePublished: Mon Sep 18 2023 12:43:53 GMT+0000 (Coordinated Universal Time)
 cuid: clmovnzz600090aig3i8tge4o
 slug: about-browsers
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1764745876029/0bcb8eaa-b727-4079-8d17-d2e088c9fa18.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1764745885002/e883a7e6-ccea-4cf4-b2f4-b7dc145dd9aa.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1764746128837/cfd5f2ff-8056-4ce0-81b0-c7ef32a6fe43.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1764746135602/5b32bdb4-65ba-472f-9f23-ce79cdee6865.png
 tags: browser, browsers, web-development, chrome-cj73auo4o0012c3wted1yb7a1
 
 ---
