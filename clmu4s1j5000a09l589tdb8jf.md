@@ -3,8 +3,8 @@ title: "#06 寫一份簡單的 Html，常用 Html Tag 總整理"
 datePublished: Fri Sep 22 2023 04:57:49 GMT+0000 (Coordinated Universal Time)
 cuid: clmu4s1j5000a09l589tdb8jf
 slug: html-strugtrue
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1693882143778/b15711dd-0c6c-4651-b2e7-cbc778b0ecdd.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1695358644595/426311c1-b679-4141-9d31-1d1c76e74a77.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1764756220506/0d7d8b66-4b21-4061-8977-1993d6910eb3.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1764756232492/86aea363-eb73-4ff2-be1e-49ace96d79d0.png
 tags: html, html5
 
 ---
