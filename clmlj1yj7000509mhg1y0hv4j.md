@@ -3,13 +3,11 @@ title: "#00 文章目錄 / 參賽前言 | Super Easy CSS"
 datePublished: Sat Sep 16 2023 04:27:31 GMT+0000 (Coordinated Universal Time)
 cuid: clmlj1yj7000509mhg1y0hv4j
 slug: super-easy-css-contents
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1694417958400/77ae1fab-6b90-47e7-92ea-12dd57311262.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1691479658522/b689fe48-2289-4109-b424-110ac62728dd.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1764752687330/d9993fd8-3b1f-4f8c-9474-8e0bf44cb246.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1764752669667/b2755aff-2f8b-43a2-8f8a-fe2e20bc847d.png
 tags: css3, css, html, html5
 
 ---
-
-![Super Easy CSS](https://cdn.hashnode.com/res/hashnode/image/upload/v1694417958400/77ae1fab-6b90-47e7-92ea-12dd57311262.png align="left")
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1683705571380/284e9ba0-04c8-43bd-a093-784c330bd862.png align="left")
 
