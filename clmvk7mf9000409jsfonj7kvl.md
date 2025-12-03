@@ -3,8 +3,8 @@ title: "#07 Css 基本語法 & 權重介紹"
 datePublished: Sat Sep 23 2023 04:57:36 GMT+0000 (Coordinated Universal Time)
 cuid: clmvk7mf9000409jsfonj7kvl
 slug: css-basics
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1694508854399/bd957ef1-b18f-48c8-92b3-b79edd4f389d.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1695445041718/f4e54214-20c2-46bd-a251-d9d9aad15636.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1764760942424/c465a72b-63b0-4698-9de0-89eb737f66de.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1764760931754/d49482cd-2e50-45a0-a3c7-a919c387bce3.png
 tags: css3, css
 
 ---
