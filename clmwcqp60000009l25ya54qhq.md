@@ -3,8 +3,8 @@ title: "#08 Css 選擇器總整理！"
 datePublished: Sat Sep 23 2023 18:16:16 GMT+0000 (Coordinated Universal Time)
 cuid: clmwcqp60000009l25ya54qhq
 slug: css-selectors
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1764762478947/af9f348f-e551-49a6-8b5b-290b0058d44f.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1764762489993/8f76539f-ea92-4960-915c-12395a02ab4b.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1764762600944/2a5ec0e7-5f49-4322-bf68-1ae60773551b.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1764762607161/895ada6b-742d-4a25-8c26-3c47e3846606.png
 tags: css3, css
 
 ---
