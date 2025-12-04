@@ -3,8 +3,8 @@ title: "#15 網頁使用的單位大解析：px、rem、em、%、vw、vh (dvh, l
 datePublished: Sun Oct 01 2023 14:17:06 GMT+0000 (Coordinated Universal Time)
 cuid: cln7jpy06000d09md30da5rwo
 slug: css-units
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1695781520060/1ea42f49-e1a1-4ec4-a1c6-8c868bf8c0c3.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1695781531489/b97d6111-926c-4ec9-975c-bb937f96a43f.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1764832565569/2134fe80-3df2-4d25-9e33-076f8f3887b6.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1764832573558/d798df29-a079-4e76-950e-80b215ab0ffc.png
 tags: css3, css
 
 ---
