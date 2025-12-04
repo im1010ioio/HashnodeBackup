@@ -3,8 +3,8 @@ title: "#09 原生的 Css 變數，基本與進階應用"
 datePublished: Sun Sep 24 2023 16:59:58 GMT+0000 (Coordinated Universal Time)
 cuid: clmxpgfzx000209mq1mbr81e8
 slug: css-variables
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1764763215502/c891dce0-9367-4ca3-be09-0256e32ca896.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1764763228278/6de943ed-1ed4-4bf4-9ecb-bc40f253c44b.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1764817640719/79049953-3c6d-4a3c-936b-91401d83b118.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1764817652004/f40b455e-6013-42d2-a250-dd9ca5af29d4.png
 tags: css3, css, css-variables
 
 ---
