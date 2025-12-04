@@ -1,10 +1,10 @@
 ---
-title: "#14 Reset CSS！變回你該有的樣子"
+title: "#14 Reset CSS！用 Reset.css 或 Normalize.css 變回你該有的樣子"
 datePublished: Sat Sep 30 2023 05:34:01 GMT+0000 (Coordinated Universal Time)
 cuid: cln5llepz000b09jr4gtp69ww
 slug: reset-css
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1695740348821/76dbf8df-1941-4f05-b6b9-0e881c46ca9e.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1695740376222/7683b51d-0297-4d6d-a020-5bc053a16974.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1764831462030/690494ef-b064-4ecb-a3f1-7bd9f0654fe6.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1764831472797/5af4f1c1-6f61-4f71-b6f9-45b0f6b1fa98.png
 tags: css3, css
 
 ---
