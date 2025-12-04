@@ -3,8 +3,8 @@ title: "#10 原生的 CSS 巢狀 (CSS Nesting) 終於支援啦！"
 datePublished: Mon Sep 25 2023 16:10:27 GMT+0000 (Coordinated Universal Time)
 cuid: clmz34lnv000c08labtwwe7pi
 slug: pure-css-nesting
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1764817707916/d37ba72e-877e-4910-8b73-07861537c2b3.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1764817720706/67f578ad-cf67-4be2-a425-d7f0d928229e.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1764818513094/5803e793-1dbf-40d2-8706-35589c13a8a8.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1764818507004/c505ba67-e973-4da5-b397-1e623675103a.png
 tags: css3, css, css-nesting
 
 ---
