@@ -3,8 +3,8 @@ title: "#12 Css 設計方法與命名建議：oocss、smacss、bem、rscss"
 datePublished: Thu Sep 28 2023 05:02:25 GMT+0000 (Coordinated Universal Time)
 cuid: cln2pl2v3000u09mh8lgve1nl
 slug: oocss-smacss-bem-rscss
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1695539713098/9ff3e7de-55ae-4baf-bb47-1573212a67d4.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1695539723209/0e47739c-8249-48a9-bd3e-ac6cb4acf51b.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1764825953417/f3fdec25-906a-485b-9786-d59b9515eeec.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1764825947596/fcec4c61-3b80-4926-83f7-76325f3798fa.png
 tags: css3, css
 
 ---
