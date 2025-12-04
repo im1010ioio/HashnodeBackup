@@ -1,10 +1,9 @@
 ---
-title: "#11 開始寫 Css 或程式必須知道的：Dry & Kiss & Yagni"
+title: "#11 開始寫 Css 或程式必須知道的原則：Dry & Kiss & Yagni"
 datePublished: Wed Sep 27 2023 05:00:32 GMT+0000 (Coordinated Universal Time)
 cuid: cln1a2sqv000009l7dqrna37b
 slug: css-dry-kiss-yagni
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1695541128991/5e898dff-2c57-42ee-bbf6-96cee2520a2c.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1695541136916/0bc9250d-8937-440c-a849-9a94d8c2e817.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1764819200316/ca071b1a-8485-41ad-9e79-a73d54940a5c.png
 tags: css3, css
 
 ---
