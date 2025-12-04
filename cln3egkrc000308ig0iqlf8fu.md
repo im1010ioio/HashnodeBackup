@@ -3,8 +3,8 @@ title: "#13 CSS 盒子模型 (Box Model)：border-box & content-box"
 datePublished: Thu Sep 28 2023 16:38:46 GMT+0000 (Coordinated Universal Time)
 cuid: cln3egkrc000308ig0iqlf8fu
 slug: css-box-model
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1695657194704/449e8374-662c-4cbb-8897-0ac46449eaed.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1695657236726/8838d4de-c8a1-4fe9-9cac-187aa6b761a4.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1764830380655/74bb1cde-f0e0-4337-b79d-86ad4d7449a8.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1764830392622/5b2ffe46-fc8b-4621-8fc0-e28432a88bb7.png
 tags: css3, css
 
 ---
