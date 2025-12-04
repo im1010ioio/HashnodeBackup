@@ -1,5 +1,5 @@
 ---
-title: "#12 Css 設計方法與命名建議：oocss、smacss、bem、rscss"
+title: "#12 4 個常見的 Css 設計方法與命名建議：oocss、smacss、bem、rscss"
 datePublished: Thu Sep 28 2023 05:02:25 GMT+0000 (Coordinated Universal Time)
 cuid: cln2pl2v3000u09mh8lgve1nl
 slug: oocss-smacss-bem-rscss
