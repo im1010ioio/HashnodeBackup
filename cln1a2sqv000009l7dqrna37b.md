@@ -9,11 +9,6 @@ tags: css3, css
 
 ---
 
-> #### ↓ 今日學習重點 ↓
-> 
-> * 了解開發的三大原則：DRY & KISS & YAGNI
->     
-
 在進入寫 CSS（或其他程式碼）的世界之前，有幾個重要的原則值得我們了解和牢記。這些能夠提高 code 的品質，讓他們未來容易維護和擴增。以下將介紹三個重要的原則：
 
 * DRY（Don't Repeat Yourself）、
@@ -22,6 +17,11 @@ tags: css3, css
     
 * YAGNI（You Aren't Gonna Need It）。
     
+
+> #### ↓ 今日學習重點 ↓
+> 
+> * 了解開發的三大原則：DRY & KISS & YAGNI
+>     
 
 ---
 
