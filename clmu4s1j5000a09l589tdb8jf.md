@@ -351,7 +351,7 @@ JS 建議放在 `<body>` 中的最末端，也就是 `</body>` 結束標籤前�
 
 而其他 VS Code 版面設定與套件，可以參考我之前寫的這篇文章：
 
-> [10 個 VS Code 設定及套件推薦：色彩、icon 主題、字體、註解、防錯標示，Mac Terminal 設定 (](https://im1010ioio.hashnode.dev/10-useful-settings-plugins-for-vs-code)[hashnode.dev](http://hashnode.dev)[)](https://im1010ioio.hashnode.dev/10-useful-settings-plugins-for-vs-code)
+> [10 個 VS Code 設定及套件推薦：色彩、icon 主題、字體、註解、防錯標示，Mac Terminal 設定](https://im1010ioio.hashnode.dev/10-useful-settings-plugins-for-vs-code)
 
 ---
 
