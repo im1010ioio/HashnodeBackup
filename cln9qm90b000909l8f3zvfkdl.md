@@ -9,12 +9,12 @@ tags: css3, css
 
 ---
 
+在 CSS 中，`display` 屬性是一個關鍵的屬性，它可以改變 HTML 元素在網頁中的顯示方式。本篇我們將學習三種常見的 `display` 屬性值：`block`、`inline` 和 `inline-block`，並了解它們的特性和使用情境。
+
 > #### ↓ 今日學習重點 ↓
 > 
 > * 了解網頁上三種常見的 display 屬性：block、inline、inline-block
 >     
-
-在 CSS 中，`display` 屬性是一個關鍵的屬性，它可以改變 HTML 元素在網頁中的顯示方式。本篇我們將學習三種常見的 `display` 屬性值：`block`、`inline` 和 `inline-block`，並了解它們的特性和使用情境。
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1695955967084/ea5bc0e5-97d7-4b54-acc2-54b41afa817c.png align="center")
 
