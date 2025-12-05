@@ -9,13 +9,13 @@ tags: html, html5
 
 ---
 
+上一篇文章，我們有建立了一份 HTML 檔案，  
+那麼這些語法到底是什麼意思呢？讓我們往下看。
+
 > #### ↓ 今日學習重點 ↓
 > 
 > * 了解 HTML 的語法
 >     
-
-上一篇文章，我們有建立了一份 HTML 檔案，  
-那麼這些語法到底是什麼意思呢？讓我們往下看。
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1693500614650/4d3642a8-c27f-4ac2-bf89-288bb696482e.png align="center")
 
