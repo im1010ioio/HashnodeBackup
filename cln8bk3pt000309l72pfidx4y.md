@@ -3,8 +3,8 @@ title: "#16 CSS 數學函式 calc()、max()、min()、clamp()"
 datePublished: Mon Oct 02 2023 03:16:22 GMT+0000 (Coordinated Universal Time)
 cuid: cln8bk3pt000309l72pfidx4y
 slug: css-calc-max-min-clamp
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1695790580296/dadb71ca-6323-48a2-b4c9-f3187149117e.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1695790560273/3f19f9a0-72d6-432c-a046-dafbdf8c2679.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1764906058341/357c0621-da92-4a22-8424-71a853e2a836.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1764906067503/d445f0fb-a4ae-4676-bf2b-ce47eb8b586e.png
 tags: css3, css
 
 ---
