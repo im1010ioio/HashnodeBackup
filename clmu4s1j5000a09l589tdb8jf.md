@@ -10,7 +10,7 @@ tags: html, html5
 ---
 
 今天，讓我們來了解一份簡單的 HTML 會長什麼樣？  
-然後，修改一下第 #04 篇建立的 HTML 檔案，練習看看吧！
+然後，修改一下[第 #04 篇建立的 HTML 檔案](https://im1010ioio.hashnode.dev/git-github-gitpage-practice)，練習看看吧！
 
 > #### ↓ 今日學習重點 ↓
 > 
