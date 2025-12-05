@@ -4,7 +4,7 @@ seoTitle: "失眠用音樂分享：一張大海與森林相遇的美麗專輯：
 seoDescription: "午休的時候很累又睡不著怎麼辦？最近我發現一張專輯聽了好舒服，非常明亮溫暖的旋律，像在風和日麗的海邊，樹下的光影一閃一閃，遠方海面也波光粼粼，這樣想著想著就順利地睡著了。"
 datePublished: Tue Apr 25 2023 06:34:57 GMT+0000 (Coordinated Universal Time)
 cuid: clgvw766b000309mk8jj90gkg
-slug: kanata-by-baobab-haruka-nakamura
+slug: kanata-by-baobab-haruka
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1682397738499/6ce62bd3-ea47-406a-9714-0d8c6c436972.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1682404432792/d618ff83-d314-4eef-bb5f-fd8ae73ad3c9.png
 tags: music, nature
