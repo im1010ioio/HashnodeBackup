@@ -3,8 +3,8 @@ title: "#19 CSS Grid、Subgrid：網頁排版的神奇格子，來排個照片�
 datePublished: Thu Oct 05 2023 13:54:29 GMT+0000 (Coordinated Universal Time)
 cuid: clnd8o9q1000409mn1r0rf6kq
 slug: css-grid
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1696510011177/c581833b-8e7b-4539-b988-6841e412bb1f.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1696510022015/5b8a68a7-df52-4a05-9cd2-6c9887258123.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1765179498706/72aace7b-9f07-4053-827d-779a2a930aa6.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1765179505628/fad1d69c-13fc-40a7-a956-56829d145899.png
 tags: css3, css, css-grid
 
 ---
