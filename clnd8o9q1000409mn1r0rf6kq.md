@@ -9,6 +9,10 @@ tags: css3, css, css-grid
 
 ---
 
+昨天我們介紹的 `flex` 是單向的排版，而今天我們要探討 `grid` ，它是雙向的排版，可以創造很多行與列。`grid` 也是十分好用的 CSS，大家一起學起來吧！
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1696256417180/cd9e8c25-ebca-4bfb-b011-e0c6f103054e.png align="center")
+
 > #### ↓ 今日學習重點 ↓
 > 
 > * 學習 Grid 容器的各種設定
@@ -19,10 +23,6 @@ tags: css3, css, css-grid
 >     
 > * 學習 Grid 細節設定：Gap、Order
 >     
-
-昨天我們介紹的 `flex` 是單向的排版，而今天我們要探討 `grid` ，它是雙向的排版，可以創造很多行與列。`grid` 也是十分好用的 CSS，大家一起學起來吧！
-
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1696256417180/cd9e8c25-ebca-4bfb-b011-e0c6f103054e.png align="center")
 
 ---
 
