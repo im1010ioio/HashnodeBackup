@@ -9,18 +9,18 @@ tags: css3, css, css-flexbox
 
 ---
 
+Flex 又稱彈性盒子，是目前學習 CSS 必學的排版方式之一，有了它幾乎 80% 的版面都可以排出來。過去 `block`、`inline`、`inline-block` 都不是專為排版而生的 CSS 屬性，導致修改排版會變得不方便，於是後來有了 `flex` 與 `grid` 的出現，讓現在的大家可以很輕鬆地安排版面。
+
+`flex` 是單向的排版，而 `grid` 是雙向的排版，今天先讓我們來了解 `flex` 的用法吧！
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1696256417180/cd9e8c25-ebca-4bfb-b011-e0c6f103054e.png align="center")
+
 > #### ↓ 今日學習重點 ↓
 > 
 > * 了解 Flex 的主軸線與交錯軸、flex-wrap（容器）
 >     
 > * 了解 flex-grow、flex-shrink、flex-basis、align-self、order（Flex item）
 >     
-
-Flex 又稱彈性盒子，是目前學習 CSS 必學的排版方式之一，有了它幾乎 80% 的版面都可以排出來。過去 `block`、`inline`、`inline-block` 都不是專為排版而生的 CSS 屬性，導致修改排版會變得不方便，於是後來有了 `flex` 與 `grid` 的出現，讓現在的大家可以很輕鬆地安排版面。
-
-`flex` 是單向的排版，而 `grid` 是雙向的排版，今天先讓我們來了解 `flex` 的用法吧！
-
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1696256417180/cd9e8c25-ebca-4bfb-b011-e0c6f103054e.png align="center")
 
 ---
 
