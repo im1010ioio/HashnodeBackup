@@ -3,22 +3,22 @@ title: "#20  CSS 內部尺寸 (Intrinsic Sizing)：min-content、max-content、f
 datePublished: Fri Oct 06 2023 04:04:58 GMT+0000 (Coordinated Universal Time)
 cuid: clne31zys000409lh06ji3y9b
 slug: css-intrinsic-sizing
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1696559908051/4d260a3c-12e0-42e4-b4cb-7b2ccd3e3dde.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1696559921332/8d56e310-fc6b-44d6-a503-de2947f3c0be.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1765252900415/d950f360-27de-44d0-b688-92b602751f63.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1765252911558/98fb6227-dd8b-4771-9139-b05d5c858177.png
 tags: css3, css
 
 ---
-
-> #### **↓ 今日學習重點 ↓**
-> 
-> * 了解 3 個 CSS 內部尺寸與實際應用：`min-content`、`max-content` 和 `fit-content`
->     
 
 今天來點簡單的主題！
 
 CSS 中的尺寸分為兩種，一種叫做「外部尺寸（Extrinsic Sizing）」，尺寸由元素的外部決定，我們在之前提過的單位介紹，好比說 px、em、rem⋯⋯都是屬於這類。
 
 另外，還有一種新的尺寸，叫做「內部尺寸（Intrinsic Sizing）」，尺寸由元素的內部決定，共有以下三種：`min-content`、`max-content` 和 `fit-content` 。我發現許多人會搭配上篇介紹的 Grid 使用。
+
+> #### **↓ 今日學習重點 ↓**
+> 
+> * 了解 3 個 CSS 內部尺寸與實際應用：`min-content`、`max-content` 和 `fit-content`
+>     
 
 ---
 
