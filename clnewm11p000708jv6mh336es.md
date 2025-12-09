@@ -9,15 +9,15 @@ tags: css3, css, css-position
 
 ---
 
+CSS Position 屬性可以用來設定元素在網頁中的位置，也是必學的屬性之一。  
+它主要有 5 個定位方式：`static`、`relative`、`absolute`、`fixed` 和 `sticky`。
+
 > #### **↓ 今日學習重點 ↓**
 > 
 > * 了解 5 種 CSS Position 定位方式
 >     
 > * 了解 z-index
 >     
-
-CSS Position 屬性可以用來設定元素在網頁中的位置，也是必學的屬性之一。  
-它主要有 5 個定位方式：`static`、`relative`、`absolute`、`fixed` 和 `sticky`。
 
 ---
 
