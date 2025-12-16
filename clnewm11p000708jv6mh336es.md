@@ -3,7 +3,7 @@ title: "#21 CSS Position：relative、absolute、fixed、sticky 找到適合的�
 datePublished: Fri Oct 06 2023 17:52:21 GMT+0000 (Coordinated Universal Time)
 cuid: clnewm11p000708jv6mh336es
 slug: css-position
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1696614681420/6a379c2b-f91c-4fa6-87ca-078f47f18a27.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1765897799340/41ae494f-ba78-4877-949f-4c3b5f386ff5.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1696614691577/b27aac34-1eb6-4149-91c9-82d1dd269fe3.png
 tags: css3, css, css-position
 
