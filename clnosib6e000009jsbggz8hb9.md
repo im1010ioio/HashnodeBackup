@@ -3,11 +3,15 @@ title: "#27 網頁載入字體、Icon Font 與 CSS font-family、font-weight"
 datePublished: Fri Oct 13 2023 15:55:11 GMT+0000 (Coordinated Universal Time)
 cuid: clnosib6e000009jsbggz8hb9
 slug: css-font-family-font-weight
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1697218252515/668c150c-6781-4197-be56-b4757c1ab995.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1697218263475/963e1891-a3a3-4f9e-ae06-5ce8d55f20f1.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1766038613747/cafe0f32-cfc0-4062-bcc0-313d004f22b1.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1766038622000/8468480f-344a-437d-ac6b-8037310e37ff.png
 tags: font-awesome, fonts, css3, css
 
 ---
+
+我們關於版面編排與 RWD 的部分終於告一個段落了，現在大觀念了解後，接下來我們要深入各個樣式的細節，例如文字、圖片、圖形、互動等等。首先，我們將從文字的部分開始。
+
+在網頁設計中，字型滿重要的，可以為網頁增加視覺吸引力、改善閱讀體驗，並且讓所有使用者的字體體驗一致。在這篇我們將學習字體的基本知識，以及如何在網頁中使用字體、Icon Font。
 
 > #### **↓ 今日學習重點 ↓**
 > 
@@ -19,10 +23,6 @@ tags: font-awesome, fonts, css3, css
 >     
 > * 了解如何使用 Icon Font
 >     
-
-我們關於版面編排與 RWD 的部分終於告一個段落了，現在大觀念了解後，接下來我們要深入各個樣式的細節，例如文字、圖片、圖形、互動等等。首先，我們將從文字的部分開始。
-
-在網頁設計中，字型滿重要的，可以為網頁增加視覺吸引力、改善閱讀體驗，並且讓所有使用者的字體體驗一致。在這篇我們將學習字體的基本知識，以及如何在網頁中使用字體、Icon Font。
 
 ---
 
@@ -221,6 +221,19 @@ Adobe Font 也是非常有名，也很齊全的字體庫，只不過要使用的
 justfont 是台灣很有名研究中文字體的公司，之前很火紅的金萱體、蘭陽明體就是他們設計的，他們字體都非常好看！大部分需要購買才能使用。不過，他們曾經有為了回饋大眾，而推出了[粉圓體](https://justfont.com/huninn/)，非常可愛實用。
 
 另外，他們也有經營 Facebook 粉絲專頁與社團：[字戀](https://www.facebook.com/lovefonts)與[字嗨](https://www.facebook.com/groups/149874075167476)，裡面很多關於有趣字體的討論，有興趣的朋友可以去看看。
+
+### 4\. emfont
+
+> 連結：
+> 
+> * [emfont](https://font.emtech.cc/)
+>     
+> * [emfont - 純 CSS 載入字體](https://font.emtech.cc/docs/pure-css)
+>     
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1760931395507/cc14ff33-be9d-431f-8bf8-3e97d461b42a.png align="center")
+
+如果想使用免費的中文字型，emfont 這個網站整理了很多開源、免費的字體，也可以試試看喔！詳細使用方法請看他們的[文件](https://font.emtech.cc/docs/setup)。
 
 ---
 
