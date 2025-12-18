@@ -4,11 +4,17 @@ iOS Safari 上的經驗談"
 datePublished: Mon Oct 09 2023 17:51:20 GMT+0000 (Coordinated Universal Time)
 cuid: clnj6wa5l00040al3fezj2ejj
 slug: css-media-queries
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1696869863231/67c8a5e0-b7c3-4ded-8742-49ec13fbf9de.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1696869873642/bbdddd55-cd19-4e27-8edc-8e9000dec0f9.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1766032181935/ba3b9649-ff14-43e8-a97c-39ce3f257f5b.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1766032194831/d8af83fa-9159-4e36-bfdf-8ba248feac8d.png
 tags: css3, css, cssmediaqueries
 
 ---
+
+當我們在設計網站時，我們希望網站能夠適應不同的裝置和螢幕尺寸，以提供更好的使用體驗，這就是響應式網頁設計（RWD，Responsive Web Design）。
+
+要製作 RWD 網頁，我們可能會需要用到 CSS 的 Media Queries，透過網頁瀏覽裝置的特性（如裝置種類、寬度、高度、螢幕方向等）來調整畫面。
+
+另外，本篇也會提到在手機 iOS Safari 上的開發經驗，以及如何使用 Mac Safari debug iOS Safari。
 
 > #### **↓ 今日學習重點 ↓**
 > 
@@ -18,12 +24,6 @@ tags: css3, css, cssmediaqueries
 >     
 > * 了解開發 iOS Safari 的注意事項
 >     
-
-當我們在設計網站時，我們希望網站能夠適應不同的裝置和螢幕尺寸，以提供更好的使用體驗，這就是響應式網頁設計（RWD，Responsive Web Design）。
-
-要製作 RWD 網頁，我們可能會需要用到 CSS 的 Media Queries，透過網頁瀏覽裝置的特性（如裝置種類、寬度、高度、螢幕方向等）來調整畫面。
-
-另外，本篇也會提到在手機 iOS Safari 上的開發經驗，以及如何使用 Mac Safari debug iOS Safari。
 
 ---
 
