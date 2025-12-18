@@ -9,6 +9,8 @@ tags: css3, css
 
 ---
 
+前幾篇在研究 Grid 與 Subgrid 時，發現有人說過去是使用 `display: contents;` 來代替 `subgrid` 的效果，我才知道原來還有這種 display。於是這篇就打算來研究這個屬性。
+
 > #### **↓ 今日學習重點 ↓**
 > 
 > * 了解 display: contents; 是什麼？
@@ -17,8 +19,6 @@ tags: css3, css
 >     
 > * 了解 display: contents; 與 subgrid 的差異
 >     
-
-前幾篇在研究 Grid 與 Subgrid 時，發現有人說過去是使用 `display: contents;` 來代替 `subgrid` 的效果，我才知道原來還有這種 display。於是這篇就打算來研究這個屬性。
 
 ---
 
