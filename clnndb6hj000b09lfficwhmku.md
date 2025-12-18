@@ -3,8 +3,8 @@ title: "#26 CSS Container Queries 容器查詢：讓 CSS 的計算以容器自�
 datePublished: Thu Oct 12 2023 16:01:58 GMT+0000 (Coordinated Universal Time)
 cuid: clnndb6hj000b09lfficwhmku
 slug: css-container-queries
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1697045470904/1623366a-0166-454f-a715-0cbf0f4592ef.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1697045515099/4fbf749e-e257-4c7e-9be9-1a791542dc3b.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1766035916247/17b94ac6-c8e9-4a91-ab5a-7adb9d4ee1dc.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1766035923644/449489f3-ac6f-467f-8370-517ffcca9ecd.png
 tags: css3, css, container-queries
 
 ---
