@@ -9,6 +9,10 @@ tags: css3, css, css-text-effects
 
 ---
 
+之前我們都是著重在網頁排版上，今天我們要來做點吸睛的文字視覺效果！我們將會使用 CSS 的 `text-shadow`、`-webkit-text-stroke`、`-webkit-background-clip`，製作出許多特效文字：如霓虹字、立體字、外框字、漸層字等等，可以應用在網頁主視覺上。
+
+使用網頁的文字製作主視覺，雖然不及圖片來得變化多端，但是使用 HTML 與 CSS 製作的話，比較容易被搜尋到，對於 SEO 還是利大於弊。
+
 > #### **↓ 今日學習重點 ↓**
 > 
 > * 了解 CSS 的 text-shadow 與其應用
@@ -17,10 +21,6 @@ tags: css3, css, css-text-effects
 >     
 > * 了解如何製作 CSS 文字遮罩
 >     
-
-之前我們都是著重在網頁排版上，今天我們要來做點吸睛的文字視覺效果！我們將會使用 CSS 的 `text-shadow`、`-webkit-text-stroke`、`-webkit-background-clip`，製作出許多特效文字：如霓虹字、立體字、外框字、漸層字等等，可以應用在網頁主視覺上。
-
-使用網頁的文字製作主視覺，雖然不及圖片來得變化多端，但是使用 HTML 與 CSS 製作的話，比較容易被搜尋到，對於 SEO 還是利大於弊。
 
 ---
 
