@@ -3,8 +3,8 @@ title: "#22 CSS display: contents：讓你變成小透明，製作 JS Components
 datePublished: Sun Oct 08 2023 04:25:28 GMT+0000 (Coordinated Universal Time)
 cuid: clngyo2jw000009miduh2guqm
 slug: css-display-contents
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1696749749854/6d5ed287-3a0b-44c8-912f-60475572d5d4.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1696749764515/b0e1533e-846f-4c44-a566-b4b15f9a6b32.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1766031237600/4cee9986-4e17-470a-be5f-a58636904cd8.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1766031247110/ca7e5034-bfe0-4db6-8e3f-486d0a774153.png
 tags: css3, css
 
 ---
