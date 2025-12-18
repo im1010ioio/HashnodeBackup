@@ -1,5 +1,5 @@
 ---
-title: "#26 CSS Container Queries 容器查詢：隨著自己變大變小變畫面"
+title: "#26 CSS Container Queries 容器查詢：讓 CSS 的計算以容器自身為依據"
 datePublished: Thu Oct 12 2023 16:01:58 GMT+0000 (Coordinated Universal Time)
 cuid: clnndb6hj000b09lfficwhmku
 slug: css-container-queries
