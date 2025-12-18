@@ -3,11 +3,15 @@ title: "#23 CSS 邏輯屬性 Logical properties 與 Writing modes"
 datePublished: Sun Oct 08 2023 18:29:09 GMT+0000 (Coordinated Universal Time)
 cuid: clnhst27b000109my4n2l65jy
 slug: css-logical-properties
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1696789951852/9faf10ed-0897-48c8-9ba1-0fc3edd808fa.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1696789963363/f7e417b2-41fb-448a-93aa-3cd24d1e67b4.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1766031616504/e862b8ba-f896-416a-b7f8-1476c6272d5a.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1766031629339/b44f6668-ebc6-47f3-88a1-23aaa7d6dc28.png
 tags: css3, css
 
 ---
+
+CSS 新推出了另外一種排版邏輯，叫作邏輯屬性（Logical properties），特別是針對需要處理多語系和不同書寫方向的內容。
+
+今天，讓我們來了解邏輯屬性是什麼吧！
 
 > #### **↓ 今日學習重點 ↓**
 > 
@@ -15,10 +19,6 @@ tags: css3, css
 >     
 > * 了解 CSS 邏輯屬性的語法
 >     
-
-CSS 新推出了另外一種排版邏輯，叫作邏輯屬性（Logical properties），特別是針對需要處理多語系和不同書寫方向的內容。
-
-今天，讓我們來了解邏輯屬性是什麼吧！
 
 ---
 
