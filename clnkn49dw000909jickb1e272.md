@@ -3,11 +3,13 @@ title: "#25 CSS 列印的小技巧：@media print、break-before/after/inside、
 datePublished: Tue Oct 10 2023 18:13:13 GMT+0000 (Coordinated Universal Time)
 cuid: clnkn49dw000909jickb1e272
 slug: css-media-print
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1696961536986/834e4d60-9c0f-4de6-8ff2-9d79c9c581a4.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1696961586666/44d2b470-8db8-455d-a230-8c13b81c1388.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1766033052075/447f7703-eb3e-40e9-ac24-e634abde27e6.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1766033063900/0cf3fa03-e692-43ed-af1c-1b4630896e02.png
 tags: css3, css
 
 ---
+
+網頁需要列印的情況，通常是一些表單頁面（收據、報告等）。上一篇我們講解了 CSS Media Queries，這篇我們要延伸來討論網頁列印時的情況。
 
 > #### **↓ 今日學習重點 ↓**
 > 
@@ -17,8 +19,6 @@ tags: css3, css
 >     
 > * 了解如何處理列印頁面
 >     
-
-網頁需要列印的情況，通常是一些表單頁面（收據、報告等）。上一篇我們講解了 CSS Media Queries，這篇我們要延伸來討論網頁列印時的情況。
 
 使用 Media Query 的 print 就能夠設定列印的樣式，以下有一些小技巧分享給大家。
 
