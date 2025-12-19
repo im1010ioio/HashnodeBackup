@@ -3,8 +3,8 @@ title: "#30 iT 鐵人賽心路歷程 & 我的寫作方法"
 datePublished: Mon Oct 16 2023 16:26:33 GMT+0000 (Coordinated Universal Time)
 cuid: clnt3y7gg000i09l6absyhcw4
 slug: thoughts-about-30-days
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1697473482848/692b4ba8-81d4-4bb5-897c-3826f3a0fea1.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1697473562372/24e4899e-ec44-4383-b334-62e247609ba6.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1766115097879/37d8f746-edcb-4fda-9570-63e278086282.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1766115105239/a91596ec-b3ef-4ed1-a1e4-f67ea46c73cd.png
 tags: diary
 
 ---
