@@ -3,8 +3,8 @@ title: "#29 CSS 立體字、霓虹字、外框字、漸層字：text-shadow、-w
 datePublished: Sun Oct 15 2023 13:52:22 GMT+0000 (Coordinated Universal Time)
 cuid: clnrj02aq000509mpap8a9gnd
 slug: css-text-effect
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1766114745986/94a89ddd-bda7-45dd-91d4-3f2d11a412b2.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1766114754806/26801690-0b01-41af-871f-dc804b0030de.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1766115024674/7bff7505-457a-4e2b-bc1c-221272e5f3c3.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1766115035297/359208c5-6e83-47b7-8987-48e8994b456f.png
 tags: css3, css, css-text-effects
 
 ---
