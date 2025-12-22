@@ -3,8 +3,8 @@ title: "#31 CSS 顏色設定：基本的 hex、rgb()、cmyk()、hsl()、hsb() �
 datePublished: Wed Oct 25 2023 06:55:26 GMT+0000 (Coordinated Universal Time)
 cuid: clo5eiewi000s09le0xhz3hjb
 slug: css-colors-hex-rgb-hsl-lch-oklch
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1698128232494/47fae320-26bf-4689-a069-4b753053bacf.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1698166362907/344301fb-b0e1-4707-bded-730493747742.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1766403447441/341f4a88-cd7c-49c2-93e1-78a76ea5be49.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1766403462913/5d24586a-b821-4990-8c75-f7fb89b56fff.png
 tags: css3, css, color, lch, oklch
 
 ---
