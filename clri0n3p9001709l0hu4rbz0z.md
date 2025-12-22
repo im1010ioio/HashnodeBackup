@@ -3,9 +3,17 @@ title: "#35 圖片的 1x, 2x, 3x 是什麼？關於網頁上圖片解析度的�
 datePublished: Wed Jan 17 2024 16:47:18 GMT+0000 (Coordinated Universal Time)
 cuid: clri0n3p9001709l0hu4rbz0z
 slug: image-1x-2x-3x-srcset-resolution
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1705509201629/849f8645-3784-4f40-a90d-2df822acfc97.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1705509266963/81832abd-4525-4eff-8a87-c7fdcf7b2393.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1766407025782/fbe1d25e-71f5-4a36-bfc6-11e6886a056e.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1766407034086/205a6cca-dba5-4419-abc9-c0e1758ac9e9.png
 tags: css3, css, html, images, html5, 2articles1week, resolution
+
+---
+
+為什麼我的圖片明明大小沒錯，在較好的螢幕上（例如 apple retina 螢幕）卻顯得糊糊的？
+
+這些都是因為「像素密度 (Pixel Density) 」的緣故，我們在第 15 天的時候有稍微提過，只不過沒有深入探究，今天我們就來好好了解一下，並且學會 HTML 與 CSS 上的處理方法。
+
+> 延伸閱讀：[#15 網頁使用的單位大解析：px、rem、em、%、vw、vh (dvh, lvh, svh)、vmin、vmax](https://ithelp.ithome.com.tw/articles/10332412)
 
 ---
 
@@ -21,12 +29,6 @@ tags: css3, css, html, images, html5, 2articles1week, resolution
 >     
 > * 使用 CSS `@media-resolution` 處理圖片
 >     
-
-為什麼我的圖片明明大小沒錯，在較好的螢幕上（例如 apple retina 螢幕）卻顯得糊糊的？
-
-這些都是因為「像素密度 (Pixel Density) 」的緣故，我們在第 15 天的時候有稍微提過，只不過沒有深入探究，今天我們就來好好了解一下，並且學會 HTML 與 CSS 上的處理方法。
-
-> 延伸閱讀：[#15 網頁使用的單位大解析：px、rem、em、%、vw、vh (dvh, lvh, svh)、vmin、vmax](https://ithelp.ithome.com.tw/articles/10332412)
 
 ---
 
