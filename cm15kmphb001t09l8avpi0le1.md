@@ -9,13 +9,6 @@ tags: background, css3, css, stripe, 2articles1week, gradients-in-css
 
 ---
 
-> #### **↓ 今日學習重點 ↓**
-> 
-> * 學會使用線性/放射/圓錐漸層
->     
-> * 了解如何設定漸層的色彩空間
->     
-
 除了背景圖片，漸層色也是屬於 CSS 的背景一種，今天我們就來練習畫各種漂亮漸層吧！
 
 單純用漸層色就能夠表現出許多漂亮的視覺效果，例如模仿大自然中天空的顏色等等。
@@ -23,6 +16,15 @@ tags: background, css3, css, stripe, 2articles1week, gradients-in-css
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1726479000392/cbe46573-61a8-4c79-8cd9-fc20309660a0.png align="center")
 
 > 來源：[27pt(クリスタ素材) / X](https://x.com/27pttt/status/1604363572426915840)
+
+---
+
+> #### **↓ 今日學習重點 ↓**
+> 
+> * 學會使用線性/放射/圓錐漸層
+>     
+> * 了解如何設定漸層的色彩空間
+>     
 
 ---
 
