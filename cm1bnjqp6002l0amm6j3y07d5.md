@@ -3,11 +3,15 @@ title: "#41 用 CSS border-radius 畫圓角與圓圓的形狀：圓、圓柱、�
 datePublished: Sat Sep 21 2024 04:31:12 GMT+0000 (Coordinated Universal Time)
 cuid: cm1bnjqp6002l0amm6j3y07d5
 slug: css-border-radius
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1726855448411/b5d0fb64-5720-4e6b-88d1-a0ece3bbf33d.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1726855462143/33171b7d-5a32-429d-bf97-2fcaedc4bbf3.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1766409453594/0471d9d5-f46b-4993-9bdc-2f6911bf1a58.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1766409462965/ea06b53f-ea7d-4af9-a510-c29fdd32e5ac.png
 tags: css3, css, 2articles1week, border-radius
 
 ---
+
+在上篇文章中，我們用簡單的圓形加上模糊效果繪製了不規則的漸層，這篇我們來探討如何繪製各種形狀，其實使用 CSS 邊框 (`border`) 中的「邊框圓角 (`border-radius`) 」可以繪製出許多形狀。（突然覺得應該先寫這篇）
+
+`border-radius` 是 CSS 中用來讓元素的邊角變圓的屬性。你可以使用這個屬性來製作圓角到圓形等效果，廣泛應用在按鈕、卡片、圖片等元素的設計中。無論是用在按鈕還是圖片上，它都能讓你的頁面設計更具柔和感。
 
 > #### **↓ 今日學習重點 ↓**
 > 
@@ -15,10 +19,6 @@ tags: css3, css, 2articles1week, border-radius
 >     
 > * 了解繪製出圓角的原理
 >     
-
-在上篇文章中，我們用簡單的圓形加上模糊效果繪製了不規則的漸層，這篇我們來探討如何繪製各種形狀，其實使用 CSS 邊框 (`border`) 中的「邊框圓角 (`border-radius`) 」可以繪製出許多形狀。（突然覺得應該先寫這篇）
-
-`border-radius` 是 CSS 中用來讓元素的邊角變圓的屬性。你可以使用這個屬性來製作圓角到圓形等效果，廣泛應用在按鈕、卡片、圖片等元素的設計中。無論是用在按鈕還是圖片上，它都能讓你的頁面設計更具柔和感。
 
 ---
 
