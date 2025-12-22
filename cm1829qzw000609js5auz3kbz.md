@@ -3,11 +3,13 @@ title: "#38 CSS background 組合技：多重背景、背景位置、簡易視�
 datePublished: Wed Sep 18 2024 16:12:15 GMT+0000 (Coordinated Universal Time)
 cuid: cm1829qzw000609js5auz3kbz
 slug: multiple-backgrounds
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1726674976154/8063ed4f-7aee-4bc7-b183-807e6c7080af.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1726675868803/335f6d67-44ed-46bc-a739-f73a32a53483.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1766408304889/bda3810b-e154-4aa3-a0f4-4ea84bfd78cd.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1766408314208/d457bedd-9b75-45e5-80e3-00a4ba72dd5b.png
 tags: background, css3, css, background-image, 2articles1week
 
 ---
+
+我們了解如何設定背景圖，了解了如何畫漸層，接下來就可以靠著多重背景、 `background size` 、 `background position` 與 `background origin` 等等屬性，打出一連串的組合技。
 
 > #### **↓ 今日學習重點 ↓**
 > 
@@ -19,8 +21,6 @@ tags: background, css3, css, background-image, 2articles1week
 >     
 > * 學會使用簡易的視差滾動
 >     
-
-我們了解如何設定背景圖，了解了如何畫漸層，接下來就可以靠著多重背景、 `background size` 、 `background position` 與 `background origin` 等等屬性，打出一連串的組合技。
 
 ---
 
