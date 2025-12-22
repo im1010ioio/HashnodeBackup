@@ -3,11 +3,17 @@ title: "#33 CSS 切換淺色/深色模式：Media Queries 的 prefers-color-sche
 datePublished: Fri Dec 01 2023 03:14:27 GMT+0000 (Coordinated Universal Time)
 cuid: clpm1wqdw000h09k0awxf37db
 slug: css-prefers-color-scheme
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1701400321510/00c270b8-9be2-41b1-826b-e4957accebb1.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1701400338248/19cd3013-192a-4f9c-af2e-7378e3b94bb8.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1766405008436/c15fbcc2-b2bd-49da-8f8a-33284815c891.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1766404982394/b3bdfe0a-d280-4f0b-9794-da47b90c8d56.png
 tags: css3, css, cssmediaqueries, prefers-color-scheme
 
 ---
+
+關於顏色的設定方法、顏色的變數、混色的新方法，我們在前兩篇都說過了，關於顏色還有什麼需要了解的呢？那就是近幾年在軟體設計中常出現的：淺色與深色模式切換。
+
+今天我們要學會使用 CSS Media Queries 加上 CSS 變數打造自己的淺色與深色模式，甚至更進一步，用 HTML 的 input checkbox 做到簡單的切換（toggle）行為。
+
+另外，雖然 SASS (SCSS) 與 JS 不在本系列學習範圍內，但是還是提供了他們的解法給大家參考。
 
 > #### **↓ 今日學習重點 ↓**
 > 
@@ -16,12 +22,6 @@ tags: css3, css, cssmediaqueries, prefers-color-scheme
 >     
 > * 使用 HTML input checkbox 做淺色與深色模式的切換
 >     
-
-關於顏色的設定方法、顏色的變數、混色的新方法，我們在前兩篇都說過了，關於顏色還有什麼需要了解的呢？那就是近幾年在軟體設計中常出現的：淺色與深色模式切換。
-
-今天我們要學會使用 CSS Media Queries 加上 CSS 變數打造自己的淺色與深色模式，甚至更進一步，用 HTML 的 input checkbox 做到簡單的切換（toggle）行為。
-
-另外，雖然 SASS (SCSS) 與 JS 不在本系列學習範圍內，但是還是提供了他們的解法給大家參考。
 
 ---
 
