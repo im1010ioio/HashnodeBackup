@@ -1,5 +1,5 @@
 ---
-title: "#32 CSS 顏色變數 currentcolor、checkbox/radio 顏色、input placeholder、閃動的光標顏色、文字反白的顏色、與混色的 color-mix() 製作色彩系統"
+title: "#32 多種 CSS 顏色設定：變數 currentcolor、checkbox/radio 顏色、input placeholder、閃動的光標顏色、文字反白的顏色，用混色的 color-mix() 製作色彩系統"
 datePublished: Thu Nov 09 2023 16:04:07 GMT+0000 (Coordinated Universal Time)
 cuid: clordpsz2000309jo2ngc5rcv
 slug: css-currentcolor-accent-color-color-mix
