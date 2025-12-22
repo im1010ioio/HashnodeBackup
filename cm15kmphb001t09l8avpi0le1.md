@@ -3,8 +3,8 @@ title: "#37 CSS 基本漸層：線性/放射/圓錐漸層 (CSS linear-gradient, 
 datePublished: Mon Sep 16 2024 22:22:55 GMT+0000 (Coordinated Universal Time)
 cuid: cm15kmphb001t09l8avpi0le1
 slug: css-gradient
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1726765002373/0f94035c-1737-45b9-a40a-ed791f39e15f.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1726525354381/5ec3f2a2-e5b8-483c-826f-7309cc7d66d7.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1766407990142/d38b08c2-b1be-4975-b27c-8036f48b31c2.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1766407998685/bbc95c47-6cf4-4499-a3d6-bd76feb566c1.png
 tags: background, css3, css, stripe, 2articles1week, gradients-in-css
 
 ---
