@@ -9,6 +9,8 @@ tags: css3, css, color
 
 ---
 
+上一篇我們了解了如何各種設定顏色的方式，這一篇我們要來了解關於其他顏色的小事，都很好用，像是顏色的變數 `currentcolor`、input 的顏色 `accent-color`、input 閃動的光標顏色、文字反白的顏色，甚至進階一點的混色 `color-mix()`。
+
 > #### **↓ 今日學習重點 ↓**
 > 
 > * 了解 `currentcolor` 及他的使用時機
@@ -21,8 +23,6 @@ tags: css3, css, color
 >     
 > * 了解 `color-mix()` 及如何使用
 >     
-
-上一篇我們了解了如何各種設定顏色的方式，這一篇我們要來了解關於其他顏色的小事，都很好用，像是顏色的變數 `currentcolor`、input 的顏色 `accent-color`、input 閃動的光標顏色、文字反白的顏色，甚至進階一點的混色 `color-mix()`。
 
 ---
 
