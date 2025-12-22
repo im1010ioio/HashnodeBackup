@@ -3,8 +3,8 @@ title: "#32 多種 CSS 顏色設定：變數 currentcolor、checkbox/radio 顏�
 datePublished: Thu Nov 09 2023 16:04:07 GMT+0000 (Coordinated Universal Time)
 cuid: clordpsz2000309jo2ngc5rcv
 slug: css-currentcolor-accent-color-color-mix
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1766404352643/5ff99b13-b39c-41ff-95c8-710bd6927de4.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1766404361943/3ec1f4c7-45b2-4800-94f8-e8f4f975b9f1.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1766404538299/44dc46a8-c7ec-4524-ba4a-88b70187d12c.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1766404545664/4bfaebc0-8911-4dc1-9658-8db991f2d98c.png
 tags: css3, css, color
 
 ---
