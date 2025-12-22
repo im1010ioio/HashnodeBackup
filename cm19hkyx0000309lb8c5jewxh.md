@@ -3,20 +3,11 @@ title: "#39 CSS 幾何背景：條紋、格子、點點、棋盤格子背景 (CS
 datePublished: Thu Sep 19 2024 16:08:39 GMT+0000 (Coordinated Universal Time)
 cuid: cm19hkyx0000309lb8c5jewxh
 slug: css-stripes-plaid-polka-checkerboard-background
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1726761888733/e2842160-cd69-4f74-8070-2ca0f27715ec.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1726762084071/5aefb7a2-0304-4d14-8122-38cb42ee4049.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1766408589920/010d66fb-47a9-4dff-a090-5a4da65fc503.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1766408599044/ec4909af-836e-4969-9eda-a651a7cf98f0.png
 tags: background, css3, css, 2articles1week, gradients-in-css
 
 ---
-
-> #### **↓ 今日學習重點 ↓**
-> 
-> * 學會繪製各種條紋、格子背景
->     
-> * 學會繪製各種點點背景
->     
-> * 學會繪製各種棋盤格背景
->     
 
 除了單純的漸層色外，漸層還能夠延伸畫出其他的圖案：如條紋、格子、點點、棋盤格背景等等，很神奇吧！這些特殊背景是我從一本 CSS 好書「CSS Secrets」中學到的，這本書裡面還有很多神奇 CSS 小知識，大家可以去借來看看。
 
@@ -29,6 +20,17 @@ tags: background, css3, css, 2articles1week, gradients-in-css
 > * [#37 CSS 基本漸層：線性/放射/圓錐漸層 (CSS linear-gradient, radial-gradient, conic-gradient)](https://im1010ioio.hashnode.dev/css-gradient)
 >     
 > * [#38 CSS background 組合技：多重背景、背景位置、簡易視差滾動 (iOS 不支援)](https://im1010ioio.hashnode.dev/multiple-backgrounds)
+>     
+
+---
+
+> #### **↓ 今日學習重點 ↓**
+> 
+> * 學會繪製各種條紋、格子背景
+>     
+> * 學會繪製各種點點背景
+>     
+> * 學會繪製各種棋盤格背景
 >     
 
 ---
