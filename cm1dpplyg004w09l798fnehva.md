@@ -3,20 +3,22 @@ title: "#42 用 CSS border 繪製三角形箭頭 (等腰/直角三角形)"
 datePublished: Sun Sep 22 2024 15:07:17 GMT+0000 (Coordinated Universal Time)
 cuid: cm1dpplyg004w09l798fnehva
 slug: css-border-triangle
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1727017557642/d817d828-63ab-4aac-96de-54e98fd97e87.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1727017629469/bcd61b30-946d-4c99-bb1a-f1d4b2ed72ed.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1766410148701/b7e131e4-5777-4d50-96de-b969f4a3fda2.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1766410156915/ee78703c-382c-43b0-ae18-d18c06e9acc7.png
 tags: css3, css, triangle, border
 
 ---
+
+在 CSS 中，可以使用邊框 `border` 來繪製三角形，通常會被當成箭頭使用，用在提示框的邊緣或操作步驟按鈕上。
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1727017390056/3371caf9-c834-4c8d-b47f-b1e145e8fa79.png align="center")
 
 > #### **↓ 今日學習重點 ↓**
 > 
 > * 學會用 `border` 繪製等腰與直角三角形
 >     
 
-在 CSS 中，可以使用邊框 `border` 來繪製三角形，通常會被當成箭頭使用，用在提示框的邊緣或操作步驟按鈕上。
-
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1727017390056/3371caf9-c834-4c8d-b47f-b1e145e8fa79.png align="center")
+---
 
 ## CSS `border` 三角形原理
 
