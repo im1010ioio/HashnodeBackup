@@ -3,8 +3,8 @@ title: "#34 CSS 讓圖片填滿容器的各種方法，以圓形大頭貼為例�
 datePublished: Thu Jan 11 2024 15:49:15 GMT+0000 (Coordinated Universal Time)
 cuid: clr9dxcg500020ajt7t196cy3
 slug: css-object-fit-background-size-aspect-ratio
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1704951919247/46afcb4a-ee12-4263-8faa-8fb8769d8b75.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1704951935564/4b9de93b-8403-4912-96bf-fb0274c9a113.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1766405492622/c85f2229-8bfb-48d8-ab4f-a6c98dff50e8.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1766405503332/0b7c25a6-9aaa-4712-955c-9240b54b410c.png
 tags: background, css, images, 2articles1week, css-object-fit-property
 
 ---
