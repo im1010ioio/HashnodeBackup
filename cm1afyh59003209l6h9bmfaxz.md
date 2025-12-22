@@ -9,15 +9,6 @@ tags: css3, css, 2articles1week, gradients-in-css
 
 ---
 
-> #### **↓ 今日學習重點 ↓**
-> 
-> * 學習 CSS `filter` `blur()` 特效
->     
-> * 使用偽元素 `::before` / `::after` 製作裝飾元素
->     
-> * 使用 `box-shadow` 製作裝飾元素
->     
-
 在平面設計中，還有一種很常見的漸層，既不是線性漸層，也不屬於圓形/圓錐漸層，是任意形狀漸層漸層，也有人稱之為流動 (Fluid gradient) 或暈染漸層，就像本系列文的封面圖。
 
 這個封面我是使用 Figma 的套件「[Noisy Gradients](https://www.figma.com/community/plugin/1174390287006360600)」產出的，另外這個套件還有在漸層上加上了噪點，讓平滑的顏色增添一點磨砂材質感覺。
@@ -27,6 +18,17 @@ tags: css3, css, 2articles1week, gradients-in-css
 不過先不論噪點，其實要製作這種背景很簡單，我們其實只要將東西模糊，並且把數值調到很大後，就能得到這樣的漸層，就像以下這樣：
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1718163917580/f0d14388-6aeb-41c2-9d05-4ef3d529be1a.gif align="center")
+
+> #### **↓ 今日學習重點 ↓**
+> 
+> * 學習 CSS `filter` `blur()` 特效
+>     
+> * 使用偽元素 `::before` / `::after` 製作裝飾元素
+>     
+> * 使用 `box-shadow` 製作裝飾元素
+>     
+
+---
 
 ## 基本語法
 
