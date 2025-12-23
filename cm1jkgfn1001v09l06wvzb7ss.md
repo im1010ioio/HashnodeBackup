@@ -1,13 +1,17 @@
 ---
-title: "#46 CSS 濾鏡 filter/ backdrop-filter：模糊、透明圖陰影、調色與毛玻璃效果"
+title: "#46 CSS 濾鏡 filter/ backdrop-filter：模糊、透明圖片加陰影、調色濾鏡、毛玻璃、漸進式模糊效果"
 datePublished: Thu Sep 26 2024 17:26:48 GMT+0000 (Coordinated Universal Time)
 cuid: cm1jkgfn1001v09l06wvzb7ss
 slug: css-filter-backdrop-filter
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1727404839989/0d3980d2-d09a-45f9-a8e3-c867c3868537.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1727404850648/94141a98-116d-46e5-835f-46b0dadd563e.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1766469228027/8f55826e-df05-4dc3-abb1-3ae188bb159c.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1766469217833/fd3064fb-1106-4a9f-8e16-394bdcecfd43.png
 tags: css3, css, filter
 
 ---
+
+除了用繪圖軟體在圖片上調整色調，CSS 內建的濾鏡效果也能讓我們做到這些特殊效果，例如：模糊、變亮、對比、色相、飽和度調整等等，甚至還可以做到毛玻璃效果！
+
+今天，我們要介紹的是 `filter` 與 `backdrop-filter` 這兩個強大的 CSS 屬性。
 
 > #### **↓ 今日學習重點 ↓**
 > 
@@ -15,10 +19,6 @@ tags: css3, css, filter
 >     
 > * 學會 CSS 背景濾鏡 `backdrop-filter` 的用法
 >     
-
-除了用繪圖軟體在圖片上調整色調，CSS 內建的濾鏡效果也能讓我們做到這些特殊效果，例如：模糊、變亮、對比、色相、飽和度調整等等，甚至還可以做到毛玻璃效果！
-
-今天，我們要介紹的是 `filter` 與 `backdrop-filter` 這兩個強大的 CSS 屬性。
 
 ---
 
@@ -136,7 +136,50 @@ div {
 
 ---
 
-## 三、固定定位（`fixed`）+ `filter`/`backdrop-filter` 的陷阱
+## 三、漸進式模糊（Progressive blur）
+
+會用 `backdrop-filter` 後，搭配昨天我們學到的 CSS `mask` 語法，我們還可以進一步製作漸進式模糊。
+
+> 延伸閱讀：[#45 CSS 中的半透明遮罩 mask，實現各種模糊邊緣特效](https://im1010ioio.hashnode.dev/css-mask)
+
+什麼是漸進式模糊呢？漸進式模糊（Progressive blur）就是 UI 中照片下半部會逐漸模糊，然後下方顯示其他文字資訊等。
+
+![漸進式模糊 Progressive blur of Apple Invites](https://cdn.hashnode.com/res/hashnode/image/upload/v1739157604187/205dc809-1f0b-4422-b53e-bd82eac2a631.png align="center")
+
+這種背景模糊的 UI，在 Apple 的 iOS UI 中很常出現這種效果（例如：[Apple Invites](https://www.apple.com/tw/newsroom/2025/02/introducing-apple-invites-a-new-app-that-brings-people-together/)），過去在網頁上很難做到，但是現在只要靈活運用這兩個語法就能做到囉！
+
+### DEMO
+
+這邊我們在有背景圖的 `div` 上，新增一個滿版的偽元素 `::before` 並且設定背景濾鏡 `backdrop-filter` ，然後再透過 CSS `mask` 線性漸層調整模糊的範圍，就可以做到啦！
+
+![CSS Progressive Blur 漸進式模糊](https://cdn.hashnode.com/res/hashnode/image/upload/v1739169025582/2dce82ed-50e7-416b-a1d1-021c51bc554c.png align="center")
+
+```css
+.photo{
+    position: relative;
+    overflow: hidden;
+    background-image: url("image.jpg");
+    background-size: cover;
+    overflow: hidden;
+    &::before{
+        content: "";
+        display: block;
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        backdrop-filter: blur(10px);
+        mask: linear-gradient(180deg, transparent 350px, #000 450px);
+    }
+}
+```
+
+> DEMO 連結：[CSS Progressive Blur](https://codepen.io/im1010ioio/pen/raBXezV)
+
+---
+
+## 四、固定定位（`fixed`）+ `filter`/`backdrop-filter` 的陷阱
 
 如果 fixed 項目的父層上有 `filter` 或 `backdrop-filter` 屬性，該 fixed 項目就不會依據「瀏覽器的視窗大小」進行定位，而是依據「該 HTML 的父層」定位。
 
