@@ -3,8 +3,8 @@ title: "#55 純 Css 照片淡入淡出輪播動畫"
 datePublished: Wed Aug 13 2025 10:51:52 GMT+0000 (Coordinated Universal Time)
 cuid: cme9uoz5m001002l4eyt69tzx
 slug: css-images-slider-fade-effects
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1766490632471/35c5cd41-ca1a-45f6-ac16-7d402aa86e1a.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1766490638382/f9f5f383-1d69-40ab-8991-5f910b4c4319.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1766491110242/7c951e63-df34-4423-b95f-696f72d5f886.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1766491118115/829cba03-cb5c-410f-8234-0bbe40ed0b6c.png
 tags: css3, css, css-animation, image-slider
 
 ---
