@@ -3,11 +3,14 @@ title: "#44 CSS 邊框 border 與各種花式邊框的小技巧：borde-image、
 datePublished: Wed Sep 25 2024 09:17:38 GMT+0000 (Coordinated Universal Time)
 cuid: cm1hnjhxp001y09jthv696xkk
 slug: css-border-style
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1727255762271/f19bf159-75db-45c3-bb5c-bd3e307613c8.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1727255850355/7d8f584b-8bc5-46ce-bbd7-06a8d6ca88df.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1766463596574/826ce3aa-489a-4daa-8e6b-f0e1991f076d.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1766463605041/fb9e77f7-c91f-4d55-939f-a15e2c7484c2.png
 tags: css3, css, 2articles1week, border
 
 ---
+
+前幾篇我們使用CSS 邊框 `border` 畫了很多圖形，但是好像還沒有正式來好好畫邊框。XD  
+今天，讓我們來研究邊框與各種花式邊框。
 
 > #### **↓ 今日學習重點 ↓**
 > 
@@ -17,8 +20,6 @@ tags: css3, css, 2articles1week, border
 >     
 > * 了解如何繪製多重邊框：`outline` / `box-shadow`
 >     
-
-前幾篇我們使用CSS 邊框 `border` 畫了很多圖形，但是好像還沒有正式來好好畫邊框。XD今天，讓我們來研究邊框與各種花式邊框。
 
 ---
 
