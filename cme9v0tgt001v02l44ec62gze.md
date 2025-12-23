@@ -3,8 +3,8 @@ title: "#57 CSS @property：變數的再進化！輕易製作純 CSS 漸層動�
 datePublished: Wed Aug 13 2025 11:01:04 GMT+0000 (Coordinated Universal Time)
 cuid: cme9v0tgt001v02l44ec62gze
 slug: css-houdini-property
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1766491692999/91892167-3067-4f26-9232-0958357de0cc.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1766491697259/fa4bcc81-b518-4a8e-bea6-0b0613c12723.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1766491860511/9a663172-9433-4965-954a-b0cfd3ddccd5.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1766491849285/37991b0c-6eb3-4442-96d8-a57ea5d7e9e2.png
 tags: css3, css, css-animation, houdini, property, css-houdini
 
 ---
