@@ -3,18 +3,11 @@ title: "#45 CSS 中的半透明遮罩 mask，實現各種模糊邊緣特效"
 datePublished: Thu Sep 26 2024 06:11:09 GMT+0000 (Coordinated Universal Time)
 cuid: cm1iwbjk5000h09l7cotgag2q
 slug: css-mask
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1766467459421/25a3407e-9d2c-456c-bded-28cfdb892e54.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1766467470556/039a9115-4e1d-47fa-a53e-82137c158da7.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1766467622070/0014c088-4898-4e1d-b145-cf4bae77a334.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1766467610239/e489ca39-d566-4be4-89bc-ed2100641f77.png
 tags: css3, css, 2articles1week, mask
 
 ---
-
-> #### **↓ 今日學習重點 ↓**
-> 
-> * 學會 CSS 遮罩 `mask` 的用法
->     
-> * 了解 `mask-mode` 常用兩種模式下的差異
->     
 
 前幾篇寫到 CSS clip-path 時，可以剪裁任何 HTML 的元素，包含色塊、圖片、影片，但是他只限於精準的剪裁線條，萬一今天要有更複雜而且半透明的剪裁呢？
 
@@ -25,6 +18,13 @@ tags: css3, css, 2articles1week, mask
 > 圖片來源：[Steam - This War of Mine](https://store.steampowered.com/app/282070/This_War_of_Mine/)
 
 這時候就可以使用 CSS 的 `mask` 屬性，再加上一張裁剪用的半透明圖檔，做到我們要的效果，這幾乎跟 [Photoshop 中的剪裁遮色片](https://helpx.adobe.com/tw/photoshop-elements/using/clipping-masks.html)效果一模一樣。我覺得這種效果特別適合用在復古、恐怖或懸疑效果的網頁裡。
+
+> #### **↓ 今日學習重點 ↓**
+> 
+> * 學會 CSS 遮罩 `mask` 的用法
+>     
+> * 了解 `mask-mode` 常用兩種模式下的差異
+>     
 
 ---
 
