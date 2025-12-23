@@ -3,8 +3,8 @@ title: "#49 CSS 2D Transform：變大、變小、旋轉、傾斜，CSS 絕對定
 datePublished: Wed Aug 13 2025 10:00:16 GMT+0000 (Coordinated Universal Time)
 cuid: cme9sumk5000h02l287jvdzm7
 slug: css-2d-transform
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1766488813910/a98f6775-2e72-4cbe-983b-e5ee5909e8ff.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1766488820570/3772e6f8-da47-498c-b986-6ce36c0fa3bf.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1766488925667/4cdc72f7-85f2-44f6-8e5d-167627ed3128.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1766488934381/beeffa7b-e58f-427a-b7ae-263e2db25d23.png
 tags: css3, css, transform, css-2d-transforms
 
 ---
