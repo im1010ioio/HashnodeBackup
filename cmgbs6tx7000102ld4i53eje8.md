@@ -4,6 +4,7 @@ datePublished: Sat Oct 04 2025 04:36:43 GMT+0000 (Coordinated Universal Time)
 cuid: cmgbs6tx7000102ld4i53eje8
 slug: scss-variables-nesting
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1766721313330/b5b937f9-e3f6-4781-a347-6f2564422b74.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1766721325595/eeb23b5c-e330-42e6-b721-ac612ba6bdf0.png
 tags: css3, css, sass, scss
 
 ---
