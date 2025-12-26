@@ -3,8 +3,8 @@ title: "#87 Sass/scss (6) 運算符號（加減乘除）"
 datePublished: Tue Oct 07 2025 17:27:54 GMT+0000 (Coordinated Universal Time)
 cuid: cmggu24pw000702lbfvq92mhy
 slug: scss-operators
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1766723167289/b9187a07-fdf7-42b8-9e50-9bf37cbe5da3.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1766723172944/e2a6883a-70b2-4f3a-8330-ed872784f7b1.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1766723664117/792adaac-a6b3-4847-9ca9-dc8a9aed614b.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1766723671163/5ce98c56-6da3-4a40-a254-9f7d9e7d94cf.png
 tags: css3, css, sass, scss, operators
 
 ---
