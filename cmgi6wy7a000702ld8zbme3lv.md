@@ -3,6 +3,8 @@ title: "#88 SASS/SCSS (7) sass:color 顏色模組——color.adjust 與 color.sc
 datePublished: Wed Oct 08 2025 16:15:33 GMT+0000 (Coordinated Universal Time)
 cuid: cmgi6wy7a000702ld8zbme3lv
 slug: scss-color-adjust-color-scale
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1766724257489/c47edef3-3830-4c98-94f7-88e670fc664f.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1766724265584/b3ea9ee2-da72-4942-933d-9b81290aaa87.png
 tags: css3, css, sass, scss, color
 
 ---
