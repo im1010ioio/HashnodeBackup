@@ -3,8 +3,8 @@ title: "#85 SASS/SCSS (4) Mixins @mixin & @include"
 datePublished: Mon Oct 06 2025 16:04:32 GMT+0000 (Coordinated Universal Time)
 cuid: cmgfbn2ld000002ji8pvyehrv
 slug: scss-mixin
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1766722365513/2ff9bf45-0d48-4ba4-8984-86cae9e9247b.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1766722370014/6a9a5ba9-7858-42ff-bc56-bf4b454c61f4.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1766722530282/c1c3ef52-9431-400b-a23f-782364b83a8f.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1766722541326/8d502917-cef3-4caf-8fa1-5bba74e2e40e.png
 tags: css3, css, sass, scss, mixin, mixins
 
 ---
