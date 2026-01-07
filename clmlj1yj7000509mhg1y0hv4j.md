@@ -254,27 +254,27 @@ tags: css3, css, html, html5
 
 * `#82` [SASS/SCSS (1) 介紹與簡易環境設定](https://im1010ioio.hashnode.dev/scss-intro)
     
-* `#83` SASS/SCSS (2) 變數 Variables / 巢狀寫法 Nesting
+* `#83` [SASS/SCSS (2) 變數 Variables / 巢狀寫法 Nesting](https://im1010ioio.hashnode.dev/scss-variables-nesting)
     
-* `#84` [SASS/SCSS (3) 使用檔案管理樣式 Partials / Modules (@use / @import / !default)](https://ithelp.ithome.com.tw/articles/10393715)
+* `#84` [SASS/SCSS (3) 使用檔案管理樣式 Partials / Modules (@use / @import / !default)](https://im1010ioio.hashnode.dev/scss-use-import-default)
     
-* `#85` [SASS/SCSS (4) Mixins @mixin & @include](https://ithelp.ithome.com.tw/articles/10394334)
+* `#85` [SASS/SCSS (4) Mixins @mixin & @include](https://im1010ioio.hashnode.dev/scss-mixin)
     
-* `#86` [SASS/SCSS (5) Extend](https://ithelp.ithome.com.tw/articles/10394731)
+* `#86` [SASS/SCSS (5) Extend](https://im1010ioio.hashnode.dev/scss-extend)
     
-* `#87` [SASS/SCSS (6) 運算符號（加減乘除）](https://ithelp.ithome.com.tw/articles/10394784)
+* `#87` [SASS/SCSS (6) 運算符號（加減乘除）](https://im1010ioio.hashnode.dev/scss-operators)
     
-* `#88` [SASS/SCSS (7) sass:color 顏色模組——color.adjust 與 color.scale 取代舊的 lighten() 和 darken()](https://ithelp.ithome.com.tw/articles/10395161)
+* `#88` [SASS/SCSS (7) sass:color 顏色模組——color.adjust 與 color.scale 取代舊的 lighten() 和 darken()](https://im1010ioio.hashnode.dev/scss-color-adjust-color-scale)
     
-* `#89` [SASS/SCSS (8) 邏輯 @if, @each, @for 與 @while](https://ithelp.ithome.com.tw/articles/10395549)
+* `#89` [SASS/SCSS (8) 邏輯 @if, @each, @for 與 @while](https://im1010ioio.hashnode.dev/scss-if-each-for-while)
     
-* `#90` [SASS/SCSS (9) 函式 (Function) - 打造你自己的工具箱](https://ithelp.ithome.com.tw/articles/10395959)
+* `#90` [SASS/SCSS (9) 函式 (Function) - 打造你自己的工具箱](https://im1010ioio.hashnode.dev/scss-function)
     
-* `#91` [SASS/SCSS (10) 資料結構 List (列表)](https://ithelp.ithome.com.tw/articles/10396602)
+* `#91` [SASS/SCSS (10) 資料結構 List (列表)](https://im1010ioio.hashnode.dev/scss-list)
     
-* `#92` [SASS/SCSS (11) 資料結構 Map](https://ithelp.ithome.com.tw/articles/10396943)
+* `#92` [SASS/SCSS (11) 資料結構 Map](https://im1010ioio.hashnode.dev/scss-map)
     
-* `#93` [SASS/SCSS (12) 防呆與偵錯 @debug / @warn / @error](https://ithelp.ithome.com.tw/articles/10397043)
+* `#93` [SASS/SCSS (12) 防呆與偵錯 @debug / @warn / @error](https://im1010ioio.hashnode.dev/scss-debug-warn-error)
     
 
 ---
