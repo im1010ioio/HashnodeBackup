@@ -60,13 +60,13 @@ tags: css3, css, html, html5
     
 * `#12` [4 個常見的 CSS 設計方法與命名建議：OOCSS、SMACSS、BEM、RSCSS](https://im1010ioio.hashnode.dev/oocss-smacss-bem-rscss)
     
-* `#71` CSS 偽元素的妙用：「::before」 與「::after」的常見用法
+* `#71` [CSS 偽元素的妙用：「::before」 與「::after」的常見用法](https://im1010ioio.hashnode.dev/css-pseudo-before-after)
     
-* `#72` CSS 偽元素的進階用法：用 ::before 與 ::after 做 RWD 表格 & 客製化樣式的序號清單 (ol, oder list)
+* `#72` [CSS 偽元素的進階用法：用 ::before 與 ::after 做 RWD 表格 & 客製化樣式的序號清單 (ol, oder list)](https://im1010ioio.hashnode.dev/css-responsive-table-custom-order-list)
     
-* `#73` CSS :nth-child 的新寫法：:nth-child of S (N of Selector)
+* `#73` [CSS :nth-child 的新寫法：:nth-child of S (N of Selector)](https://im1010ioio.hashnode.dev/css-nth-child-of-s)
     
-* `#74` CSS 也能控制作用域了！@scope 語法
+* `#74` [CSS 也能控制作用域了！@scope 語法](https://im1010ioio.hashnode.dev/css-at-scope)
     
 
 ---
@@ -95,7 +95,7 @@ tags: css3, css, html, html5
     
 * `#23` [CSS 邏輯屬性 Logical properties 與 Writing modes](https://im1010ioio.hashnode.dev/css-logical-properties)
     
-* `#79` 告別 JS 計算位置！CSS Anchor Positioning 定位的新寫法
+* `#79` [告別 JS 計算位置！CSS Anchor Positioning 定位的新寫法](https://im1010ioio.hashnode.dev/css-anchor-positioning)
     
 
 ---
@@ -119,9 +119,9 @@ tags: css3, css, html, html5
     
 * `#29` [CSS 立體字、霓虹字、外框字、漸層字：text-shadow、-webkit-text-stroke、-webkit-background-clip](https://im1010ioio.hashnode.dev/css-text-effect)
     
-* `#75` 用 CSS 解決網頁的「標題不平衡」與「孤字不成行」： text-wrap: balance / pretty
+* `#75` [用 CSS 解決網頁的「標題不平衡」與「孤字不成行」： text-wrap: balance / pretty](https://im1010ioio.hashnode.dev/css-text-wrap-balance-pretty)
     
-* `#76` 用 CSS 解決文字上下多出來的神秘空間：text-box-trim / text-box-edge
+* `#76` [用 CSS 解決文字上下多出來的神秘空間：text-box-trim / text-box-edge](https://im1010ioio.hashnode.dev/css-text-box-trim-edge)
     
 
 ---
@@ -134,7 +134,7 @@ tags: css3, css, html, html5
     
 * `#33` [CSS 切換淺色/深色模式：Media Queries 的 prefers-color-scheme 搭配 CSS 變數](https://im1010ioio.hashnode.dev/css-prefers-color-scheme)
     
-* `#77` 實作網頁深色模式及淺色模式必備的 CSS 語法：color-scheme 與 light-dark()
+* `#77` [實作網頁深色模式及淺色模式必備的 CSS 語法：color-scheme 與 light-dark()](https://im1010ioio.hashnode.dev/css-color-scheme-light-dark)
     
 
 ---
@@ -168,7 +168,7 @@ tags: css3, css, html, html5
     
 * `#44` [CSS 邊框 border 與各種花式邊框的小技巧：borde-image、outline、box-shadow](https://im1010ioio.hashnode.dev/css-border-style)
     
-* `#81` CSS 可以寫三角函數？sin()、cos()、tan() 專門處理圓弧、波浪或是特殊角度
+* `#81` [CSS 可以寫三角函數？sin()、cos()、tan() 專門處理圓弧、波浪或是特殊角度](https://im1010ioio.hashnode.dev/css-trigonometric-functions)
     
 
 ---
@@ -187,7 +187,7 @@ tags: css3, css, html, html5
     
 * `#50` [CSS 3D Transform](https://im1010ioio.hashnode.dev/css-3d-transform)
     
-* `#78` CSS + SVG 仿 Apple iOS26 液態玻璃（Liquid Glass）效果 (Safari 不支援)
+* `#78` [CSS + SVG 仿 Apple iOS26 液態玻璃（Liquid Glass）效果 (Safari 不支援)](https://im1010ioio.hashnode.dev/css-svg-ios26-liquid-glass)
     
 
 ---
@@ -198,58 +198,58 @@ tags: css3, css, html, html5
     
 * `#52` [詳細了解 CSS 各種偽類：hover、focus、active、focus-within、focus-visible、target](https://im1010ioio.hashnode.dev/css-pseudo-classes)
     
-* `#80` Display: none 也可以做 CSS Transition 動畫了？@starting-style 與 transition-behavior: allow-discrete
+* `#80` [Display: none 也可以做 CSS Transition 動畫了？@starting-style 與 transition-behavior: allow-discrete](https://im1010ioio.hashnode.dev/css-starting-style-transition-behavior-allow-discrete)
     
 
 ---
 
 ### 互動 - Animation
 
-* `#53` [CSS Animation](https://ithelp.ithome.com.tw/articles/10363010) (todo 逐格動畫 打字動畫 動畫暫停)
+* `#53` [CSS Animation](https://im1010ioio.hashnode.dev/css-animation) (todo 逐格動畫 打字動畫 動畫暫停)
     
-* `#54` [網頁渲染動畫的建議 & will-change 的使用時機](https://ithelp.ithome.com.tw/articles/10363366)
+* `#54` [網頁渲染動畫的建議 & will-change 的使用時機](https://im1010ioio.hashnode.dev/css-web-rendering-will-change)
     
-* `#55` [純 CSS 照片淡入淡出輪播動畫](https://ithelp.ithome.com.tw/articles/10364085)
+* `#55` [純 CSS 照片淡入淡出輪播動畫](https://im1010ioio.hashnode.dev/css-images-slider-fade-effects)
     
-* `#56` [純 CSS 跑馬燈動畫，單趟跑、無限跑、要暫停都可以](https://ithelp.ithome.com.tw/articles/10364558)
+* `#56` [純 CSS 跑馬燈動畫，單趟跑、無限跑、要暫停都可以](https://im1010ioio.hashnode.dev/css-marquee)
     
-* `#57` [CSS @property：變數的再進化！輕易製作純 CSS 漸層動畫、圓餅圖動畫](https://ithelp.ithome.com.tw/articles/10365072)
+* `#57` [CSS @property：變數的再進化！輕易製作純 CSS 漸層動畫、圓餅圖動畫](https://im1010ioio.hashnode.dev/css-houdini-property)
     
-* `#58` [CSS offset-path：沿著軌跡行進動畫](https://ithelp.ithome.com.tw/articles/10365518)
+* `#58` [CSS offset-path：沿著軌跡行進動畫](https://im1010ioio.hashnode.dev/css-offset-path)
     
 
 ---
 
 ### 互動 - click toggle 行為
 
-* `#59` [客製化 radio、checkbox 樣式，製作開關按鈕 (Switch Button)](https://ithelp.ithome.com.tw/articles/10365841)
+* `#59` [客製化 radio、checkbox 樣式，製作開關按鈕 (Switch Button)](https://im1010ioio.hashnode.dev/css-switch-button)
     
-* `#60` [利用 checkbox，做到純 CSS 開關網頁選單、收合側邊欄](https://ithelp.ithome.com.tw/articles/10366301)
+* `#60` [利用 checkbox，做到純 CSS 開關網頁選單、收合側邊欄](https://im1010ioio.hashnode.dev/css-sidebar)
     
-* `#61` [利用 checkbox/ radio 與 CSS grid，做到純 CSS FAQ 開合選單（Collapse 折疊 / Accordion 手風琴效果）](https://ithelp.ithome.com.tw/articles/10366511)
+* `#61` [利用 checkbox/ radio 與 CSS grid，做到純 CSS FAQ 開合選單（Collapse 折疊 / Accordion 手風琴效果）](https://im1010ioio.hashnode.dev/css-collapse-accordion-animation)
     
 
 ---
 
 ### 互動 - scroll 行為
 
-* `#62` [使用 CSS overflow 自訂捲動範圍](https://ithelp.ithome.com.tw/articles/10366737)
+* `#62` [使用 CSS overflow 自訂捲動範圍](https://im1010ioio.hashnode.dev/css-overflow)
     
-* `#63` [CSS 自訂捲軸顏色與樣式：scrollbar-color、scrollbar-width、scrollbar-gutter、::-webkit-scrollbar-\*](https://ithelp.ithome.com.tw/articles/10367127)
+* `#63` [CSS 自訂捲軸顏色與樣式：scrollbar-color、scrollbar-width、scrollbar-gutter、::-webkit-scrollbar-\*](https://im1010ioio.hashnode.dev/css-custom-scrollbar)
     
-* `#64` [CSS 捲動提示陰影：使用 CSS 漸層 radial-gradient 與 isolation 製作](https://ithelp.ithome.com.tw/articles/10367504)
+* `#64` [CSS 捲動提示陰影：使用 CSS 漸層 radial-gradient 與 isolation 製作](https://im1010ioio.hashnode.dev/css-scrolling-shadows)
     
-* `#65` [CSS 簡易的滑順捲軸滾動動畫 scroll-behavior](https://ithelp.ithome.com.tw/articles/10381498)
+* `#65` [CSS 簡易的滑順捲軸滾動動畫 scroll-behavior](https://im1010ioio.hashnode.dev/css-scroll-behavior)
     
-* `#66` [CSS :target / ::target-text —— 在滾動時，強調 hash 連結的目標](https://ithelp.ithome.com.tw/articles/10382268)
+* `#66` [CSS :target / ::target-text —— 在滾動時，強調 hash 連結的目標](https://im1010ioio.hashnode.dev/css-pseudo-target-and-target-text)
     
-* `#67` [CSS :target 應用：純 CSS 光箱、純 CSS Tab 頁籤](https://ithelp.ithome.com.tw/articles/10382968)
+* `#67` [CSS :target 應用：純 CSS 光箱、純 CSS Tab 頁籤](https://im1010ioio.hashnode.dev/css-pseudo-target-lightbox-tab)
     
-* `#68` [CSS overscroll-behavior：解決滾動穿透問題 & 阻止手機瀏覽器下拉重整](https://ithelp.ithome.com.tw/articles/10383491)
+* `#68` [CSS overscroll-behavior：解決滾動穿透問題 & 阻止手機瀏覽器下拉重整](https://im1010ioio.hashnode.dev/css-overscroll-behavior)
     
-* `#69` [CSS scroll snap 做簡單的純 CSS 輪播](https://ithelp.ithome.com.tw/articles/10383862)
+* `#69` [CSS scroll snap 做簡單的純 CSS 輪播](https://im1010ioio.hashnode.dev/css-scroll-snap)
     
-* `#70` [純 CSS 也能做滾動動畫了！animation-timeline 讓東西邊滾邊動](https://ithelp.ithome.com.tw/articles/10385066)
+* `#70` [純 CSS 也能做滾動動畫了！animation-timeline 讓東西邊滾邊動](https://im1010ioio.hashnode.dev/css-animation-timeline)
     
 
 ---
