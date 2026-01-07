@@ -102,103 +102,103 @@ tags: css3, css, html, html5
 
 ### 響應式 RWD
 
-* `#24` [RWD & CSS Media Queries & iOS Safari 上的經驗談](https://ithelp.ithome.com.tw/articles/10337429)
+* `#24` [RWD & CSS Media Queries & iOS Safari 上的經驗談](https://im1010ioio.hashnode.dev/css-media-queries)
     
-* `#25` [CSS 列印的小技巧：@media print、break-before/after/inside、@page](https://ithelp.ithome.com.tw/articles/10337976)
+* `#25` [CSS 列印的小技巧：@media print、break-before/after/inside、@page](https://im1010ioio.hashnode.dev/css-media-print)
     
-* `#26` [CSS Container Queries 容器查詢：讓 CSS 的計算以容器自身為依據](https://ithelp.ithome.com.tw/articles/10338897)
+* `#26` [CSS Container Queries 容器查詢：讓 CSS 的計算以容器自身為依據](https://im1010ioio.hashnode.dev/css-container-queries)
     
 
 ---
 
 ### 文字
 
-* `#27` [網頁載入字體、Icon Font 與 CSS font-family、font-weight](https://ithelp.ithome.com.tw/articles/10339314)
+* `#27` [網頁載入字體、Icon Font 與 CSS font-family、font-weight](https://im1010ioio.hashnode.dev/css-font-family-font-weight)
     
-* `#28` [CSS 文字過長、行數過多顯示點點點、文字自動折行、強制換行：white-space、word-break、-webkit-line-clamp 的妙用](https://ithelp.ithome.com.tw/articles/10339693)
+* `#28` [CSS 文字過長、行數過多顯示點點點、文字自動折行、強制換行：white-space、word-break、-webkit-line-clamp 的妙用](https://im1010ioio.hashnode.dev/css-white-space-word-breakline-clamp)
     
-* `#29` [CSS 立體字、霓虹字、外框字、漸層字：text-shadow、-webkit-text-stroke、-webkit-background-clip](https://ithelp.ithome.com.tw/articles/10339998)
+* `#29` [CSS 立體字、霓虹字、外框字、漸層字：text-shadow、-webkit-text-stroke、-webkit-background-clip](https://im1010ioio.hashnode.dev/css-text-effect)
     
-* `#75` [用 CSS 解決網頁的「標題不平衡」與「孤字不成行」： text-wrap: balance / pretty](https://ithelp.ithome.com.tw/articles/10388750)
+* `#75` 用 CSS 解決網頁的「標題不平衡」與「孤字不成行」： text-wrap: balance / pretty
     
-* `#76` [用 CSS 解決文字上下多出來的神秘空間：text-box-trim / text-box-edge](https://ithelp.ithome.com.tw/articles/10389141)
+* `#76` 用 CSS 解決文字上下多出來的神秘空間：text-box-trim / text-box-edge
     
 
 ---
 
 ### 顏色
 
-* `#31` [CSS 顏色設定：基本的 hex、rgb()、cmyk()、hsl()、hsb() 、hwb() 與明日之星的 lch()、oklch()](https://ithelp.ithome.com.tw/articles/10340417)
+* `#31` [CSS 顏色設定：基本的 hex、rgb()、cmyk()、hsl()、hsb() 、hwb() 與明日之星的 lch()、oklch()](https://im1010ioio.hashnode.dev/css-colors-hex-rgb-hsl-lch-oklch)
     
-* `#32` [CSS currentcolor、accent-color 與混色的 color-mix() 讓規劃色彩系統好方便！](https://ithelp.ithome.com.tw/articles/10340648)
+* `#32` [CSS currentcolor、accent-color 與混色的 color-mix() 讓規劃色彩系統好方便！](https://im1010ioio.hashnode.dev/css-currentcolor-accent-color-color-mix)
     
-* `#33` [CSS 切換淺色/深色模式：Media Queries 的 prefers-color-scheme 搭配 CSS 變數](https://ithelp.ithome.com.tw/articles/10340843)
+* `#33` [CSS 切換淺色/深色模式：Media Queries 的 prefers-color-scheme 搭配 CSS 變數](https://im1010ioio.hashnode.dev/css-prefers-color-scheme)
     
-* `#77` [實作網頁深色模式及淺色模式必備的 CSS 語法：color-scheme 與 light-dark()](https://ithelp.ithome.com.tw/articles/10389375)
+* `#77` 實作網頁深色模式及淺色模式必備的 CSS 語法：color-scheme 與 light-dark()
     
 
 ---
 
 ### 多媒體：圖片/影片/音訊處理
 
-* `#34` [CSS 讓圖片填滿容器的各種方法，以圓形大頭貼為例：object-fit 與 background-size，搭配 aspect-ratio](https://ithelp.ithome.com.tw/articles/10341211)
+* `#34` [CSS 讓圖片填滿容器的各種方法，以圓形大頭貼為例：object-fit 與 background-size，搭配 aspect-ratio](https://im1010ioio.hashnode.dev/css-object-fit-background-size-aspect-ratio)
     
-* `#35` [圖片的 1x, 2x, 3x 是什麼？關於網頁上圖片解析度的處理：HTML srcset、CSS image-set() 與 @media resolution](https://ithelp.ithome.com.tw/articles/10341282)
+* `#35` [圖片的 1x, 2x, 3x 是什麼？關於網頁上圖片解析度的處理：HTML srcset、CSS image-set() 與 @media resolution](https://im1010ioio.hashnode.dev/image-1x-2x-3x-srcset-resolution)
     
-* `#36` [HTML 用影片當背景，使用 iframe 嵌入 Youtube/ IG/ TikTok/ X (Twitter) 影片](https://ithelp.ithome.com.tw/articles/10351751)
+* `#36` [HTML 用影片當背景，使用 iframe 嵌入 Youtube/ IG/ TikTok/ X (Twitter) 影片](https://im1010ioio.hashnode.dev/36-html-video-youtube-iframe)
     
 
 ---
 
 ### 繪製漸層與圖形
 
-* `#37` [CSS 基本漸層：線性/放射/圓錐漸層 (CSS linear-gradient, radial-gradient, conic-gradient)](https://ithelp.ithome.com.tw/articles/10352603)
+* `#37` [CSS 基本漸層：線性/放射/圓錐漸層 (CSS linear-gradient, radial-gradient, conic-gradient)](https://im1010ioio.hashnode.dev/css-gradient)
     
-* `#38` [CSS background 組合技：多重背景、背景位置、簡易視差滾動 (iOS 不支援)](https://ithelp.ithome.com.tw/articles/10353981)
+* `#38` [CSS background 組合技：多重背景、背景位置、簡易視差滾動 (iOS 不支援)](https://im1010ioio.hashnode.dev/multiple-backgrounds)
     
-* `#39` [CSS 幾何背景：條紋、格子、點點、棋盤格子背景 (CSS background)](https://ithelp.ithome.com.tw/articles/10354663)
+* `#39` [CSS 幾何背景：條紋、格子、點點、棋盤格子背景 (CSS background)](https://im1010ioio.hashnode.dev/css-stripes-plaid-polka-checkerboard-background)
     
-* `#40` [使用 CSS filter blur 製作簡易的任意形狀漸層 (流動/暈染背景)](https://ithelp.ithome.com.tw/articles/10354969)
+* `#40` [使用 CSS filter blur 製作簡易的任意形狀漸層 (流動/暈染背景)](https://im1010ioio.hashnode.dev/css-fluid-gradient)
     
-* `#41` [用 CSS border-radius 畫圓角與圓圓的形狀：圓、圓柱、橢圓、蛋型、鐘型、葉子 (眼睛)、花瓣 (水滴/心形)、牛角 (彎月)](https://ithelp.ithome.com.tw/articles/10355487)
+* `#41` [用 CSS border-radius 畫圓角與圓圓的形狀：圓、圓柱、橢圓、蛋型、鐘型、葉子 (眼睛)、花瓣 (水滴/心形)、牛角 (彎月)](https://im1010ioio.hashnode.dev/css-border-radius)
     
-* `#42` [用 CSS border 繪製三角形箭頭 (等腰/直角三角形)](https://ithelp.ithome.com.tw/articles/10356527)
+* `#42` [用 CSS border 繪製三角形箭頭 (等腰/直角三角形)](https://im1010ioio.hashnode.dev/css-border-triangle)
     
-* `#43` [用 CSS clip-path 剪裁各種形狀的色塊/圖片/影片](https://ithelp.ithome.com.tw/articles/10357238)
+* `#43` [用 CSS clip-path 剪裁各種形狀的色塊/圖片/影片](https://im1010ioio.hashnode.dev/css-clip-path)
     
-* `#44` [CSS 邊框 border 與各種花式邊框的小技巧：borde-image、outline、box-shadow](https://ithelp.ithome.com.tw/articles/10357893)
+* `#44` [CSS 邊框 border 與各種花式邊框的小技巧：borde-image、outline、box-shadow](https://im1010ioio.hashnode.dev/css-border-style)
     
-* `#81` [CSS 可以寫三角函數？sin()、cos()、tan() 專門處理圓弧、波浪或是特殊角度](https://ithelp.ithome.com.tw/articles/10392511)
+* `#81` CSS 可以寫三角函數？sin()、cos()、tan() 專門處理圓弧、波浪或是特殊角度
     
 
 ---
 
 ### 特效
 
-* `#45` [CSS 中的半透明遮罩 mask，實現各種模糊邊緣特效](https://ithelp.ithome.com.tw/articles/10358457)
+* `#45` [CSS 中的半透明遮罩 mask，實現各種模糊邊緣特效](https://im1010ioio.hashnode.dev/css-mask)
     
-* `#46` [CSS 濾鏡 filter/ backdrop-filter：模糊、透明圖片加陰影、調色、毛玻璃、漸進式模糊效果](https://ithelp.ithome.com.tw/articles/10359068)
+* `#46` [CSS 濾鏡 filter/ backdrop-filter：模糊、透明圖片加陰影、調色、毛玻璃、漸進式模糊效果](https://im1010ioio.hashnode.dev/css-filter-backdrop-filter)
     
-* `#47` [一次搞懂 CSS 各種混合模式：mix-blend-mode/ background-blend-mode](https://ithelp.ithome.com.tw/articles/10359628)
+* `#47` [一次搞懂 CSS 各種混合模式：mix-blend-mode/ background-blend-mode](https://im1010ioio.hashnode.dev/css-mix-blend-mode)
     
-* `#48` [CSS 噪點漸層 (Grainy Gradients) 的製作方法](https://ithelp.ithome.com.tw/articles/10360206) (todo)
+* `#48` [CSS 噪點漸層 (Grainy Gradients) 的製作方法](https://im1010ioio.hashnode.dev/css-grainy-gradients) (todo)
     
-* `#49` [CSS 2D Transform：變大、變小、旋轉、傾斜，CSS 絕對定位置中方法、平行四邊形](https://ithelp.ithome.com.tw/articles/10360767)
+* `#49` [CSS 2D Transform：變大、變小、旋轉、傾斜，CSS 絕對定位置中方法、平行四邊形](https://im1010ioio.hashnode.dev/css-2d-transform)
     
-* `#50` [CSS 3D Transform](https://ithelp.ithome.com.tw/articles/10361328)
+* `#50` [CSS 3D Transform](https://im1010ioio.hashnode.dev/css-3d-transform)
     
-* `#78` [CSS + SVG 仿 Apple iOS26 液態玻璃（Liquid Glass）效果 (Safari 不支援)](https://ithelp.ithome.com.tw/articles/10391007)
+* `#78` CSS + SVG 仿 Apple iOS26 液態玻璃（Liquid Glass）效果 (Safari 不支援)
     
 
 ---
 
 ### 互動 - Transition
 
-* `#51` [CSS Transition 與一些小技巧：倒帶、影響相鄰的兄弟](https://ithelp.ithome.com.tw/articles/10361708) (todo hover 巢狀冒泡效果)
+* `#51` [CSS Transition 與一些小技巧：倒帶、影響相鄰的兄弟](https://im1010ioio.hashnode.dev/css-transition) (todo hover 巢狀冒泡效果)
     
-* `#52` [詳細了解 CSS 各種偽類：hover、focus、active、focus-within、focus-visible、target](https://ithelp.ithome.com.tw/articles/10362486)
+* `#52` [詳細了解 CSS 各種偽類：hover、focus、active、focus-within、focus-visible、target](https://im1010ioio.hashnode.dev/css-pseudo-classes)
     
-* `#80` [Display: none 也可以做 CSS Transition 動畫了？@starting-style 與 transition-behavior: allow-discrete](https://ithelp.ithome.com.tw/articles/10392060)
+* `#80` Display: none 也可以做 CSS Transition 動畫了？@starting-style 與 transition-behavior: allow-discrete
     
 
 ---
