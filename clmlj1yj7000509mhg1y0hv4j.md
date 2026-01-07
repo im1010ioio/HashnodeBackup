@@ -34,58 +34,58 @@ tags: css3, css, html, html5
 
 ### 基礎知識 / 共用觀念
 
-* `#01` [網頁的基本名詞：UI/UX？切版&切圖？前端&後端？靜態&動態？RWD or Mobile First？](https://ithelp.ithome.com.tw/articles/10320343)
+* `#01` [網頁的基本名詞：UI/UX？切版&切圖？前端&後端？靜態&動態？RWD or Mobile First？](https://im1010ioio.hashnode.dev/glossary-of-web-development)
     
-* `#02` [關於各家瀏覽器，前端必備的小知識：支援度、市佔率、CSS 實驗語法 -webkit-, -moz-... PostCSS Autoprefixer](https://ithelp.ithome.com.tw/articles/10321286)
+* `#02` [關於各家瀏覽器，前端必備的小知識：支援度、市佔率、CSS 實驗語法 -webkit-, -moz-... PostCSS Autoprefixer](https://im1010ioio.hashnode.dev/about-browsers)
     
-* `#03` [人在江湖，版控要有：了解 GIT / GitHub / GitLab / Git Flow](https://ithelp.ithome.com.tw/articles/10322228)
+* `#03` [人在江湖，版控要有：了解 GIT / GitHub / GitLab / Git Flow](https://im1010ioio.hashnode.dev/git-github-gitlab-git-flow)
     
-* `#04` [GIT 實戰練習：GitHub Desktop、GitHub Page 基礎教學](https://ithelp.ithome.com.tw/articles/10323142)
+* `#04` [GIT 實戰練習：GitHub Desktop、GitHub Page 基礎教學](https://im1010ioio.hashnode.dev/git-github-gitpage-practice)
     
-* `#05` [HTML 基礎語法](https://ithelp.ithome.com.tw/articles/10323906)
+* `#05` [HTML 基礎語法](https://im1010ioio.hashnode.dev/html-basics)
     
-* `#06` [寫一份簡單的 HTML，常用 HTML Tag 總整理](https://ithelp.ithome.com.tw/articles/10324123)
+* `#06` [寫一份簡單的 HTML，常用 HTML Tag 總整理](https://im1010ioio.hashnode.dev/html-strugtrue)
     
-* `#06補充` [網頁的根、絕對路徑、相對路徑，那些關於路徑的小知識](https://ithelp.ithome.com.tw/articles/10324963)
+* `#06補充` [網頁的根、絕對路徑、相對路徑，那些關於路徑的小知識](https://im1010ioio.hashnode.dev/html-file-paths)
     
-* `#07` [CSS 基本語法 & 權重介紹](https://ithelp.ithome.com.tw/articles/10325760)
+* `#07` [CSS 基本語法 & 權重介紹](https://im1010ioio.hashnode.dev/css-basics)
     
-* `#08` [CSS 選擇器總整理！id、class、:nth-child(n)、:not、:where、:is、:has 都難不倒我](https://ithelp.ithome.com.tw/articles/10326365)
+* `#08` [CSS 選擇器總整理！id、class、:nth-child(n)、:not、:where、:is、:has 都難不倒我](https://im1010ioio.hashnode.dev/css-selectors)
     
-* `#09` [原生的 CSS 變數，基本與進階應用](https://ithelp.ithome.com.tw/articles/10327133)
+* `#09` [原生的 CSS 變數，基本與進階應用](https://im1010ioio.hashnode.dev/css-variables)
     
-* `#10` [原生的 CSS 巢狀 (CSS Nesting) 終於支援啦！](https://ithelp.ithome.com.tw/articles/10328353)
+* `#10` [原生的 CSS 巢狀 (CSS Nesting) 終於支援啦！](https://im1010ioio.hashnode.dev/pure-css-nesting)
     
-* `#11` [開始寫 CSS 或程式必須知道的 3 個原則：DRY & KISS & YAGNI](https://ithelp.ithome.com.tw/articles/10329241)
+* `#11` [開始寫 CSS 或程式必須知道的 3 個原則：DRY & KISS & YAGNI](https://im1010ioio.hashnode.dev/css-dry-kiss-yagni)
     
-* `#12` [4 個常見的 CSS 設計方法與命名建議：OOCSS、SMACSS、BEM、RSCSS](https://ithelp.ithome.com.tw/articles/10329975)
+* `#12` [4 個常見的 CSS 設計方法與命名建議：OOCSS、SMACSS、BEM、RSCSS](https://im1010ioio.hashnode.dev/oocss-smacss-bem-rscss)
     
-* `#71` [CSS 偽元素的妙用：「::before」 與「::after」的常見用法](https://ithelp.ithome.com.tw/articles/10385914)
+* `#71` CSS 偽元素的妙用：「::before」 與「::after」的常見用法
     
-* `#72` [CSS 偽元素的進階用法：用 ::before 與 ::after 做 RWD 表格 & 客製化樣式的序號清單 (ol, oder list)](https://ithelp.ithome.com.tw/articles/10386691)
+* `#72` CSS 偽元素的進階用法：用 ::before 與 ::after 做 RWD 表格 & 客製化樣式的序號清單 (ol, oder list)
     
-* `#73` [CSS :nth-child 的新寫法：:nth-child of S (N of Selector)](https://ithelp.ithome.com.tw/articles/10387330)
+* `#73` CSS :nth-child 的新寫法：:nth-child of S (N of Selector)
     
-* `#74` [CSS 也能控制作用域了！@scope 語法](https://ithelp.ithome.com.tw/articles/10387994)
+* `#74` CSS 也能控制作用域了！@scope 語法
     
 
 ---
 
 ### 版面編排
 
-* `#13` [CSS 盒子模型 (Box Model)：border-box & content-box](https://ithelp.ithome.com.tw/articles/10330509)
+* `#13` [CSS 盒子模型 (Box Model)：border-box & content-box](https://im1010ioio.hashnode.dev/css-box-model)
     
-* `#14` [Reset CSS！用 Reset.css 或 Normalize.css 變回你該有的樣子](https://ithelp.ithome.com.tw/articles/10331400)
+* `#14` [Reset CSS！用 Reset.css 或 Normalize.css 變回你該有的樣子](https://im1010ioio.hashnode.dev/reset-css)
     
-* `#15` [網頁使用的單位大解析：px、rem、em、%、vw、vh (dvh, lvh, svh)、vmin、vmax](https://ithelp.ithome.com.tw/articles/10332412)
+* `#15` [網頁使用的單位大解析：px、rem、em、%、vw、vh (dvh, lvh, svh)、vmin、vmax](https://im1010ioio.hashnode.dev/css-units)
     
-* `#16` [CSS 數學函式 calc()、max()、min()、clamp()](https://ithelp.ithome.com.tw/articles/10332720)
+* `#16` [CSS 數學函式 calc()、max()、min()、clamp()](https://im1010ioio.hashnode.dev/css-calc-max-min-clamp)
     
-* `#17` [CSS block、inline、inline-block：網頁排版的御三家](https://ithelp.ithome.com.tw/articles/10333384)
+* `#17` [CSS block、inline、inline-block：網頁排版的御三家](https://im1010ioio.hashnode.dev/css-block-inline-inline-block)
     
-* `#18` [CSS Flex：網頁排版的超級寵兒](https://ithelp.ithome.com.tw/articles/10334051)
+* `#18` [CSS Flex：網頁排版的超級寵兒](https://im1010ioio.hashnode.dev/css-flex)
     
-* `#19` [CSS Grid：網頁排版的神奇格子，來排個照片牆與雞腿便當吧！](https://ithelp.ithome.com.tw/articles/10334918)
+* `#19` CSS Grid：網頁排版的神奇格子，來排個照片牆與雞腿便當吧！
     
 * `#20` [CSS 內部尺寸 (Intrinsic Sizing)：min-content、max-content、fit-content](https://ithelp.ithome.com.tw/articles/10335284)
     
