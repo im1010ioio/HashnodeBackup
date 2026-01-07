@@ -281,20 +281,26 @@ tags: css3, css, html, html5
 
 ### CSS 框架初探
 
-* `#??` 原子設計 - 大多數框架所遵循的原則
+* `#94` 原子設計 - 大多數框架所遵循的原則
     
-* `#??` Tailwind CSS
+* `#95` Tailwind CSS
     
-* `#??` Bootstrap
+* `#96` Bootstrap
     
-* `#??` 其他介紹（shadcn/Ant Design/Materialize CSS/Bulma/Open Props/UnoCSS/Foundation)
+* `#97` 其他介紹（shadcn/Ant Design/Materialize CSS/Bulma/Open Props/UnoCSS/Foundation)
     
 
 ---
 
 ### SEO 與其他實用工具
 
-* `#??` SEO 基本概念：語意化標籤、Open Graph、結構化資料
+* `#98` SEO 基本概念-1：語意化標籤
+    
+* `#99` SEO 基本概念-2：Open Graph、結構化資料
+    
+* `#100` SEO 工具介紹
+    
+* `#101` SEO 寫作心法
     
 
 ---
@@ -303,7 +309,7 @@ tags: css3, css, html, html5
 
 * `2023 鐵人賽開始：#00` 參賽前言 / 文章目錄（本篇）
     
-* `2023 鐵人賽結束：#30` [iT 鐵人賽心路歷程 & 我的寫作方法](https://ithelp.ithome.com.tw/articles/10340173)
+* `2023 鐵人賽結束：#30` [iT 鐵人賽心路歷程 & 我的寫作方法](https://im1010ioio.hashnode.dev/thoughts-about-30-days)
     
 * `2024 鐵人賽開始：#00` [PART 2！參賽前言 / 文章目錄](https://ithelp.ithome.com.tw/articles/10350686)
     
