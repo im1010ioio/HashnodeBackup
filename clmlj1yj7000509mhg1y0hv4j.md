@@ -9,10 +9,6 @@ tags: css3, css, html, html5
 
 ---
 
-![Super Easy CSS](https://cdn.hashnode.com/res/hashnode/image/upload/v1764752687330/d9993fd8-3b1f-4f8c-9474-8e0bf44cb246.png align="left")
-
----
-
 ## 文章目錄
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1683705560504/15822e35-b6be-4cbc-b2e7-b7b5f55a8555.png align="left")
@@ -256,9 +252,9 @@ tags: css3, css, html, html5
 
 ### Sass/SCSS (CSS 預處理器)
 
-* `#82` [SASS/SCSS (1) 介紹與簡易環境設定](https://ithelp.ithome.com.tw/articles/10393115)
+* `#82` [SASS/SCSS (1) 介紹與簡易環境設定](https://im1010ioio.hashnode.dev/scss-intro)
     
-* `#83` [SASS/SCSS (2) 變數 Variables / 巢狀寫法 Nesting](https://ithelp.ithome.com.tw/articles/10393252)
+* `#83` SASS/SCSS (2) 變數 Variables / 巢狀寫法 Nesting
     
 * `#84` [SASS/SCSS (3) 使用檔案管理樣式 Partials / Modules (@use / @import / !default)](https://ithelp.ithome.com.tw/articles/10393715)
     
