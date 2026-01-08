@@ -340,7 +340,7 @@ tags: css3, css, html, html5
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1683705571380/284e9ba0-04c8-43bd-a093-784c330bd862.png align="left")
 
-## 參賽前言
+## 2023 年當初寫的參賽前言
 
 本系列文章目標是學習 CSS 基本知識，並且研究 The State of CSS 中值得令人期待新屬性，讓想要學習 CSS 的人也能一起學到新知識，不用再零零散散地去爬文搜尋。此外，還會提及一些前端基本知識、版本控制、開發經驗等必要概念，讓新手對於前端開發有全面的認識。
 
