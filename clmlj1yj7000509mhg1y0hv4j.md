@@ -9,10 +9,6 @@ tags: css3, css, html, html5
 
 ---
 
-## 文章目錄
-
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1683705560504/15822e35-b6be-4cbc-b2e7-b7b5f55a8555.png align="left")
-
 **超級簡單寫 CSS（Super Easy CSS）**是一系列 CSS 與網頁前端相關知識的教學文章，寫於 2023 - 2025 年的 iThome 鐵人賽。
 
 本系列文章目標是：
@@ -41,6 +37,10 @@ tags: css3, css, html, html5
     
 
 ---
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1683705560504/15822e35-b6be-4cbc-b2e7-b7b5f55a8555.png align="left")
+
+## 文章目錄
 
 ### 基礎知識 / 共用觀念
 
