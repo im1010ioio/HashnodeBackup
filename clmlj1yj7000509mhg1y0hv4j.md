@@ -1,5 +1,5 @@
 ---
-title: "#00 文章目錄 / 參賽前言 | Super Easy CSS"
+title: "#00 文章目錄 | 超級簡單寫 CSS (Super Easy CSS)"
 datePublished: Sat Sep 16 2023 04:27:31 GMT+0000 (Coordinated Universal Time)
 cuid: clmlj1yj7000509mhg1y0hv4j
 slug: super-easy-css-contents
@@ -13,7 +13,21 @@ tags: css3, css, html, html5
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1683705560504/15822e35-b6be-4cbc-b2e7-b7b5f55a8555.png align="left")
 
-（持續更新中）
+**超級簡單寫 CSS（Super Easy CSS）**是一系列 CSS 與網頁前端相關知識的教學文章，寫於 2023 - 2025 年的 iThome 鐵人賽。
+
+本系列文章目標是：
+
+* 學習 CSS 基本知識
+    
+* 並且研究 CSS 中酷炫又令人期待新屬性
+    
+
+讓想要學習 CSS 的人也能一起學到新知識，不用再零零散散地去爬文搜尋。此外，還有提及一些前端基本知識、版本控制、開發經驗、CSS 預處理器 SASS/SCSS 與了解各大 CSS 框架，甚至進一步到 SEO 基本觀念，讓新手對於網頁前端開發有初步更全面的認識。
+
+與其他教學文章不同之處是：這系列文章大部分著重於**圖解說明**、**實務經驗**與 **DEMO 實作**，因為我知道資訊領域許多概念非常抽象，如果能用比喻或圖解，可以讓這些知識更容易理解；而實務經驗與 DEMO 實作則才能讓技術落地，讓學習的人清楚自己學習與使用語法的方向。
+
+有幾篇因為寫作的當時生病了，所以內容不夠完整，這個之後會慢慢補齊。  
+另外，剩下幾篇就要完結了，正在持續更新中。
 
 ---
 
