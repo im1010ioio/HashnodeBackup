@@ -9,7 +9,7 @@ tags: css3, css, html, html5
 
 ---
 
-**超級簡單寫 CSS（Super Easy CSS）**是一系列 CSS 與網頁前端相關知識的教學文章，寫於 2023 - 2025 年的 iThome 鐵人賽。
+**超級簡單寫 CSS（Super Easy CSS）** 是一系列 CSS 與網頁前端相關知識的教學文章，寫於 2023 - 2025 年的 iThome 鐵人賽。
 
 本系列文章目標是：
 
